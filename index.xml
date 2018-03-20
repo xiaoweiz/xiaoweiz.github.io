@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaowei Zhang on Xiaowei Zhang</title>
-    <link>xiaoweiz.github.io/</link>
+    <link>https://xiaoweiz.github.io/</link>
     <description>Recent content in Xiaowei Zhang on Xiaowei Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="xiaoweiz.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Knowledge Gradient for Robust Selection of the Best</title>
-      <link>xiaoweiz.github.io/publication/robustkg/</link>
+      <link>https://xiaoweiz.github.io/publication/robustkg/</link>
       <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/robustkg/</guid>
+      <guid>https://xiaoweiz.github.io/publication/robustkg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuation Scaling in Large Service Systems: Statistics, Stochastics, and Simulation</title>
-      <link>xiaoweiz.github.io/talk/thu-sem_18/</link>
+      <link>https://xiaoweiz.github.io/talk/thu-sem_18/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/talk/thu-sem_18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/thu-sem_18/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>xiaoweiz.github.io/talk/thu-ie_18/</link>
+      <link>https://xiaoweiz.github.io/talk/thu-ie_18/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/talk/thu-ie_18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/thu-ie_18/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
-      <link>xiaoweiz.github.io/publication/rs-c/</link>
+      <link>https://xiaoweiz.github.io/publication/rs-c/</link>
       <pubDate>Mon, 19 Mar 2018 18:06:44 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/rs-c/</guid>
+      <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affine Processes</title>
-      <link>xiaoweiz.github.io/project/affine/</link>
+      <link>https://xiaoweiz.github.io/project/affine/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/affine/</guid>
+      <guid>https://xiaoweiz.github.io/project/affine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arrival Modeling</title>
-      <link>xiaoweiz.github.io/project/arrival/</link>
+      <link>https://xiaoweiz.github.io/project/arrival/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/arrival/</guid>
+      <guid>https://xiaoweiz.github.io/project/arrival/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranking and Selection</title>
-      <link>xiaoweiz.github.io/project/ranking-selection/</link>
+      <link>https://xiaoweiz.github.io/project/ranking-selection/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/ranking-selection/</guid>
+      <guid>https://xiaoweiz.github.io/project/ranking-selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare Event Simulation</title>
-      <link>xiaoweiz.github.io/project/rare-event/</link>
+      <link>https://xiaoweiz.github.io/project/rare-event/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/rare-event/</guid>
+      <guid>https://xiaoweiz.github.io/project/rare-event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poisson Autoregressive Models for Arrival Data</title>
-      <link>xiaoweiz.github.io/publication/par/</link>
+      <link>https://xiaoweiz.github.io/publication/par/</link>
       <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/par/</guid>
+      <guid>https://xiaoweiz.github.io/publication/par/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>xiaoweiz.github.io/publication/scalablesk/</link>
+      <link>https://xiaoweiz.github.io/publication/scalablesk/</link>
       <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/scalablesk/</guid>
+      <guid>https://xiaoweiz.github.io/publication/scalablesk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>xiaoweiz.github.io/publication/ajd/</link>
+      <link>https://xiaoweiz.github.io/publication/ajd/</link>
       <pubDate>Fri, 09 Feb 2018 17:48:04 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/ajd/</guid>
+      <guid>https://xiaoweiz.github.io/publication/ajd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Kriging for Inadequate Simulation Models</title>
-      <link>xiaoweiz.github.io/publication/sk-i/</link>
+      <link>https://xiaoweiz.github.io/publication/sk-i/</link>
       <pubDate>Fri, 09 Feb 2018 17:48:04 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/sk-i/</guid>
+      <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
-      <link>xiaoweiz.github.io/publication/sesk/</link>
+      <link>https://xiaoweiz.github.io/publication/sesk/</link>
       <pubDate>Wed, 20 Dec 2017 18:06:44 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/sesk/</guid>
+      <guid>https://xiaoweiz.github.io/publication/sesk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Gaussian Processes with Markovian Covariances</title>
-      <link>xiaoweiz.github.io/talk/stanford_17/</link>
+      <link>https://xiaoweiz.github.io/talk/stanford_17/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/talk/stanford_17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/stanford_17/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Ranking and Selection with Covariates</title>
-      <link>xiaoweiz.github.io/publication/rs-c_wsc/</link>
+      <link>https://xiaoweiz.github.io/publication/rs-c_wsc/</link>
       <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
       
-      <guid>xiaoweiz.github.io/publication/rs-c_wsc/</guid>
+      <guid>https://xiaoweiz.github.io/publication/rs-c_wsc/</guid>
       <description></description>
     </item>
     

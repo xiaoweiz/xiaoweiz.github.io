@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Xiaowei Zhang</title>
-    <link>xiaoweiz.github.io/project/</link>
+    <link>https://xiaoweiz.github.io/project/</link>
     <description>Recent content in Projects on Xiaowei Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="xiaoweiz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaoweiz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Affine Processes</title>
-      <link>xiaoweiz.github.io/project/affine/</link>
+      <link>https://xiaoweiz.github.io/project/affine/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/affine/</guid>
+      <guid>https://xiaoweiz.github.io/project/affine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arrival Modeling</title>
-      <link>xiaoweiz.github.io/project/arrival/</link>
+      <link>https://xiaoweiz.github.io/project/arrival/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/arrival/</guid>
+      <guid>https://xiaoweiz.github.io/project/arrival/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranking and Selection</title>
-      <link>xiaoweiz.github.io/project/ranking-selection/</link>
+      <link>https://xiaoweiz.github.io/project/ranking-selection/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/ranking-selection/</guid>
+      <guid>https://xiaoweiz.github.io/project/ranking-selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare Event Simulation</title>
-      <link>xiaoweiz.github.io/project/rare-event/</link>
+      <link>https://xiaoweiz.github.io/project/rare-event/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/rare-event/</guid>
+      <guid>https://xiaoweiz.github.io/project/rare-event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation Metamodeling</title>
-      <link>xiaoweiz.github.io/project/stochastic-metamodel/</link>
+      <link>https://xiaoweiz.github.io/project/stochastic-metamodel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>xiaoweiz.github.io/project/stochastic-metamodel/</guid>
+      <guid>https://xiaoweiz.github.io/project/stochastic-metamodel/</guid>
       <description></description>
     </item>
     
