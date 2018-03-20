@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Xiaowei Zhang</title>
+    <link>xiaoweiz.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="xiaoweiz.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fluctuation Scaling in Large Service Systems: Statistics, Stochastics, and Simulation</title>
+      <link>xiaoweiz.github.io/talk/thu-sem_18/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>xiaoweiz.github.io/talk/thu-sem_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
+      <link>xiaoweiz.github.io/talk/thu-ie_18/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>xiaoweiz.github.io/talk/thu-ie_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Gaussian Processes with Markovian Covariances</title>
+      <link>xiaoweiz.github.io/talk/stanford_17/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>xiaoweiz.github.io/talk/stanford_17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
