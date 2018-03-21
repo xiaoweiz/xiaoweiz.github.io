@@ -5,8 +5,26 @@
     
     <url>
     
+      <loc>https://xiaoweiz.github.io/publication/bayesforecast/</loc>
+      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://xiaoweiz.github.io/publication/robustkg/</loc>
       <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://xiaoweiz.github.io/publication/ajd/</loc>
+      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
     </url>
     
   
@@ -86,15 +104,6 @@
     
     <url>
     
-      <loc>https://xiaoweiz.github.io/publication/ajd/</loc>
-      <lastmod>2018-02-09T17:48:04+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://xiaoweiz.github.io/publication/sk-i/</loc>
       <lastmod>2018-02-09T17:48:04+08:00</lastmod>
     </url>
@@ -133,6 +142,24 @@
     
       <loc>https://xiaoweiz.github.io/publication/dr-rs/</loc>
       <lastmod>2017-06-20T18:06:44+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://xiaoweiz.github.io/talk/sju_17/</loc>
+      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://xiaoweiz.github.io/talk/whu_17/</loc>
+      <lastmod>2017-05-20T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -297,7 +324,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/affine-process/</loc>
-      <lastmod>2018-02-09T17:48:04+08:00</lastmod>
+      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -307,7 +334,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/arrival-modeling/</loc>
-      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
+      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -386,7 +413,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/ergodicity/</loc>
-      <lastmod>2018-02-09T17:48:04+08:00</lastmod>
+      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -446,7 +473,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/poisson-process/</loc>
-      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
+      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -516,7 +543,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/</loc>
-      <lastmod>2018-02-09T17:48:04+08:00</lastmod>
+      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
