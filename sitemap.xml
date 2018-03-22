@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</loc>
+      <lastmod>2018-03-21T18:06:44+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://xiaoweiz.github.io/publication/bayesforecast/</loc>
       <lastmod>2018-03-20T18:06:44+08:00</lastmod>
     </url>
@@ -88,6 +97,15 @@
     
       <loc>https://xiaoweiz.github.io/project/rare-event/</loc>
       <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://xiaoweiz.github.io/publication/par/</loc>
+      <lastmod>2018-03-02T18:06:44+08:00</lastmod>
     </url>
     
   
@@ -314,7 +332,17 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2018-03-19T18:06:44+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://xiaoweiz.github.io/publication_types/7/</loc>
+      <lastmod>2018-03-21T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,7 +362,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/arrival-modeling/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2018-03-21T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -344,7 +372,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/bayesian/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2018-03-21T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -473,7 +501,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/poisson-process/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2018-03-21T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     

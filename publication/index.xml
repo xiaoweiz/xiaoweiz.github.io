@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
+      <pubDate>Wed, 21 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forecasting Overdispersed Arrivals via Bayesian Simulation</title>
       <link>https://xiaoweiz.github.io/publication/bayesforecast/</link>
       <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
@@ -45,6 +54,15 @@
       <pubDate>Mon, 19 Mar 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisson Autoregressive Models for Arrival Data</title>
+      <link>https://xiaoweiz.github.io/publication/par/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/par/</guid>
       <description></description>
     </item>
     
