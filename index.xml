@@ -97,10 +97,10 @@
     
     <item>
       <title>Optimization via Sampling</title>
-      <link>https://xiaoweiz.github.io/project/ranking-selection/</link>
+      <link>https://xiaoweiz.github.io/project/rs/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/project/ranking-selection/</guid>
+      <guid>https://xiaoweiz.github.io/project/rs/</guid>
       <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;ldquo;promising&amp;rdquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas. Hyperparameter tuning in machine learning is a modernized example of this paradigm of optimization.&lt;/p&gt;
 </description>
     </item>

@@ -32,10 +32,10 @@
     
     <item>
       <title>Optimization via Sampling</title>
-      <link>https://xiaoweiz.github.io/project/ranking-selection/</link>
+      <link>https://xiaoweiz.github.io/project/rs/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/project/ranking-selection/</guid>
+      <guid>https://xiaoweiz.github.io/project/rs/</guid>
       <description>Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between exploitation, which tends to sample more at &amp;ldquo;promising&amp;rdquo; areas, and exploration, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas.</description>
     </item>
     
@@ -50,10 +50,10 @@
     
     <item>
       <title>Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/project/stochastic-metamodel/</link>
+      <link>https://xiaoweiz.github.io/project/kriging/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/project/stochastic-metamodel/</guid>
+      <guid>https://xiaoweiz.github.io/project/kriging/</guid>
       <description>Simulation models are extensively used in a great variety of areas including health care, finance, manufacturing, logistics, supply chain management, telecommunication, etc. to facilitate related decision making processes. However, simulation models are usually computationally expensive to execute, which severely restricts the usefulness of simulation in settings such as real-time decision making and system optimization. Metamodeling is technique that has been actively developed in the simulation community, in order to alleviate the inefficiency issue.</description>
     </item>
     
