@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covariates on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/covariates/</link>
+    <description>Recent content in Covariates on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 19 Mar 2018 18:06:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/tags/covariates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/rs-c/</link>
+      <pubDate>Mon, 19 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/rs-c_wsc/</link>
+      <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rs-c_wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

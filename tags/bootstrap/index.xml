@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/bootstrap/</link>
+    <description>Recent content in Bootstrap on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 10 Dec 2010 18:06:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Regenerative Bootstrap Approach to Estimating the Initial Transient</title>
+      <link>https://xiaoweiz.github.io/publication/regbootstrap_wsc/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/regbootstrap_wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

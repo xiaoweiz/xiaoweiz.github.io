@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Importance Sampling on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/importance-sampling/</link>
+    <description>Recent content in Importance Sampling on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 09 Feb 2015 17:48:04 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/tags/importance-sampling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Affine Point Processes: Approximation and Efficient Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/affinepointprocess/</link>
+      <pubDate>Mon, 09 Feb 2015 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/affinepointprocess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation for a Generalized Hawkes Process</title>
+      <link>https://xiaoweiz.github.io/publication/hawkes_wsc/</link>
+      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/hawkes_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Suboptimal Rare-event Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/subopt_rareevent_wsc/</link>
+      <pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/subopt_rareevent_wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

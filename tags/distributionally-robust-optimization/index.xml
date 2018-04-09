@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distributionally Robust Optimization on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/distributionally-robust-optimization/</link>
+    <description>Recent content in Distributionally Robust Optimization on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Jun 2017 18:06:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/tags/distributionally-robust-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/dr-rs/</link>
+      <pubDate>Tue, 20 Jun 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/dr-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/dr-rs_wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/dr-rs_wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

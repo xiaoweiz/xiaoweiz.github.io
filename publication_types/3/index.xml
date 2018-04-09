@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 31 Mar 2018 18:06:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/sesk/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sesk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/rs-c/</link>
+      <pubDate>Mon, 19 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publication/scalablesk/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablesk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/sk-i/</link>
+      <pubDate>Fri, 09 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/dr-rs/</link>
+      <pubDate>Tue, 20 Jun 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/dr-rs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

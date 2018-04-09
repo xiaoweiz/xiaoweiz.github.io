@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Common Random Numbers on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/common-random-numbers/</link>
+    <description>Recent content in Common Random Numbers on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 09 Feb 2018 17:48:04 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/tags/common-random-numbers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/sk-i/</link>
+      <pubDate>Fri, 09 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

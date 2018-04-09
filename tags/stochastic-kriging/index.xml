@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic Kriging on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link>
+    <description>Recent content in Stochastic Kriging on Xiaowei Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 31 Mar 2018 18:06:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiaoweiz.github.io/tags/stochastic-kriging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/sesk/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sesk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
+      <pubDate>Wed, 21 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publication/scalablesk/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablesk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/sk-i/</link>
+      <pubDate>Fri, 09 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publication/calistochsimmod_wsc/</link>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/calistochsimmod_wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
