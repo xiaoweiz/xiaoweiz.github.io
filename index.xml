@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
-      <pubDate>Wed, 21 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Forecasting Overdispersed Arrivals via Bayesian Simulation</title>
       <link>https://xiaoweiz.github.io/publication/bayesforecast/</link>
       <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
@@ -149,6 +140,16 @@
       
       <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Gaussian Processes with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/talk/stanford_17/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/stanford_17/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
     </item>
     
   </channel>
