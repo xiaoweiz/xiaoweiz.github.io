@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Stochastic kriging is a popular metamodeling technique to approximate computationally expensive simulation models. However, it typically treats the simulation model as a black box in practice and often fails to capture the highly nonlinear response surfaces that arise from queueing simulations. We propose a simple, effective approach to improve the performance of stochastic kriging by incorporating stylized queueing models which contain useful information about the shape of the response surface. We provide several statistical tools to measure usefulness of the incorporated stylized models. We show that even a relatively crude stylized model can improve the prediction accuracy of stochastic kriging substantially.">
+  <meta name="description" content="Stochastic kriging is a popular technique for simulation metamodeling due to its flexibility and analytical tractability. Its computational bottleneck is the inversion of a covariance matrix, which takes $O(n^3)$ time in general and becomes prohibitive for large $n$, where $n$ is the number of design points. Moreover, the covariance matrix is often ill-conditioned for large $n$, and thus the inversion is prone to numerical instability, resulting in erroneous parameter estimation and prediction. These two numerical issues preclude the use of stochastic kriging at a large scale. This paper presents a novel approach to address them. We construct a class of covariance functions, called Markovian covariance functions (MCFs), which have two properties: (i) the associated covariance matrices  can be inverted analytically, and (ii) the inverse matrices are sparse. With the use of MCFs, the inversion-related computational time is reduced to $O(n^2)$ in general, and can be further reduced by orders of magnitude with additional assumptions on the simulation errors and design points. The analytical invertibility also enhance the numerical stability dramatically. The key  in our approach is that we identify a general functional form of covariance functions that can induce sparsity in the corresponding inverse matrices. We also establish a connection between MCFs and linear ordinary differential equations. Such a connection provides a  flexible, principled approach to constructing a wide class of MCFs. Extensive numerical experiments demonstrate that stochastic kriging with MCFs can handle large-scale problems in an both computationally efficient and numerically stable manner.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/publication/sesk/">
+  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/talk/pku_18/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://xiaoweiz.github.io/publication/sesk/">
+  <link rel="canonical" href="https://xiaoweiz.github.io/talk/pku_18/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Xiaowei Zhang">
-  <meta property="og:url" content="https://xiaoweiz.github.io/publication/sesk/">
-  <meta property="og:title" content="Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models | Xiaowei Zhang">
-  <meta property="og:description" content="Stochastic kriging is a popular metamodeling technique to approximate computationally expensive simulation models. However, it typically treats the simulation model as a black box in practice and often fails to capture the highly nonlinear response surfaces that arise from queueing simulations. We propose a simple, effective approach to improve the performance of stochastic kriging by incorporating stylized queueing models which contain useful information about the shape of the response surface. We provide several statistical tools to measure usefulness of the incorporated stylized models. We show that even a relatively crude stylized model can improve the prediction accuracy of stochastic kriging substantially.">
+  <meta property="og:url" content="https://xiaoweiz.github.io/talk/pku_18/">
+  <meta property="og:title" content="Scalable Stochastic Kriging with Markovian Covariances | Xiaowei Zhang">
+  <meta property="og:description" content="Stochastic kriging is a popular technique for simulation metamodeling due to its flexibility and analytical tractability. Its computational bottleneck is the inversion of a covariance matrix, which takes $O(n^3)$ time in general and becomes prohibitive for large $n$, where $n$ is the number of design points. Moreover, the covariance matrix is often ill-conditioned for large $n$, and thus the inversion is prone to numerical instability, resulting in erroneous parameter estimation and prediction. These two numerical issues preclude the use of stochastic kriging at a large scale. This paper presents a novel approach to address them. We construct a class of covariance functions, called Markovian covariance functions (MCFs), which have two properties: (i) the associated covariance matrices  can be inverted analytically, and (ii) the inverse matrices are sparse. With the use of MCFs, the inversion-related computational time is reduced to $O(n^2)$ in general, and can be further reduced by orders of magnitude with additional assumptions on the simulation errors and design points. The analytical invertibility also enhance the numerical stability dramatically. The key  in our approach is that we identify a general functional form of covariance functions that can induce sparsity in the corresponding inverse matrices. We also establish a connection between MCFs and linear ordinary differential equations. Such a connection provides a  flexible, principled approach to constructing a wide class of MCFs. Extensive numerical experiments demonstrate that stochastic kriging with MCFs can handle large-scale problems in an both computationally efficient and numerically stable manner.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-03-31T18:06:44&#43;08:00">
+  <meta property="article:published_time" content="2018-06-07T00:00:00&#43;08:00">
   
-  <meta property="article:modified_time" content="2018-03-31T18:06:44&#43;08:00">
-  
-
+  <meta property="article:modified_time" content="2018-06-07T00:00:00&#43;08:00">
   
 
-  <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models | Xiaowei Zhang</title>
+  
+
+  <title>Scalable Stochastic Kriging with Markovian Covariances | Xiaowei Zhang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -232,53 +232,53 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
 
 
   <div class="article-container">
-    <h1 itemprop="name">Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</h1>
-    <span class="pub-authors" itemprop="author">
-      
-      Haihui Shen, L. Jeff Hong, Xiaowei Zhang
-      
-    </span>
-    <span class="pull-right">
-      
+
+    <div class="pub-title">
+      <h1 itemprop="name">Scalable Stochastic Kriging with Markovian Covariances</h1>
+      <span class="pub-authors" itemprop="author">
+        
+      </span>
+      <span class="pull-right">
+        
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Enhancing%20Stochastic%20Kriging%20for%20Queueing%20Simulation%20with%20Stylized%20Models&amp;url=https%3a%2f%2fxiaoweiz.github.io%2fpublication%2fsesk%2f"
+         href="https://twitter.com/intent/tweet?text=Scalable%20Stochastic%20Kriging%20with%20Markovian%20Covariances&amp;url=https%3a%2f%2fxiaoweiz.github.io%2ftalk%2fpku_18%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fxiaoweiz.github.io%2fpublication%2fsesk%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fxiaoweiz.github.io%2ftalk%2fpku_18%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fxiaoweiz.github.io%2fpublication%2fsesk%2f&amp;title=Enhancing%20Stochastic%20Kriging%20for%20Queueing%20Simulation%20with%20Stylized%20Models"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fxiaoweiz.github.io%2ftalk%2fpku_18%2f&amp;title=Scalable%20Stochastic%20Kriging%20with%20Markovian%20Covariances"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fxiaoweiz.github.io%2fpublication%2fsesk%2f&amp;title=Enhancing%20Stochastic%20Kriging%20for%20Queueing%20Simulation%20with%20Stylized%20Models"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fxiaoweiz.github.io%2ftalk%2fpku_18%2f&amp;title=Scalable%20Stochastic%20Kriging%20with%20Markovian%20Covariances"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Enhancing%20Stochastic%20Kriging%20for%20Queueing%20Simulation%20with%20Stylized%20Models&amp;body=https%3a%2f%2fxiaoweiz.github.io%2fpublication%2fsesk%2f">
+         href="mailto:?subject=Scalable%20Stochastic%20Kriging%20with%20Markovian%20Covariances&amp;body=https%3a%2f%2fxiaoweiz.github.io%2ftalk%2fpku_18%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -286,47 +286,12 @@
 </div>
 
 
-    </span>
-
-    
-
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Stochastic kriging is a popular metamodeling technique to approximate computationally expensive simulation models. However, it typically treats the simulation model as a black box in practice and often fails to capture the highly nonlinear response surfaces that arise from queueing simulations. We propose a simple, effective approach to improve the performance of stochastic kriging by incorporating stylized queueing models which contain useful information about the shape of the response surface. We provide several statistical tools to measure usefulness of the incorporated stylized models. We show that even a relatively crude stylized model can improve the prediction accuracy of stochastic kriging substantially.</p>
-    
-
-    
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
-          <div class="col-xs-12 col-sm-9">
-            
-            <a href="/publication/#2">
-              Journal article
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
+      </span>
     </div>
-    <div class="visible-xs space-below"></div>
-    
 
     
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">IIE Transactions (forthcoming)</div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
-    </div>
-    <div class="visible-xs space-below"></div>
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Stochastic kriging is a popular technique for simulation metamodeling due to its flexibility and analytical tractability. Its computational bottleneck is the inversion of a covariance matrix, which takes $O(n^3)$ time in general and becomes prohibitive for large $n$, where $n$ is the number of design points. Moreover, the covariance matrix is often ill-conditioned for large $n$, and thus the inversion is prone to numerical instability, resulting in erroneous parameter estimation and prediction. These two numerical issues preclude the use of stochastic kriging at a large scale. This paper presents a novel approach to address them. We construct a class of covariance functions, called Markovian covariance functions (MCFs), which have two properties: (i) the associated covariance matrices  can be inverted analytically, and (ii) the inverse matrices are sparse. With the use of MCFs, the inversion-related computational time is reduced to $O(n^2)$ in general, and can be further reduced by orders of magnitude with additional assumptions on the simulation errors and design points. The analytical invertibility also enhance the numerical stability dramatically. The key  in our approach is that we identify a general functional form of covariance functions that can induce sparsity in the corresponding inverse matrices. We also establish a connection between MCFs and linear ordinary differential equations. Such a connection provides a  flexible, principled approach to constructing a wide class of MCFs. Extensive numerical experiments demonstrate that stochastic kriging with MCFs can handle large-scale problems in an both computationally efficient and numerically stable manner.</p>
     
 
     <div class="row">
@@ -335,7 +300,16 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            March, 2018
+            
+            Jun 13, 2018
+            <div class="talk-time">
+              
+                5:00 PM
+                
+                  &mdash; 5:30 PM
+                
+              
+            </div>
           </div>
         </div>
       </div>
@@ -343,6 +317,37 @@
     </div>
     <div class="visible-xs space-below"></div>
 
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            Workshop on Simulation Analytics: Smart Simulation in Big Data Era, Peking University
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
+          <div class="col-xs-12 col-sm-9">Beijing, China</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
     <div class="row" style="padding-top: 10px">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
@@ -351,14 +356,6 @@
           <div class="col-xs-12 col-sm-9">
 
             
-
-
-
-
-<a class="btn btn-primary btn-outline" href="https://www.tandfonline.com/doi/full/10.1080/24725854.2018.1465242" target="_blank" rel="noopener">
-  PDF
-</a>
-
 
 
 
@@ -373,34 +370,22 @@
 
 
 
-
-
-
-
-
           </div>
         </div>
       </div>
       <div class="col-sm-1"></div>
     </div>
     <div class="visible-xs space-below"></div>
+    
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style">
+      <!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. -->
+
+    </div>
 
     
-
-
-<div class="article-tags">
-  
-  <a class="btn btn-primary btn-outline" href="/tags/stochastic-kriging">Stochastic Kriging</a>
-  
-  <a class="btn btn-primary btn-outline" href="/tags/gaussian-process">Gaussian Process</a>
-  
-</div>
-
-
 
 
   </div>
