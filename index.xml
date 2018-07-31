@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/sk-i/</link>
+      <pubDate>Mon, 30 Jul 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
+      <pubDate>Sun, 29 Jul 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publication/rshc_wsc/</link>
+      <pubDate>Fri, 20 Jul 2018 19:05:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rshc_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/dr-rs/</link>
+      <pubDate>Tue, 10 Jul 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/dr-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scalable Stochastic Kriging with Markovian Covariances</title>
       <link>https://xiaoweiz.github.io/talk/pku_18/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0800</pubDate>
@@ -28,15 +64,6 @@
       <guid>https://xiaoweiz.github.io/talk/qingdao_18/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
-      <pubDate>Sun, 29 Apr 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -96,15 +123,6 @@
     </item>
     
     <item>
-      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/publication/rs-c/</link>
-      <pubDate>Mon, 19 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Affine Processes</title>
       <link>https://xiaoweiz.github.io/project/affine/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
@@ -132,25 +150,6 @@
       <guid>https://xiaoweiz.github.io/project/rs/</guid>
       <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;ldquo;promising&amp;rdquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas. Hyperparameter tuning in machine learning is a modernized example of this paradigm of optimization.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rare Event Analysis</title>
-      <link>https://xiaoweiz.github.io/project/rare-event/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/rare-event/</guid>
-      <description>&lt;p&gt;Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation. But using the plain vanilla MC to estimate small probabilities requires an enormous number of samples due to the fact that the variance of the MC estimator is orders of magnitude larger than its mean. The LD technique can facilitate to develop importance sampling schemes that reduce the variance of the MC estimator dramatically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Poisson Autoregressive Models for Arrival Data</title>
-      <link>https://xiaoweiz.github.io/publication/par/</link>
-      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/par/</guid>
-      <description></description>
     </item>
     
   </channel>

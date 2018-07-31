@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 18:06:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 19:05:59 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaoweiz.github.io/tags/covariates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/publication/rs-c/</link>
-      <pubDate>Mon, 19 Mar 2018 18:06:44 +0800</pubDate>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publication/rshc_wsc/</link>
+      <pubDate>Fri, 20 Jul 2018 19:05:59 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
+      <guid>https://xiaoweiz.github.io/publication/rshc_wsc/</guid>
       <description></description>
     </item>
     
