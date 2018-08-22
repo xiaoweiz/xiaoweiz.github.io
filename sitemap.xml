@@ -6,7 +6,16 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/publication/sk-i/</loc>
-      <lastmod>2018-07-30T17:48:04+08:00</lastmod>
+      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://xiaoweiz.github.io/publication/rs-c/</loc>
+      <lastmod>2018-08-06T18:06:44+08:00</lastmod>
     </url>
     
   
@@ -68,33 +77,6 @@
     
     <url>
     
-      <loc>https://xiaoweiz.github.io/publication/bayesforecast/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/robustkg/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/ajd/</loc>
-      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://xiaoweiz.github.io/talk/thu-sem_18/</loc>
       <lastmod>2018-03-20T00:00:00+08:00</lastmod>
     </url>
@@ -142,15 +124,6 @@
     
       <loc>https://xiaoweiz.github.io/project/rare-event/</loc>
       <lastmod>2018-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/par/</loc>
-      <lastmod>2018-03-02T18:06:44+08:00</lastmod>
     </url>
     
   
@@ -350,17 +323,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-      <lastmod>2018-07-30T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication_types/7/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -370,7 +333,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/affine-process/</loc>
-      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
+      <lastmod>2015-02-09T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,7 +343,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/arrival-modeling/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -390,7 +353,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/bayesian/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2016-12-10T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -429,7 +392,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/common-random-numbers/</loc>
-      <lastmod>2018-07-30T17:48:04+08:00</lastmod>
+      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -439,7 +402,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
-      <lastmod>2018-07-20T19:05:59+08:00</lastmod>
+      <lastmod>2018-08-06T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -458,18 +421,8 @@
     
     <url>
     
-      <loc>https://xiaoweiz.github.io/tags/ergodicity/</loc>
-      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://xiaoweiz.github.io/tags/gaussian-process/</loc>
-      <lastmod>2018-07-30T17:48:04+08:00</lastmod>
+      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -489,7 +442,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2016-12-10T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -509,7 +462,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/model-uncertainty/</loc>
-      <lastmod>2018-07-30T17:48:04+08:00</lastmod>
+      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -519,7 +472,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/poisson-process/</loc>
-      <lastmod>2018-03-20T18:06:44+08:00</lastmod>
+      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -549,7 +502,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
-      <lastmod>2018-07-20T19:05:59+08:00</lastmod>
+      <lastmod>2018-08-06T18:06:44+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -579,7 +532,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/stochastic-kriging/</loc>
-      <lastmod>2018-07-30T17:48:04+08:00</lastmod>
+      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -589,7 +542,7 @@
     <url>
     
       <loc>https://xiaoweiz.github.io/tags/</loc>
-      <lastmod>2018-03-20T17:48:04+08:00</lastmod>
+      <lastmod>2015-02-09T17:48:04+08:00</lastmod>
       <priority>0</priority>
     </url>
     

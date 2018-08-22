@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 17:48:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2015 17:48:04 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Affine Process</title>
       <link>https://xiaoweiz.github.io/tags/affine-process/</link>
-      <pubDate>Tue, 20 Mar 2018 17:48:04 +0800</pubDate>
+      <pubDate>Mon, 09 Feb 2015 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/affine-process/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Arrival Modeling</title>
       <link>https://xiaoweiz.github.io/tags/arrival-modeling/</link>
-      <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/arrival-modeling/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Bayesian</title>
       <link>https://xiaoweiz.github.io/tags/bayesian/</link>
-      <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/bayesian/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Common Random Numbers</title>
       <link>https://xiaoweiz.github.io/tags/common-random-numbers/</link>
-      <pubDate>Mon, 30 Jul 2018 17:48:04 +0800</pubDate>
+      <pubDate>Wed, 08 Aug 2018 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/common-random-numbers/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Covariates</title>
       <link>https://xiaoweiz.github.io/tags/covariates/</link>
-      <pubDate>Fri, 20 Jul 2018 19:05:59 +0800</pubDate>
+      <pubDate>Mon, 06 Aug 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/covariates/</guid>
       <description></description>
@@ -85,18 +85,9 @@
     </item>
     
     <item>
-      <title>Ergodicity</title>
-      <link>https://xiaoweiz.github.io/tags/ergodicity/</link>
-      <pubDate>Tue, 20 Mar 2018 17:48:04 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/ergodicity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gaussian Process</title>
       <link>https://xiaoweiz.github.io/tags/gaussian-process/</link>
-      <pubDate>Mon, 30 Jul 2018 17:48:04 +0800</pubDate>
+      <pubDate>Wed, 08 Aug 2018 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/gaussian-process/</guid>
       <description></description>
@@ -114,7 +105,7 @@
     <item>
       <title>Knowledge Gradient</title>
       <link>https://xiaoweiz.github.io/tags/knowledge-gradient/</link>
-      <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/knowledge-gradient/</guid>
       <description></description>
@@ -132,7 +123,7 @@
     <item>
       <title>Model Uncertainty</title>
       <link>https://xiaoweiz.github.io/tags/model-uncertainty/</link>
-      <pubDate>Mon, 30 Jul 2018 17:48:04 +0800</pubDate>
+      <pubDate>Wed, 08 Aug 2018 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/model-uncertainty/</guid>
       <description></description>
@@ -141,7 +132,7 @@
     <item>
       <title>Poisson Process</title>
       <link>https://xiaoweiz.github.io/tags/poisson-process/</link>
-      <pubDate>Tue, 20 Mar 2018 18:06:44 +0800</pubDate>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/poisson-process/</guid>
       <description></description>
@@ -150,7 +141,7 @@
     <item>
       <title>Ranking and Selection</title>
       <link>https://xiaoweiz.github.io/tags/ranking-and-selection/</link>
-      <pubDate>Fri, 20 Jul 2018 19:05:59 +0800</pubDate>
+      <pubDate>Mon, 06 Aug 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/ranking-and-selection/</guid>
       <description></description>
@@ -177,7 +168,7 @@
     <item>
       <title>Stochastic Kriging</title>
       <link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link>
-      <pubDate>Mon, 30 Jul 2018 17:48:04 +0800</pubDate>
+      <pubDate>Wed, 08 Aug 2018 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/stochastic-kriging/</guid>
       <description></description>
