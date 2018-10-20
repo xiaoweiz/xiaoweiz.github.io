@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bayesian Sequential Learning for Contextual Selection</title>
+      <link>https://xiaoweiz.github.io/talk/hku_18/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/hku_18/</guid>
+      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Distributionally Robust Selection of the Best</title>
       <link>https://xiaoweiz.github.io/publication/dr-rs/</link>
       <pubDate>Sat, 15 Sep 2018 18:06:44 +0800</pubDate>
@@ -142,15 +152,6 @@
       <guid>https://xiaoweiz.github.io/project/rare-event/</guid>
       <description>&lt;p&gt;Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation. But using the plain vanilla MC to estimate small probabilities requires an enormous number of samples due to the fact that the variance of the MC estimator is orders of magnitude larger than its mean. The LD technique can facilitate to develop importance sampling schemes that reduce the variance of the MC estimator dramatically.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/publication/scalablesk/</link>
-      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scalablesk/</guid>
-      <description></description>
     </item>
     
   </channel>
