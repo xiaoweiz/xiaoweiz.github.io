@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 09 Feb 2015 17:48:04 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 14:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Affine Process</title>
       <link>https://xiaoweiz.github.io/tags/affine-process/</link>
-      <pubDate>Mon, 09 Feb 2015 17:48:04 +0800</pubDate>
+      <pubDate>Fri, 26 Oct 2018 14:00:00 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/affine-process/</guid>
       <description></description>
@@ -81,6 +81,15 @@
       <pubDate>Sat, 15 Sep 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/distributionally-robust-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ergodicity</title>
+      <link>https://xiaoweiz.github.io/tags/ergodicity/</link>
+      <pubDate>Fri, 26 Oct 2018 14:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ergodicity/</guid>
       <description></description>
     </item>
     
