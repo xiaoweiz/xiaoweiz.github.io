@@ -13,7 +13,7 @@
     <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
       <link>https://xiaoweiz.github.io/publication/ajd/</link>
-      <pubDate>Fri, 26 Oct 2018 14:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Nov 2018 09:00:00 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/ajd/</guid>
       <description></description>
@@ -36,6 +36,16 @@
       
       <guid>https://xiaoweiz.github.io/publication/dr-rs/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization via Sampling</title>
+      <link>https://xiaoweiz.github.io/project/rs/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/project/rs/</guid>
+      <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;ldquo;promising&amp;rdquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas. Hyperparameter tuning in machine learning is a modernized example of this paradigm of optimization.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -95,6 +105,36 @@
     </item>
     
     <item>
+      <title>Mathematical Finance</title>
+      <link>https://xiaoweiz.github.io/project/affine/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/project/affine/</guid>
+      <description>&lt;p&gt;Affine processes constitute an important class of continuous time stochastic models that are widely used in finance and econometrics due to their modeling flexibility and computational/analytical tractability. This class of models include affine jump-diffusions (AJDs) and affine point processes (APPs). Examples of AJDs include the Ornstein-Uhlenbeck (OU) process (i.e. the Vasicek model), the square-root diffusion process, (i.e. the Cox-Ingersoll-Ross model), and the Heston stochastic volatility model, all of which are classical models in dynamic asset pricing. On the other hand, examples of APPs include the Hawkes process and its multidimensional extensions, which was applied in credit risk modeling and has lately found important applications in high-frequency trading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling</title>
+      <link>https://xiaoweiz.github.io/project/kriging/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/project/kriging/</guid>
+      <description>&lt;p&gt;Simulation models are extensively used in a great variety of areas including health care, finance, manufacturing, logistics, supply chain management, telecommunication, etc. to facilitate related decision making processes. However, simulation models are usually computationally expensive to execute, which severely restricts the usefulness of simulation in settings such as real-time decision making and system optimization. Metamodeling is technique that has been actively developed in the simulation community, in order to alleviate the  inefficiency issue. The basic idea is that the user executes the simulation model only at a small number of carefully selected &amp;ldquo;design points&amp;rdquo;. A metamodel, or model of the simulation model, can be built to approximate the true response surface by properly interpolating the simulation outputs. The response at other design points is then predicted by the metamodel without running simulation at all, thereby substantially reducing the computational costs.  The metamodel can be used to efficiently search for the optimal values of the design variables, even in real time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arrival Data</title>
+      <link>https://xiaoweiz.github.io/project/arrival/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/project/arrival/</guid>
+      <description>&lt;p&gt;Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynmacis that is substantially more sophisticated than the Poisson process model (and even the reneal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
       <link>https://xiaoweiz.github.io/publication/sesk/</link>
       <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
@@ -110,46 +150,6 @@
       
       <guid>https://xiaoweiz.github.io/talk/thu-sem_18/</guid>
       <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/thu-ie_18/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/thu-ie_18/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Affine Processes</title>
-      <link>https://xiaoweiz.github.io/project/affine/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/affine/</guid>
-      <description>&lt;p&gt;Affine processes constitute an important class of continuous time stochastic models that are widely used in finance and econometrics due to their modeling flexibility and computational/analytical tractability. This class of models include affine jump-diffusions (AJDs) and affine point processes (APPs). Examples of AJDs include the Ornstein-Uhlenbeck (OU) process (i.e. the Vasicek model), the square-root diffusion process, (i.e. the Cox-Ingersoll-Ross model), and the Heston stochastic volatility model, all of which are classical models in dynamic asset pricing. On the other hand, examples of APPs include the Hawkes process and its multidimensional extensions, which was applied in credit risk modeling and has lately found important applications in high-frequency trading.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Arrival Data</title>
-      <link>https://xiaoweiz.github.io/project/arrival/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/arrival/</guid>
-      <description>&lt;p&gt;Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynmacis that is substantially more sophisticated than the Poisson process model (and even the reneal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimization via Sampling</title>
-      <link>https://xiaoweiz.github.io/project/rs/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/rs/</guid>
-      <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;ldquo;promising&amp;rdquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas. Hyperparameter tuning in machine learning is a modernized example of this paradigm of optimization.&lt;/p&gt;
 </description>
     </item>
     

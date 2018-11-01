@@ -7,54 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xiaoweiz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Affine Processes</title>
-      <link>https://xiaoweiz.github.io/project/affine/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/affine/</guid>
-      <description>Affine processes constitute an important class of continuous time stochastic models that are widely used in finance and econometrics due to their modeling flexibility and computational/analytical tractability. This class of models include affine jump-diffusions (AJDs) and affine point processes (APPs). Examples of AJDs include the Ornstein-Uhlenbeck (OU) process (i.e. the Vasicek model), the square-root diffusion process, (i.e. the Cox-Ingersoll-Ross model), and the Heston stochastic volatility model, all of which are classical models in dynamic asset pricing.</description>
-    </item>
-    
-    <item>
-      <title>Arrival Data</title>
-      <link>https://xiaoweiz.github.io/project/arrival/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/arrival/</guid>
-      <description>Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynmacis that is substantially more sophisticated than the Poisson process model (and even the reneal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.</description>
-    </item>
-    
-    <item>
       <title>Optimization via Sampling</title>
       <link>https://xiaoweiz.github.io/project/rs/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://xiaoweiz.github.io/project/rs/</guid>
       <description>Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between exploitation, which tends to sample more at &amp;ldquo;promising&amp;rdquo; areas, and exploration, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas.</description>
     </item>
     
     <item>
-      <title>Rare Event Analysis</title>
-      <link>https://xiaoweiz.github.io/project/rare-event/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Mathematical Finance</title>
+      <link>https://xiaoweiz.github.io/project/affine/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/project/rare-event/</guid>
-      <description>Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation.</description>
+      <guid>https://xiaoweiz.github.io/project/affine/</guid>
+      <description>Affine processes constitute an important class of continuous time stochastic models that are widely used in finance and econometrics due to their modeling flexibility and computational/analytical tractability. This class of models include affine jump-diffusions (AJDs) and affine point processes (APPs). Examples of AJDs include the Ornstein-Uhlenbeck (OU) process (i.e. the Vasicek model), the square-root diffusion process, (i.e. the Cox-Ingersoll-Ross model), and the Heston stochastic volatility model, all of which are classical models in dynamic asset pricing.</description>
     </item>
     
     <item>
       <title>Simulation Metamodeling</title>
       <link>https://xiaoweiz.github.io/project/kriging/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://xiaoweiz.github.io/project/kriging/</guid>
       <description>Simulation models are extensively used in a great variety of areas including health care, finance, manufacturing, logistics, supply chain management, telecommunication, etc. to facilitate related decision making processes. However, simulation models are usually computationally expensive to execute, which severely restricts the usefulness of simulation in settings such as real-time decision making and system optimization. Metamodeling is technique that has been actively developed in the simulation community, in order to alleviate the inefficiency issue.</description>
+    </item>
+    
+    <item>
+      <title>Arrival Data</title>
+      <link>https://xiaoweiz.github.io/project/arrival/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/project/arrival/</guid>
+      <description>Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynmacis that is substantially more sophisticated than the Poisson process model (and even the reneal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.</description>
+    </item>
+    
+    <item>
+      <title>Rare Event Analysis</title>
+      <link>https://xiaoweiz.github.io/project/rare-event/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/project/rare-event/</guid>
+      <description>Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation.</description>
     </item>
     
   </channel>
