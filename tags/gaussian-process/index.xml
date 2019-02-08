@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 08 Aug 2018 17:48:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 18:06:44 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaoweiz.github.io/tags/gaussian-process/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stochastic Kriging for Inadequate Simulation Models</title>
@@ -18,15 +27,6 @@
       <pubDate>Wed, 08 Aug 2018 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
-      <pubDate>Sun, 29 Jul 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
       <description></description>
     </item>
     

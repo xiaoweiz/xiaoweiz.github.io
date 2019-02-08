@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publication/rshc_wsc/</link>
+      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rshc_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
       <link>https://xiaoweiz.github.io/publication/ajd/</link>
       <pubDate>Thu, 01 Nov 2018 09:00:00 +0800</pubDate>
@@ -45,24 +63,6 @@
       <pubDate>Mon, 06 Aug 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</link>
-      <pubDate>Sun, 29 Jul 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/publication/rshc_wsc/</link>
-      <pubDate>Fri, 20 Jul 2018 19:05:59 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/rshc_wsc/</guid>
       <description></description>
     </item>
     
