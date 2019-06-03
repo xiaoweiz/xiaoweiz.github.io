@@ -4,101 +4,83 @@
     <title>Recent &amp; Upcoming Talks on Xiaowei Zhang</title>
     <link>https://xiaoweiz.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Xiaowei Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 11:30:00 +0800</lastBuildDate>
     
-	<atom:link href="https://xiaoweiz.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/talk/wsc_18_sk/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0800</pubDate>
+      <title>Bayesian Sequential Learning for Contextual Selection</title>
+      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
+      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/wsc_18_sk/</guid>
+      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/talk/wsc18-sk/</link>
+      <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/wsc18-sk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Driven Ranking and Selection: High-Dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/talk/wsc_18_rs/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/talk/wsc18-rs/</link>
+      <pubDate>Mon, 10 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/wsc_18_rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/hku_18/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/hku_18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/pku_18/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/pku_18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/wsc18-rs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuation Scaling in Large Service Systems</title>
-      <link>https://xiaoweiz.github.io/talk/qingdao_18/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/talk/qingdao17/</link>
+      <pubDate>Tue, 05 Jun 2018 09:30:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/qingdao_18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuation Scaling in Large Service Systems: Statistics, Stochastics, and Simulation</title>
-      <link>https://xiaoweiz.github.io/talk/thu-sem_18/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/thu-sem_18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/qingdao17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/thu-ie_18/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/talk/tsinghuaie18/</link>
+      <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/thu-ie_18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/tsinghuaie18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable Gaussian Processes with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/stanford_17/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0800</pubDate>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/talk/stanford17/</link>
+      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/stanford_17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/stanford17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/sju_17/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</link>
+      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/sju_17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/talk/whu_17/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/talk/wuhan17/</link>
+      <pubDate>Thu, 11 May 2017 15:30:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/whu_17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/wuhan17/</guid>
       <description></description>
     </item>
     

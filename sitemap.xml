@@ -1,616 +1,530 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/dr-rs/</loc>
-      <lastmod>2019-03-14T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/ajd/</loc>
-      <lastmod>2019-03-11T09:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/scalablegesk_wsc/</loc>
-      <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/wsc_18_sk/</loc>
-      <lastmod>2018-12-12T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/rshc_wsc/</loc>
-      <lastmod>2018-12-10T19:05:59+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/wsc_18_rs/</loc>
-      <lastmod>2018-12-10T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/hku_18/</loc>
-      <lastmod>2018-10-19T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/project/rs/</loc>
-      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/sk-i/</loc>
-      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/rs-c/</loc>
-      <lastmod>2018-08-06T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/pku_18/</loc>
-      <lastmod>2018-06-07T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/qingdao_18/</loc>
-      <lastmod>2018-06-05T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/project/affine/</loc>
-      <lastmod>2018-05-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/project/kriging/</loc>
-      <lastmod>2018-04-12T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/project/arrival/</loc>
-      <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/sesk/</loc>
-      <lastmod>2018-03-31T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/thu-sem_18/</loc>
-      <lastmod>2018-03-20T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/thu-ie_18/</loc>
-      <lastmod>2018-03-20T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/scalablesk/</loc>
-      <lastmod>2018-03-02T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/stanford_17/</loc>
-      <lastmod>2017-12-20T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/rs-c_wsc/</loc>
-      <lastmod>2017-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/sju_17/</loc>
-      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/whu_17/</loc>
-      <lastmod>2017-05-20T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/project/rare-event/</loc>
-      <lastmod>2017-03-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/robustkg_wsc/</loc>
-      <lastmod>2016-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/calistochsimmod_wsc/</loc>
-      <lastmod>2016-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/affinepointprocess/</loc>
-      <lastmod>2015-02-09T17:48:04+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/scaling_wsc/</loc>
-      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/dspp_wsc/</loc>
-      <lastmod>2013-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/dr-rs_wsc/</loc>
-      <lastmod>2013-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/regbootstrap_wsc/</loc>
-      <lastmod>2010-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/lossprocess/</loc>
-      <lastmod>2010-12-09T17:48:04+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/hawkes_wsc/</loc>
-      <lastmod>2009-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication/subopt_rareevent_wsc/</loc>
-      <lastmod>2007-12-10T18:06:44+08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication_types/1/</loc>
-      <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
-      <lastmod>2019-03-14T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-      <lastmod>2019-03-11T09:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/affine-process/</loc>
-      <lastmod>2019-03-11T09:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/arrival-modeling/</loc>
-      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/bayesian/</loc>
-      <lastmod>2016-12-10T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/big-data/</loc>
-      <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/bootstrap/</loc>
-      <lastmod>2010-12-10T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/common-random-numbers/</loc>
-      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
-      <lastmod>2018-12-10T19:05:59+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/distributionally-robust-optimization/</loc>
-      <lastmod>2019-03-14T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/ergodicity/</loc>
-      <lastmod>2019-03-11T09:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/gaussian-process/</loc>
-      <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/importance-sampling/</loc>
-      <lastmod>2015-02-09T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
-      <lastmod>2016-12-10T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/large-deviations/</loc>
-      <lastmod>2015-02-09T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/model-uncertainty/</loc>
-      <lastmod>2018-08-08T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/poisson-process/</loc>
-      <lastmod>2014-12-10T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/project/</loc>
-      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/publication_types/</loc>
-      <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
-      <lastmod>2019-03-14T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/rare-event-simulation/</loc>
-      <lastmod>2015-02-09T17:48:04+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/steady-state-simulation/</loc>
-      <lastmod>2010-12-10T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/stochastic-kriging/</loc>
-      <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/</loc>
-      <lastmod>2019-03-11T09:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/tags/uncertainty-quantification/</loc>
-      <lastmod>2018-03-02T18:06:44+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://xiaoweiz.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/project/</loc>
+    <lastmod>2019-06-03T16:26:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/project/sampling-based-optimization/</loc>
+    <lastmod>2019-06-03T16:26:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2019-06-03T16:26:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/project/arrival-data-modeling/</loc>
+    <lastmod>2019-06-03T16:25:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/project/mathematical-finance/</loc>
+    <lastmod>2019-06-03T16:24:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/project/simulation-metamodeling/</loc>
+    <lastmod>2019-06-03T16:22:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/project/rare-event-analysis/</loc>
+    <lastmod>2019-06-03T16:01:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/bayesian/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/mostlyom19/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/gaussian-process/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/haihui-shen/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/l.-jeff-hong/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/liang-ding/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/xiaowei-zhang/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
+    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/robust-selection/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/weiwei-fan/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/appointment-scheduling/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/input-uncertainty/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/robust-optimization/</loc>
+    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/1/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/haojun-huo/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/markovian/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/zeyu-zheng/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/big-data/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/covariance-function/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/gradient/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/stochastic-kriging/</loc>
+    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/wsc18-sk/</loc>
+    <lastmod>2018-12-12T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</loc>
+    <lastmod>2018-12-10T19:05:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/xiaocheng-li/</loc>
+    <lastmod>2018-12-10T19:05:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/wsc18-rs/</loc>
+    <lastmod>2018-12-10T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
+    <lastmod>2018-11-01T20:55:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</loc>
+    <lastmod>2018-11-01T20:55:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/peter-w.-glynn/</loc>
+    <lastmod>2018-11-01T20:55:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/affine-jump-diffusion/</loc>
+    <lastmod>2018-11-01T20:55:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/ergodicity/</loc>
+    <lastmod>2018-11-01T20:55:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/qingdao17/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/jiheng-zhang/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/taylors-law/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/arrival-data/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/heavy-traffic/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/overdispersion/</loc>
+    <lastmod>2018-06-05T09:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</loc>
+    <lastmod>2018-03-31T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/tsinghuaie18/</loc>
+    <lastmod>2018-03-29T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/liang-ding-and-xiaowei-zhang/</loc>
+    <lastmod>2018-03-02T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/scalable-kriging/</loc>
+    <lastmod>2018-03-02T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/lu-zou/</loc>
+    <lastmod>2018-02-08T17:48:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/kriging-inadequate/</loc>
+    <lastmod>2018-02-08T17:48:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/model-inadequacy/</loc>
+    <lastmod>2018-02-08T17:48:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</loc>
+    <lastmod>2017-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/stanford17/</loc>
+    <lastmod>2017-12-01T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/contextual-selection/</loc>
+    <lastmod>2017-10-02T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/personalized-medicine/</loc>
+    <lastmod>2017-10-02T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</loc>
+    <lastmod>2017-06-30T08:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/talk/wuhan17/</loc>
+    <lastmod>2017-05-11T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</loc>
+    <lastmod>2016-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</loc>
+    <lastmod>2016-12-03T21:00:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/affine-point-processes/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/jose-blanchet/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/kay-giesecke/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/affine-point-process/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/importance-sampling/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/large-deviations/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/rare-event-simulation/</loc>
+    <lastmod>2015-11-03T20:16:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</loc>
+    <lastmod>2014-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</loc>
+    <lastmod>2013-12-10T21:16:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/markov-chain-monte-carlo/</loc>
+    <lastmod>2013-12-10T21:16:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/robust-selection-wsc/</loc>
+    <lastmod>2013-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</loc>
+    <lastmod>2010-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/bootstrap/</loc>
+    <lastmod>2010-12-10T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/initial-transient/</loc>
+    <lastmod>2010-12-10T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/regenerative-process/</loc>
+    <lastmod>2010-12-10T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/steady-state-simulation/</loc>
+    <lastmod>2010-12-10T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/loss-process/</loc>
+    <lastmod>2010-12-09T17:48:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/peter-glynn/</loc>
+    <lastmod>2010-12-09T17:48:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/local-time/</loc>
+    <lastmod>2010-12-09T17:48:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/reflected-brownian-motion/</loc>
+    <lastmod>2010-12-09T17:48:04+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/hawkes-process/</loc>
+    <lastmod>2009-12-10T18:06:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/rare-event-hawkes/</loc>
+    <lastmod>2009-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</loc>
+    <lastmod>2007-12-10T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/post/</loc>
+  </url>
   
 </urlset>

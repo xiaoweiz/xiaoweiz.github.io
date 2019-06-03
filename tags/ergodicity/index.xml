@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ergodicity on Xiaowei Zhang</title>
+    <title>ergodicity on Xiaowei Zhang</title>
     <link>https://xiaoweiz.github.io/tags/ergodicity/</link>
-    <description>Recent content in Ergodicity on Xiaowei Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in ergodicity on Xiaowei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 09:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 20:55:03 +0800</lastBuildDate>
     
-	<atom:link href="https://xiaoweiz.github.io/tags/ergodicity/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/tags/ergodicity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/publication/ajd/</link>
-      <pubDate>Mon, 11 Mar 2019 09:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</link>
+      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/ajd/</guid>
+      <guid>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
+      <link>https://xiaoweiz.github.io/talk/wuhan17/</link>
+      <pubDate>Thu, 11 May 2017 15:30:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/wuhan17/</guid>
       <description></description>
     </item>
     

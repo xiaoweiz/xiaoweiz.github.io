@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/xiaowei-zhang/</link>
+    <description>Recent content on Xiaowei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 11:30:00 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/authors/xiaowei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Sequential Learning for Contextual Selection</title>
+      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
+      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
+      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/talk/wsc18-sk/</link>
+      <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/wsc18-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</link>
+      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-Dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/talk/wsc18-rs/</link>
+      <pubDate>Mon, 10 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/wsc18-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
+      <link>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</link>
+      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuation Scaling in Large Service Systems</title>
+      <link>https://xiaoweiz.github.io/talk/qingdao17/</link>
+      <pubDate>Tue, 05 Jun 2018 09:30:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/qingdao17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/talk/tsinghuaie18/</link>
+      <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/tsinghuaie18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</link>
+      <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/talk/stanford17/</link>
+      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/stanford17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
+      <pubDate>Mon, 02 Oct 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Approaches for Enhancing Simulation Metamodeling</title>
+      <link>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</link>
+      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
+      <link>https://xiaoweiz.github.io/talk/wuhan17/</link>
+      <pubDate>Thu, 11 May 2017 15:30:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/talk/wuhan17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Sampling for Bayesian Robust Ranking and Selection</title>
+      <link>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</link>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Point Processes: Approximation and Efficient Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/affine-point-processes/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/affine-point-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling and Modeling of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regenerative Bootstrap Approach to Estimating the Initial Transient</title>
+      <link>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
+      <link>https://xiaoweiz.github.io/publication/loss-process/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/loss-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation for a Generalized Hawkes Process</title>
+      <link>https://xiaoweiz.github.io/publication/rare-event-hawkes/</link>
+      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rare-event-hawkes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Suboptimal Rare-event Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</link>
+      <pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,12 +4,11 @@
     <title>Posts on Xiaowei Zhang</title>
     <link>https://xiaoweiz.github.io/post/</link>
     <description>Recent content in Posts on Xiaowei Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
     
-	<atom:link href="https://xiaoweiz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

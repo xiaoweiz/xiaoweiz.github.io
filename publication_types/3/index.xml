@@ -4,47 +4,47 @@
     <title>3 on Xiaowei Zhang</title>
     <link>https://xiaoweiz.github.io/publication_types/3/</link>
     <description>Recent content in 3 on Xiaowei Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 09:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 20:55:03 +0800</lastBuildDate>
     
-	<atom:link href="https://xiaoweiz.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/publication/ajd/</link>
-      <pubDate>Mon, 11 Mar 2019 09:00:00 +0800</pubDate>
+      <link>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</link>
+      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/ajd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Kriging for Inadequate Simulation Models</title>
-      <link>https://xiaoweiz.github.io/publication/sk-i/</link>
-      <pubDate>Wed, 08 Aug 2018 17:48:04 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/sk-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/publication/rs-c/</link>
-      <pubDate>Mon, 06 Aug 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/rs-c/</guid>
+      <guid>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/publication/scalablesk/</link>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging/</link>
       <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/scalablesk/</guid>
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
+      <pubDate>Mon, 02 Oct 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
       <description></description>
     </item>
     
