@@ -7,19 +7,10 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 11:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Mar 2018 18:06:44 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/haihui-shen/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
-      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
@@ -27,15 +18,6 @@
       <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/tsinghuaie18/</link>
-      <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/tsinghuaie18/</guid>
       <description></description>
     </item>
     
@@ -54,15 +36,6 @@
       <pubDate>Mon, 02 Oct 2017 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</link>
-      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</guid>
       <description></description>
     </item>
     
