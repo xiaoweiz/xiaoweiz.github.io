@@ -3,6 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/gaussian-process/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/haihui-shen/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/kg-contextual-selection/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/l.-jeff-hong/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/liang-ding/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/xiaowei-zhang/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/covariance-function/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</loc>
+    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaoweiz.github.io/project/</loc>
     <lastmod>2019-06-03T21:26:25+08:00</lastmod>
     <priority>0</priority>
@@ -11,12 +111,6 @@
   <url>
     <loc>https://xiaoweiz.github.io/project/sampling-based-optimization/</loc>
     <lastmod>2019-06-03T21:26:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2019-06-03T21:26:25+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -51,48 +145,12 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/tags/gaussian-process/</loc>
-    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/talk/</loc>
     <lastmod>2019-06-01T11:30:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
-    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
-    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
-    <lastmod>2019-06-01T11:30:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/authors/</loc>
     <lastmod>2019-03-05T21:11:51+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -103,30 +161,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/authors/l.-jeff-hong/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/authors/weiwei-fan/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/authors/xiaowei-zhang/</loc>
     <lastmod>2019-03-05T21:11:51+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -185,12 +220,6 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/tags/covariance-function/</loc>
-    <lastmod>2018-12-12T18:06:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/tags/gradient/</loc>
     <lastmod>2018-12-12T18:06:44+08:00</lastmod>
     <priority>0</priority>
@@ -221,12 +250,6 @@
   <url>
     <loc>https://xiaoweiz.github.io/talk/wsc18-rs/</loc>
     <lastmod>2018-12-10T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-    <lastmod>2018-11-01T20:55:03+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -293,20 +316,8 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/authors/haihui-shen/</loc>
-    <lastmod>2018-03-31T18:06:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/talk/tsinghuaie18/</loc>
     <lastmod>2018-03-29T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/authors/liang-ding-and-xiaowei-zhang/</loc>
-    <lastmod>2018-03-02T18:06:44+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -360,12 +371,6 @@
   <url>
     <loc>https://xiaoweiz.github.io/talk/wuhan17/</loc>
     <lastmod>2017-05-11T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/authors/liang-ding/</loc>
-    <lastmod>2016-12-10T18:06:44+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

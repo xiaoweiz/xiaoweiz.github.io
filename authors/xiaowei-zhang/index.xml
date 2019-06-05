@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 21:11:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 23:11:41 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/xiaowei-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributionally Robust Selection of the Best</title>
@@ -54,6 +63,15 @@
       <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging/</guid>
       <description></description>
     </item>
     

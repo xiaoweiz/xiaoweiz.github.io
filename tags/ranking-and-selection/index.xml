@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 11:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 23:11:41 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/ranking-and-selection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian Sequential Learning for Contextual Selection</title>

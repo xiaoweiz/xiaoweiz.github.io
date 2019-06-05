@@ -7,17 +7,44 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 21:11:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 23:11:41 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Haihui Shen</title>
+      <link>https://xiaoweiz.github.io/authors/haihui-shen/</link>
+      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/haihui-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>L. Jeff Hong</title>
       <link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link>
-      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/l.-jeff-hong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Ding</title>
+      <link>https://xiaoweiz.github.io/authors/liang-ding/</link>
+      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/liang-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Zhang</title>
+      <link>https://xiaoweiz.github.io/authors/xiaowei-zhang/</link>
+      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/xiaowei-zhang/</guid>
       <description></description>
     </item>
     
@@ -27,15 +54,6 @@
       <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/weiwei-fan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaowei Zhang</title>
-      <link>https://xiaoweiz.github.io/authors/xiaowei-zhang/</link>
-      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/xiaowei-zhang/</guid>
       <description></description>
     </item>
     
@@ -76,38 +94,11 @@
     </item>
     
     <item>
-      <title>Haihui Shen</title>
-      <link>https://xiaoweiz.github.io/authors/haihui-shen/</link>
-      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/haihui-shen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liang Ding and Xiaowei Zhang</title>
-      <link>https://xiaoweiz.github.io/authors/liang-ding-and-xiaowei-zhang/</link>
-      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/liang-ding-and-xiaowei-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lu Zou</title>
       <link>https://xiaoweiz.github.io/authors/lu-zou/</link>
       <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/lu-zou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liang Ding</title>
-      <link>https://xiaoweiz.github.io/authors/liang-ding/</link>
-      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/liang-ding/</guid>
       <description></description>
     </item>
     
