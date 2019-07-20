@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 23:11:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 21:11:51 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>L. Jeff Hong</title>
+      <link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/l.-jeff-hong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Fan</title>
+      <link>https://xiaoweiz.github.io/authors/weiwei-fan/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/weiwei-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Zhang</title>
+      <link>https://xiaoweiz.github.io/authors/xiaowei-zhang/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/xiaowei-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Haihui Shen</title>
@@ -22,38 +49,11 @@
     </item>
     
     <item>
-      <title>L. Jeff Hong</title>
-      <link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link>
-      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/l.-jeff-hong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Liang Ding</title>
       <link>https://xiaoweiz.github.io/authors/liang-ding/</link>
       <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/liang-ding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaowei Zhang</title>
-      <link>https://xiaoweiz.github.io/authors/xiaowei-zhang/</link>
-      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/xiaowei-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weiwei Fan</title>
-      <link>https://xiaoweiz.github.io/authors/weiwei-fan/</link>
-      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/weiwei-fan/</guid>
       <description></description>
     </item>
     

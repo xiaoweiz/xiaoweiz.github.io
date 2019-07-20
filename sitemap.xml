@@ -3,13 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
+    <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://xiaoweiz.github.io/authors/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/robust-selection/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/l.-jeff-hong/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/weiwei-fan/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/authors/xiaowei-zhang/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/appointment-scheduling/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/input-uncertainty/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/robust-optimization/</loc>
+    <lastmod>2019-07-18T21:11:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
     <lastmod>2019-06-05T23:11:41+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -32,42 +108,7 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/authors/l.-jeff-hong/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/authors/liang-ding/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/authors/xiaowei-zhang/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/</loc>
     <lastmod>2019-06-05T23:11:41+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -86,12 +127,6 @@
   
   <url>
     <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
-    <lastmod>2019-06-05T23:11:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
     <lastmod>2019-06-05T23:11:41+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -147,41 +182,6 @@
   <url>
     <loc>https://xiaoweiz.github.io/talk/</loc>
     <lastmod>2019-06-01T11:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/robust-selection/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/authors/weiwei-fan/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/appointment-scheduling/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/input-uncertainty/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tags/robust-optimization/</loc>
-    <lastmod>2019-03-05T21:11:51+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

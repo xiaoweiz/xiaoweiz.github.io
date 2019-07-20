@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 23:11:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 21:11:51 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>appointment scheduling</title>
+      <link>https://xiaoweiz.github.io/tags/appointment-scheduling/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/appointment-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>input uncertainty</title>
+      <link>https://xiaoweiz.github.io/tags/input-uncertainty/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/input-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ranking and selection</title>
+      <link>https://xiaoweiz.github.io/tags/ranking-and-selection/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ranking-and-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robust optimization</title>
+      <link>https://xiaoweiz.github.io/tags/robust-optimization/</link>
+      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/robust-optimization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaussian process</title>
@@ -49,15 +85,6 @@
     </item>
     
     <item>
-      <title>ranking and selection</title>
-      <link>https://xiaoweiz.github.io/tags/ranking-and-selection/</link>
-      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/ranking-and-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>reproducing kernel Hilbert space</title>
       <link>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</link>
       <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
@@ -72,33 +99,6 @@
       <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>appointment scheduling</title>
-      <link>https://xiaoweiz.github.io/tags/appointment-scheduling/</link>
-      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/appointment-scheduling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>input uncertainty</title>
-      <link>https://xiaoweiz.github.io/tags/input-uncertainty/</link>
-      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/input-uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robust optimization</title>
-      <link>https://xiaoweiz.github.io/tags/robust-optimization/</link>
-      <pubDate>Tue, 05 Mar 2019 21:11:51 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/robust-optimization/</guid>
       <description></description>
     </item>
     
