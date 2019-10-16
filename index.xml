@@ -13,304 +13,47 @@
     
     
     <item>
-      <title>Distributionally Robust Selection of the Best</title>
-      <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
+      <title>Publications</title>
+      <link>https://xiaoweiz.github.io/publication/</link>
       <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/robust-selection/</guid>
+      <guid>https://xiaoweiz.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
-      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sampling-Based Optimization</title>
-      <link>https://xiaoweiz.github.io/project/sampling-based-optimization/</link>
+      <title>Projects</title>
+      <link>https://xiaoweiz.github.io/project/</link>
       <pubDate>Mon, 03 Jun 2019 21:26:25 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/project/sampling-based-optimization/</guid>
-      <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;ldquo;promising&amp;rdquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;ldquo;uncharted&amp;rdquo; areas. Hyperparameter tuning in machine learning is a modernized example of this paradigm of optimization.&lt;/p&gt;
-</description>
+      <guid>https://xiaoweiz.github.io/project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Simluation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/project/simulation-metamodeling/</link>
-      <pubDate>Mon, 03 Jun 2019 20:22:36 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/simulation-metamodeling/</guid>
-      <description>&lt;p&gt;Simulation models are extensively used in a great variety of areas including health care, finance, manufacturing, logistics, supply chain management, telecommunication, etc. to facilitate related decision making processes. However, simulation models are usually computationally expensive to execute, which severely restricts the usefulness of simulation in settings such as real-time decision making and system optimization. Metamodeling is technique that has been actively developed in the simulation community, in order to alleviate the  inefficiency issue. The basic idea is that the user executes the simulation model only at a small number of carefully selected &amp;ldquo;design points&amp;rdquo;. A metamodel, or model of the simulation model, can be built to approximate the true response surface by properly interpolating the simulation outputs. The response at other design points is then predicted by the metamodel without running simulation at all, thereby substantially reducing the computational costs.  The metamodel can be used to efficiently search for the optimal values of the design variables, even in real time.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Arrival Data Modeling</title>
-      <link>https://xiaoweiz.github.io/project/arrival-data-modeling/</link>
-      <pubDate>Mon, 03 Jun 2019 19:25:36 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/arrival-data-modeling/</guid>
-      <description>&lt;p&gt;Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynmacis that is substantially more sophisticated than the Poisson process model (and even the reneal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mathematical Finance</title>
-      <link>https://xiaoweiz.github.io/project/mathematical-finance/</link>
-      <pubDate>Mon, 03 Jun 2019 16:24:55 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/mathematical-finance/</guid>
-      <description>&lt;p&gt;Affine processes constitute an important class of continuous time stochastic models that are widely used in finance and econometrics due to their modeling flexibility and computational/analytical tractability. This class of models include affine jump-diffusions (AJDs) and affine point processes (APPs). Examples of AJDs include the Ornstein-Uhlenbeck (OU) process (i.e. the Vasicek model), the square-root diffusion process, (i.e. the Cox-Ingersoll-Ross model), and the Heston stochastic volatility model, all of which are classical models in dynamic asset pricing. On the other hand, examples of APPs include the Hawkes process and its multidimensional extensions, which was applied in credit risk modeling and has lately found important applications in high-frequency trading.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rare Event Analysis</title>
-      <link>https://xiaoweiz.github.io/project/rare-event-analysis/</link>
-      <pubDate>Mon, 03 Jun 2019 12:01:07 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/rare-event-analysis/</guid>
-      <description>&lt;p&gt;Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation. But using the plain vanilla MC to estimate small probabilities requires an enormous number of samples due to the fact that the variance of the MC estimator is orders of magnitude larger than its mean. The LD technique can facilitate to develop importance sampling schemes that reduce the variance of the MC estimator dramatically.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://xiaoweiz.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
+      <guid>https://xiaoweiz.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</link>
-      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/talk/wsc18-sk/</link>
-      <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
+      <title>Posts</title>
+      <link>https://xiaoweiz.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/talk/wsc18-sk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</link>
-      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data-Driven Ranking and Selection: High-Dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/talk/wsc18-rs/</link>
-      <pubDate>Mon, 10 Dec 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/wsc18-rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</link>
-      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuation Scaling in Large Service Systems</title>
-      <link>https://xiaoweiz.github.io/talk/qingdao17/</link>
-      <pubDate>Tue, 05 Jun 2018 09:30:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/qingdao17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
-      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
-      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/tsinghuaie18/</link>
-      <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/tsinghuaie18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/publication/scalable-kriging/</link>
-      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scalable-kriging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Kriging for Inadequate Simulation Models</title>
-      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
-      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates</title>
-      <link>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</link>
-      <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/stanford17/</link>
-      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/stanford17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
-      <pubDate>Mon, 02 Oct 2017 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</link>
-      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/talk/wuhan17/</link>
-      <pubDate>Thu, 11 May 2017 15:30:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/wuhan17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequential Sampling for Bayesian Robust Ranking and Selection</title>
-      <link>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</link>
-      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
-      <link>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</link>
-      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Affine Point Processes: Approximation and Efficient Simulation</title>
-      <link>https://xiaoweiz.github.io/publication/affine-point-processes/</link>
-      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/affine-point-processes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scaling and Modeling of Call Center Arrivals</title>
-      <link>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</link>
-      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title>
-      <link>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</link>
-      <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust Selection of the Best</title>
-      <link>https://xiaoweiz.github.io/publication/robust-selection-wsc/</link>
-      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/robust-selection-wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Regenerative Bootstrap Approach to Estimating the Initial Transient</title>
-      <link>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</link>
-      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
-      <link>https://xiaoweiz.github.io/publication/loss-process/</link>
-      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/loss-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rare Event Simulation for a Generalized Hawkes Process</title>
-      <link>https://xiaoweiz.github.io/publication/rare-event-hawkes/</link>
-      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/rare-event-hawkes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Suboptimal Rare-event Simulation</title>
-      <link>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</link>
-      <pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</guid>
+      <guid>https://xiaoweiz.github.io/post/</guid>
       <description></description>
     </item>
     
