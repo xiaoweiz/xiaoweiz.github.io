@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 18 Jul 2019 21:11:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://xiaoweiz.github.io/publication/</link>
-      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/</guid>
       <description></description>
@@ -36,15 +36,6 @@
       <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
       <description></description>
     </item>
     

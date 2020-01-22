@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 18 Jul 2019 21:11:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>L. Jeff Hong</title>
       <link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link>
-      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/l.-jeff-hong/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Weiwei Fan</title>
       <link>https://xiaoweiz.github.io/authors/weiwei-fan/</link>
-      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/weiwei-fan/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/authors/xiaowei-zhang/</link>
-      <pubDate>Thu, 18 Jul 2019 21:11:51 +0800</pubDate>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/xiaowei-zhang/</guid>
       <description></description>
@@ -145,7 +145,6 @@
       
       <guid>https://xiaoweiz.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am an assistant professor of business analytics in the Faculty of Business and Economics, University of Hong Kong. My research interests include stochastic simulation, decision analytics, statistical learning, and mathematical finance.&lt;/p&gt;
-
 &lt;p&gt;As an academic, my goal is to identify and study key structures in stochastic systems to deliver better decisions, increasing efficiency and reducing risk of the operations. The growing data availability and computing power provide vast opportunities to design new statistical tools to facilitate the decision-making process. In this regard, I aim to develop general methodologies in &lt;em&gt;statistics&lt;/em&gt;, &lt;em&gt;stochastics&lt;/em&gt;, and &lt;em&gt;simulation&lt;/em&gt; for decision analytics and integrate these tools to solve real-world challenges.&lt;/p&gt;
 </description>
     </item>
