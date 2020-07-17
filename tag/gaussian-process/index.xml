@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/tag/gaussian-process/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/gaussian-process/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaussian process</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 05 Jun 2019 23:11:41 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 15 Jul 2020 23:11:41 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Gaussian process</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
       <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Wed, 05 Jun 2019 23:11:41 +0800</pubDate>
+      <pubDate>Wed, 15 Jul 2020 23:11:41 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
