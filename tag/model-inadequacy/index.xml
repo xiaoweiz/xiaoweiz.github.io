@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model inadequacy | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/model-inadequacy/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/model-inadequacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>model inadequacy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 08 Feb 2018 17:48:04 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>model inadequacy</title>
+      <link>https://xiaoweiz.github.io/tag/model-inadequacy/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

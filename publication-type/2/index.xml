@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/publication-type/2/</link>
+      <atom:link href="https://xiaoweiz.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 16 Jul 2020 18:06:44 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://xiaoweiz.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
+      <pubDate>Thu, 16 Jul 2020 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Point Processes: Approximation and Efficient Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/affine-point-processes/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/affine-point-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
+      <link>https://xiaoweiz.github.io/publication/loss-process/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/loss-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
