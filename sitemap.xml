@@ -3,12 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
-    <lastmod>2020-10-13T18:06:44+08:00</lastmod>
+    <loc>https://xiaoweiz.github.io/publication-type/2/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xiaoweiz.github.io/authors/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/covariates/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/author/haihui-shen/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/author/l.-jeff-hong/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/personalized-medicine/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/contextual-selection/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/author/xiaowei-zhang/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
     <lastmod>2020-10-13T18:06:44+08:00</lastmod>
   </url>
   
@@ -38,16 +98,6 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2020-10-13T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2020-10-13T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/publication/high-dim-kriging/</loc>
     <lastmod>2020-10-13T18:06:44+08:00</lastmod>
   </url>
@@ -68,58 +118,8 @@
   </url>
   
   <url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2020-10-13T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xiaoweiz.github.io/tag/tensor-markov-kernel/</loc>
     <lastmod>2020-10-13T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/author/xiaowei-zhang/</loc>
-    <lastmod>2020-10-13T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2020-10-13T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication-type/2/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/covariates/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/author/haihui-shen/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/author/l.-jeff-hong/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/personalized-medicine/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection/</loc>
-    <lastmod>2020-07-16T18:06:44+08:00</lastmod>
   </url>
   
   <url>
