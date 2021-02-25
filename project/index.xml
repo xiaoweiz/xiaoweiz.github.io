@@ -5,12 +5,22 @@
     <link>https://xiaoweiz.github.io/project/</link>
       <atom:link href="https://xiaoweiz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 03 Jun 2019 21:26:25 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 14 Feb 2021 20:22:36 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://xiaoweiz.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Causal Reinforcement Learning</title>
+      <link>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</link>
+      <pubDate>Sun, 14 Feb 2021 20:22:36 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</guid>
+      <description>&lt;p&gt;In the standard data analysis framework, data is first collected (once for all), and then data analysis is carried out. Moreover, the data-generating process is typically assumed to be exogenous. This approach is natural when the data analyst has no impact on how the data is generated. The advancement of digital technology, however, has facilitated firms to learn from data and make decisions at the same time. As these decisions generate new data, the data analyst&amp;mdash;a business manager or an algorithm&amp;mdash;also becomes the data generator.
+This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement bias&lt;/em&gt;&amp;mdash;that exacerbates the endogeneity problem in static data analysis. Causal inference techniques ought to be incorporated into reinforcement learning to address such issues.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sampling-Based Optimization</title>
