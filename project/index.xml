@@ -32,7 +32,7 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     </item>
     
     <item>
-      <title>Simluation Metamodeling</title>
+      <title>Simulation Metamodeling</title>
       <link>https://xiaoweiz.github.io/project/simulation-metamodeling/</link>
       <pubDate>Mon, 03 Jun 2019 20:22:36 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/project/simulation-metamodeling/</guid>
@@ -45,7 +45,7 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
       <link>https://xiaoweiz.github.io/project/arrival-data-modeling/</link>
       <pubDate>Mon, 03 Jun 2019 19:25:36 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/project/arrival-data-modeling/</guid>
-      <description>&lt;p&gt;Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynmacis that is substantially more sophisticated than the Poisson process model (and even the reneal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.&lt;/p&gt;
+      <description>&lt;p&gt;Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. Recent empirical studies demonstrate that the arrival data usually exhibits a dynamics that is substantially more sophisticated than the Poisson process model (and even the renewal process model), both of which are the underlying assumption of a wide variety of results in the queueing theory.&lt;/p&gt;
 </description>
     </item>
     
