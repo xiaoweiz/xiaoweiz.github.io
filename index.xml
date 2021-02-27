@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Feb 2021 18:06:44 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 27 Feb 2021 10:13:49 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xiaowei Zhang</title>
@@ -13,21 +13,21 @@
     </image>
     
     <item>
+      <title>Causal Reinforcement Learning</title>
+      <link>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</link>
+      <pubDate>Sat, 27 Feb 2021 10:13:49 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</guid>
+      <description>&lt;p&gt;In the standard data analysis framework, data is first collected (once for all), and then data analysis is carried out. Moreover, the data-generating process is typically assumed to be exogenous. This approach is natural when the data analyst has no impact on how the data is generated. The advancement of digital technology, however, has facilitated firms to learn from data and make decisions at the same time. As these decisions generate new data, the data analyst&amp;mdash;a business manager or an algorithm&amp;mdash;also becomes the data generator.
+This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement bias&lt;/em&gt;&amp;mdash;that exacerbates the endogeneity problem in static data analysis. Causal inference techniques ought to be incorporated into reinforcement learning to address such issues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Causal Reinforcement Learning: An Instrumental Variable Approach</title>
       <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
       <pubDate>Mon, 15 Feb 2021 18:06:44 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Causal Reinforcement Learning</title>
-      <link>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</link>
-      <pubDate>Sun, 14 Feb 2021 20:22:36 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</guid>
-      <description>&lt;p&gt;In the standard data analysis framework, data is first collected (once for all), and then data analysis is carried out. Moreover, the data-generating process is typically assumed to be exogenous. This approach is natural when the data analyst has no impact on how the data is generated. The advancement of digital technology, however, has facilitated firms to learn from data and make decisions at the same time. As these decisions generate new data, the data analyst&amp;mdash;a business manager or an algorithm&amp;mdash;also becomes the data generator.
-This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement bias&lt;/em&gt;&amp;mdash;that exacerbates the endogeneity problem in static data analysis. Causal inference techniques ought to be incorporated into reinforcement learning to address such issues.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -39,10 +39,92 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     </item>
     
     <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://xiaoweiz.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable
+           /&gt;
+    
+    
+    &lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/talk/wops20/</link>
+      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
       <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wops20/</guid>
+      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Sun, 15 Nov 2020 23:11:41 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
     
@@ -55,14 +137,6 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     </item>
     
     <item>
-      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
-      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Wed, 15 Jul 2020 23:11:41 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Distributionally Robust Selection of the Best</title>
       <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
       <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
@@ -71,11 +145,11 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     </item>
     
     <item>
-      <title>Sampling-Based Optimization</title>
-      <link>https://xiaoweiz.github.io/project/sampling-based-optimization/</link>
+      <title>Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/project/simulation-optimization/</link>
       <pubDate>Mon, 03 Jun 2019 21:26:25 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/project/sampling-based-optimization/</guid>
-      <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. Their performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Optimization via sampling is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;lsquo;&amp;lsquo;promising&amp;rsquo;&amp;rsquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;lsquo;&amp;lsquo;uncharted&amp;rsquo;&amp;rsquo; areas. Hyperparameter tuning in machine learning is a modernized example of this paradigm of optimization.&lt;/p&gt;
+      <guid>https://xiaoweiz.github.io/project/simulation-optimization/</guid>
+      <description>&lt;p&gt;Modern stochastic systems often have a sophisticated structure. The system performance is generally not an analytical function of the decision variables, but a complex surface that can only be evaluated at discrete locations via noisy samples, usually from a simulation model. Since the sampling process is often expensive, we would like to identify the optimal decision with minimal samples. Simulation optimization is essentially a trade-off between &lt;em&gt;exploitation&lt;/em&gt;, which tends to sample more  at &amp;lsquo;&amp;lsquo;promising&amp;rsquo;&amp;rsquo; areas, and &lt;em&gt;exploration&lt;/em&gt;, which tends to sample more at &amp;lsquo;&amp;lsquo;uncharted&amp;rsquo;&amp;rsquo; areas.&lt;/p&gt;
 </description>
     </item>
     
@@ -84,7 +158,7 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
       <link>https://xiaoweiz.github.io/project/simulation-metamodeling/</link>
       <pubDate>Mon, 03 Jun 2019 20:22:36 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/project/simulation-metamodeling/</guid>
-      <description>&lt;p&gt;Simulation models are extensively used in a great variety of areas including health care, finance, manufacturing, logistics, supply chain management, telecommunication, etc. to facilitate related decision making processes. However, simulation models are usually computationally expensive to execute, which severely restricts the usefulness of simulation in settings such as real-time decision making and system optimization. Metamodeling is technique that has been actively developed in the simulation community, in order to alleviate the  inefficiency issue. The basic idea is that the user executes the simulation model only at a small number of carefully selected &amp;lsquo;&amp;lsquo;design points&amp;rsquo;&amp;rsquo;. A metamodel, or model of the simulation model, can be built to approximate the true response surface by properly interpolating the simulation outputs. The response at other design points is then predicted by the metamodel without running simulation at all, thereby substantially reducing the computational costs.  The metamodel can be used to efficiently search for the optimal values of the design variables, even in real time.&lt;/p&gt;
+      <description>&lt;p&gt;Simulation models are extensively used in a great variety of areas including health care, finance, manufacturing, logistics, supply chain management, telecommunication, etc. to facilitate related decision making processes. However, simulation models are usually computationally expensive to execute, which severely restricts the usefulness of simulation in settings such as real-time decision making and system optimization. Metamodeling is technique that has been actively developed in the simulation community, in order to alleviate the  inefficiency issue. The basic idea is that the user executes the simulation model only at a small number of carefully selected &amp;lsquo;&amp;lsquo;design points&amp;rsquo;&amp;rsquo;. A metamodel&amp;mdash;a statistical model of the simulation model&amp;mdash;can be built to approximate the true response surface by properly interpolating the simulation outputs. The response at other design points is then predicted by the metamodel without running simulation at all, thereby substantially reducing the computational costs.  The metamodel can be used to efficiently search for the optimal values of the design variables, even in real time.&lt;/p&gt;
 </description>
     </item>
     
@@ -98,29 +172,149 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     </item>
     
     <item>
-      <title>Mathematical Finance</title>
-      <link>https://xiaoweiz.github.io/project/mathematical-finance/</link>
+      <title>Affine Models in Finance</title>
+      <link>https://xiaoweiz.github.io/project/affine-models-in-finance/</link>
       <pubDate>Mon, 03 Jun 2019 16:24:55 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/project/mathematical-finance/</guid>
+      <guid>https://xiaoweiz.github.io/project/affine-models-in-finance/</guid>
       <description>&lt;p&gt;Affine processes constitute an important class of continuous time stochastic models that are widely used in finance and econometrics due to their modeling flexibility and computational/analytical tractability. This class of models include affine jump-diffusions (AJDs) and affine point processes (APPs). Examples of AJDs include the Ornstein-Uhlenbeck (OU) process (i.e. the Vasicek model), the square-root diffusion process, (i.e. the Cox-Ingersoll-Ross model), and the Heston stochastic volatility model, all of which are classical models in dynamic asset pricing. On the other hand, examples of APPs include the Hawkes process and its multidimensional extensions, which was applied in credit risk modeling and has lately found important applications in high-frequency trading.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Rare Event Analysis</title>
-      <link>https://xiaoweiz.github.io/project/rare-event-analysis/</link>
-      <pubDate>Mon, 03 Jun 2019 12:01:07 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/project/rare-event-analysis/</guid>
-      <description>&lt;p&gt;Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation. But using the plain vanilla MC to estimate small probabilities requires an enormous number of samples due to the fact that the variance of the MC estimator is orders of magnitude larger than its mean. The LD technique can facilitate to develop importance sampling schemes that reduce the variance of the MC estimator dramatically.&lt;/p&gt;
-</description>
+      <title>Bayesian Sequential Learning for Contextual Selection</title>
+      <link>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</link>
+      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
-      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
-      <description></description>
+      <title>Slides</title>
+      <link>https://xiaoweiz.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -133,9 +327,9 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     
     <item>
       <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/talk/wsc18-sk/</link>
+      <link>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</link>
       <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wsc18-sk/</guid>
+      <guid>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</guid>
       <description></description>
     </item>
     
@@ -149,9 +343,9 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     
     <item>
       <title>Data-Driven Ranking and Selection: High-Dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/talk/wsc18-rs/</link>
+      <link>https://xiaoweiz.github.io/talk/data-driven-ranking-and-selection-high-dimensional-covariates-and-general-dependence/</link>
       <pubDate>Mon, 10 Dec 2018 11:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wsc18-rs/</guid>
+      <guid>https://xiaoweiz.github.io/talk/data-driven-ranking-and-selection-high-dimensional-covariates-and-general-dependence/</guid>
       <description></description>
     </item>
     
@@ -165,10 +359,19 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     
     <item>
       <title>Fluctuation Scaling in Large Service Systems</title>
-      <link>https://xiaoweiz.github.io/talk/qingdao17/</link>
+      <link>https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/</link>
       <pubDate>Tue, 05 Jun 2018 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/qingdao17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Analysis</title>
+      <link>https://xiaoweiz.github.io/project/rare-event-analysis/</link>
+      <pubDate>Sun, 03 Jun 2018 12:01:07 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/project/rare-event-analysis/</guid>
+      <description>&lt;p&gt;Rare events refer to those that occur with small probabilities but would have substantial impact when they do. Examples include meltdown of a communication network and credit default of a large financial institution. A typical approach to rare event analysis is the large deviations (LD) technique, which characterizes the rare event probability up to the correct logarithmic order of magnitude. To obtain a more accurate estimate, one often resorts to Monte Carlo (MC) simulation. But using the plain vanilla MC to estimate small probabilities requires an enormous number of samples due to the fact that the variance of the MC estimator is orders of magnitude larger than its mean. The LD technique can facilitate to develop importance sampling schemes that reduce the variance of the MC estimator dramatically.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -181,9 +384,9 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     
     <item>
       <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/tsinghuaie18/</link>
+      <link>https://xiaoweiz.github.io/talk/ranking-and-selection-with-covariates-simulation-for-personalized-decision-making/</link>
       <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/tsinghuaie18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/ranking-and-selection-with-covariates-simulation-for-personalized-decision-making/</guid>
       <description></description>
     </item>
     
@@ -213,25 +416,25 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
     
     <item>
       <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/stanford17/</link>
+      <link>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</link>
       <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/stanford17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</link>
+      <link>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</link>
       <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/talk/wuhan17/</link>
+      <link>https://xiaoweiz.github.io/talk/affine-jump-diffusions-stochastic-stability-and-limit-theorems/</link>
       <pubDate>Thu, 11 May 2017 15:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wuhan17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/affine-jump-diffusions-stochastic-stability-and-limit-theorems/</guid>
       <description></description>
     </item>
     
@@ -312,6 +515,14 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
       <link>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</link>
       <pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xiaoweiz.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

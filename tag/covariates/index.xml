@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/tag/covariates/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/covariates/index.xml" rel="self" type="application/rss+xml" />
     <description>covariates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 12 Feb 2021 18:06:44 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 12 Feb 2021 18:06:44 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>covariates</title>
@@ -23,16 +23,16 @@
     <item>
       <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
       <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Wed, 15 Jul 2020 23:11:41 +0800</pubDate>
+      <pubDate>Sun, 15 Nov 2020 23:11:41 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
+      <link>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</link>
       <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
+      <guid>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</guid>
       <description></description>
     </item>
     
@@ -46,17 +46,17 @@
     
     <item>
       <title>Data-Driven Ranking and Selection: High-Dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/talk/wsc18-rs/</link>
+      <link>https://xiaoweiz.github.io/talk/data-driven-ranking-and-selection-high-dimensional-covariates-and-general-dependence/</link>
       <pubDate>Mon, 10 Dec 2018 11:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wsc18-rs/</guid>
+      <guid>https://xiaoweiz.github.io/talk/data-driven-ranking-and-selection-high-dimensional-covariates-and-general-dependence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/tsinghuaie18/</link>
+      <link>https://xiaoweiz.github.io/talk/ranking-and-selection-with-covariates-simulation-for-personalized-decision-making/</link>
       <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/tsinghuaie18/</guid>
+      <guid>https://xiaoweiz.github.io/talk/ranking-and-selection-with-covariates-simulation-for-personalized-decision-making/</guid>
       <description></description>
     </item>
     

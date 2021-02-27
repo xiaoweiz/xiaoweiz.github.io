@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markovian covariance function | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/markovian-covariance-function/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/markovian-covariance-function/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markovian covariance function</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 12 Dec 2018 18:06:44 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Markovian covariance function</title>
+      <link>https://xiaoweiz.github.io/tag/markovian-covariance-function/</link>
+    </image>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</link>
+      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

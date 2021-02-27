@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/tag/stochastic-kriging/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/stochastic-kriging/index.xml" rel="self" type="application/rss+xml" />
     <description>stochastic kriging</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 11:15:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 11:15:00 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>stochastic kriging</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/talk/wops20/</link>
+      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
       <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wops20/</guid>
+      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
       <description></description>
     </item>
     
@@ -38,9 +38,9 @@
     
     <item>
       <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/talk/wsc18-sk/</link>
+      <link>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</link>
       <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/wsc18-sk/</guid>
+      <guid>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</guid>
       <description></description>
     </item>
     
@@ -70,17 +70,17 @@
     
     <item>
       <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/stanford17/</link>
+      <link>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</link>
       <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/stanford17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</link>
+      <link>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</link>
       <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/shanghaijiaotong17/</guid>
+      <guid>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</guid>
       <description></description>
     </item>
     

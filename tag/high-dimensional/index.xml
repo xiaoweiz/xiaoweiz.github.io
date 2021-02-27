@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>high-dimensional | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/high-dimensional/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/high-dimensional/index.xml" rel="self" type="application/rss+xml" />
+    <description>high-dimensional</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 11:15:00 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>high-dimensional</title>
+      <link>https://xiaoweiz.github.io/tag/high-dimensional/</link>
+    </image>
+    
+    <item>
+      <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
+      <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
+      <pubDate>Tue, 13 Oct 2020 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</link>
+      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

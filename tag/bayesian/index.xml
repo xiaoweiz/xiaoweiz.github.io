@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/tag/bayesian/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/bayesian/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jun 2019 11:30:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jun 2019 11:30:00 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bayesian</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/mostlyom19/</link>
+      <link>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</link>
       <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/mostlyom19/</guid>
+      <guid>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</guid>
       <description></description>
     </item>
     
