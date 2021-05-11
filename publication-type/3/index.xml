@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/publication-type/3/</link>
       <atom:link href="https://xiaoweiz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Feb 2021 18:06:44 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 May 2021 18:07:59 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://xiaoweiz.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Surrogate Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publication/surrogate-based-so/</link>
+      <pubDate>Sun, 09 May 2021 18:07:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/surrogate-based-so/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Reinforcement Learning: An Instrumental Variable Approach</title>

@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/tag/stochastic-kriging/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/stochastic-kriging/index.xml" rel="self" type="application/rss+xml" />
     <description>stochastic kriging</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 11:15:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 May 2021 18:07:59 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>stochastic kriging</title>
       <link>https://xiaoweiz.github.io/tag/stochastic-kriging/</link>
     </image>
+    
+    <item>
+      <title>Surrogate Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publication/surrogate-based-so/</link>
+      <pubDate>Sun, 09 May 2021 18:07:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/surrogate-based-so/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
