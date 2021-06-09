@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/tag/sparse-grid/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/sparse-grid/index.xml" rel="self" type="application/rss+xml" />
     <description>sparse grid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 11:15:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 09 Jun 2021 10:00:00 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>sparse grid</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
-      <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
+      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
+      <pubDate>Wed, 09 Jun 2021 10:00:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
-      <pubDate>Tue, 13 Oct 2020 18:06:44 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
+      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
+      <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
       <description></description>
     </item>
     
