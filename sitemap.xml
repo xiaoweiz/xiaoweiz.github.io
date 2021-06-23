@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/covariates/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/gaussian-process/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/knowledge-gradient/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/kg-contextual-selection/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2021-06-23T22:11:41+08:00</lastmod>
+  </url><url>
     <loc>https://xiaoweiz.github.io/publication-type/6/</loc>
     <lastmod>2021-06-11T08:07:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tag/gaussian-process/</loc>
-    <lastmod>2021-06-11T08:07:59+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/tag/matrix-inversion/</loc>
-    <lastmod>2021-06-11T08:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2021-06-11T08:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
     <lastmod>2021-06-11T08:07:59+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/simulation-metamodeling/</loc>
@@ -28,15 +49,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc>
     <lastmod>2021-06-11T08:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2021-06-11T08:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2021-06-11T08:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
-    <lastmod>2021-06-09T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/experimental-design/</loc>
     <lastmod>2021-06-09T10:00:00+08:00</lastmod>
@@ -80,13 +92,7 @@
     <loc>https://xiaoweiz.github.io/publication-type/2/</loc>
     <lastmod>2021-02-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tag/covariates/</loc>
-    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/tag/personalized-medicine/</loc>
-    <lastmod>2021-02-12T18:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc>
     <lastmod>2021-02-12T18:06:44+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/publication/contextual-selection/</loc>
@@ -118,12 +124,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</loc>
     <lastmod>2020-12-05T11:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/knowledge-gradient/</loc>
-    <lastmod>2020-11-15T23:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/kg-contextual-selection/</loc>
-    <lastmod>2020-11-15T23:11:41+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/appointment-scheduling/</loc>
     <lastmod>2020-01-15T21:11:51+08:00</lastmod>

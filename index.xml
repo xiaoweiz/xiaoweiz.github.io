@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 11 Jun 2021 08:07:59 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 23 Jun 2021 22:11:41 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Wed, 23 Jun 2021 22:11:41 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Surrogate-Based Simulation Optimization</title>
@@ -136,14 +144,6 @@ This interaction generates a new type of bias&amp;mdash;&lt;em&gt;reinforcement 
       <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
       <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
-      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Sun, 15 Nov 2020 23:11:41 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/publication/</link>
       <atom:link href="https://xiaoweiz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 11 Jun 2021 08:07:59 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 23 Jun 2021 22:11:41 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://xiaoweiz.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Wed, 23 Jun 2021 22:11:41 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Surrogate-Based Simulation Optimization</title>
@@ -41,14 +49,6 @@
       <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
       <pubDate>Fri, 12 Feb 2021 18:06:44 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
-      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Sun, 15 Nov 2020 23:11:41 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
     
