@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/publication-type/3/</link>
       <atom:link href="https://xiaoweiz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 19 Jul 2021 10:00:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 28 Aug 2021 10:02:20 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://xiaoweiz.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Self-fulfilling Bandits: Endogeneity Spillover and Dynamic Selection in Algorithmic Decision-making</title>
+      <link>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</link>
+      <pubDate>Sat, 28 Aug 2021 10:02:20 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</title>

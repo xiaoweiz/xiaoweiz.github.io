@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/contextual-bandit/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/endogeneity-spillover/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/greedy/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/self-fulfilling-bias/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/upper-confidence-band/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
+  </url><url>
     <loc>https://xiaoweiz.github.io/publication-type/6/</loc>
     <lastmod>2021-07-27T22:07:59+08:00</lastmod>
   </url><url>
@@ -9,12 +45,6 @@
     <lastmod>2021-07-27T22:07:59+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/matrix-inversion/</loc>
-    <lastmod>2021-07-27T22:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2021-07-27T22:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
     <lastmod>2021-07-27T22:07:59+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/simulation-metamodeling/</loc>
@@ -28,15 +58,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc>
     <lastmod>2021-07-27T22:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2021-07-27T22:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2021-07-27T22:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
-    <lastmod>2021-07-19T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/brownian-field/</loc>
     <lastmod>2021-07-19T10:00:00+08:00</lastmod>
@@ -84,9 +105,6 @@
     <lastmod>2021-02-27T10:13:49+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/publication/causal-rl/</loc>
-    <lastmod>2021-02-15T18:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc>
     <lastmod>2021-02-15T18:06:44+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/markov-decision-process/</loc>
