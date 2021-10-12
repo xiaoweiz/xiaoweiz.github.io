@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xiaoweiz.github.io/tag/contextual-bandit/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/endogeneity-spillover/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/greedy/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/event/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/talk/self-fulfilling-bandits-endogeneity-spillover-and-dynamic-selection-in-algorithmic-decision-making/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/self-fulfilling-bias/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tag/upper-confidence-band/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2021-11-16T09:45:22+08:00</lastmod>
+  </url><url>
     <loc>https://xiaoweiz.github.io/tag/gaussian-process/</loc>
     <lastmod>2021-10-25T07:45:00-07:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/matrix-inversion/</loc>
-    <lastmod>2021-10-25T07:45:00-07:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/event/</loc>
     <lastmod>2021-10-25T07:45:00-07:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/simulation-metamodeling/</loc>
@@ -23,11 +50,17 @@
     <loc>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</loc>
     <lastmod>2021-10-25T07:45:00-07:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2021-10-25T07:45:00-07:00</lastmod>
+    <loc>https://xiaoweiz.github.io/publication-type/6/</loc>
+    <lastmod>2021-10-25T22:07:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2021-10-25T07:45:00-07:00</lastmod>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2021-10-25T22:07:59+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2021-10-25T22:07:59+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc>
+    <lastmod>2021-10-25T22:07:59+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/publication-type/2/</loc>
     <lastmod>2021-09-04T22:11:41+08:00</lastmod>
@@ -36,12 +69,6 @@
     <lastmod>2021-09-04T22:11:41+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/knowledge-gradient/</loc>
-    <lastmod>2021-09-04T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2021-09-04T22:11:41+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
     <lastmod>2021-09-04T22:11:41+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc>
@@ -53,32 +80,8 @@
     <loc>https://xiaoweiz.github.io/publication-type/3/</loc>
     <lastmod>2021-08-28T10:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tag/contextual-bandit/</loc>
-    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/endogeneity-spillover/</loc>
-    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/greedy/</loc>
-    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc>
-    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</loc>
     <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/self-fulfilling-bias/</loc>
-    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tag/upper-confidence-band/</loc>
-    <lastmod>2021-08-28T10:02:20+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication-type/6/</loc>
-    <lastmod>2021-07-27T22:07:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc>
-    <lastmod>2021-07-27T22:07:59+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tag/brownian-field/</loc>
     <lastmod>2021-07-19T10:00:00+08:00</lastmod>
