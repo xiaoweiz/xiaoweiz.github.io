@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Nov 2021 17:30:22 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 13:38:42 +0800</lastBuildDate>
     <image>
-      <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model</title>
+      <link>https://xiaoweiz.github.io/publication/newsvendor-hedging/</link>
+      <pubDate>Tue, 04 Jan 2022 13:38:42 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/newsvendor-hedging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-fulfilling Bandits: Endogeneity Spillover and Dynamic Selection in Algorithmic Decision-making</title>
@@ -45,9 +53,9 @@
     </item>
     
     <item>
-      <title>Technical Note – Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <title>Technical Note—Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
       <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Sat, 04 Sep 2021 22:11:41 +0800</pubDate>
+      <pubDate>Thu, 07 Oct 2021 22:11:41 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
@@ -282,15 +290,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
