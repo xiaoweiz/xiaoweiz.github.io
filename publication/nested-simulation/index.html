@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="High-dimensional simulation optimization is notoriously challenging. We propose a new sampling algorithm that converges to a global optimal solution and suffers minimally from the curse of dimensionality. The algorithm consists of two stages. First, we take samples following a sparse grid experimental design and approximate the response surface via kernel ridge regression with a Brownian field kernel. Second, we follow the expected improvement strategy---with critical modifications that boost the algorithm&#39;s sample efficiency---to iteratively sample from the next level of the sparse grid. Under mild conditions on the smoothness of the response surface and the simulation noise, we establish upper bounds on the convergence rate for both noise-free and noisy simulation samples. These upper bounds deteriorate only slightly in the dimension of the feasible set, and they can be improved if the objective function is known to be of a higher-order smoothness. Extensive numerical experiments demonstrate that the proposed algorithm dramatically outperforms typical alternatives in practice." />
+  <meta name="description" content="Nested simulation concerns estimating functionals of a conditional expectation via simulation. In this paper, we propose a new method based on kernel ridge regression to exploit the smoothness of the conditional expectation as a function of the multidimensional conditioning variable. Asymptotic analysis shows that the proposed method can effectively alleviate the curse of dimensionality on the convergence rate as the simulation budget increases, provided that the conditional expectation is sufficiently smooth. The smoothness bridges the gap between the cubic root convergence rate (that is, the optimal rate for the standard nested simulation) and the square root convergence rate (that is, the canonical rate for the standard Monte Carlo simulation). We demonstrate the performance of the proposed method via numerical examples from portfolio risk management and input uncertainty quantification." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/publication/high-dim-sim-opt/" />
+  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/publication/nested-simulation/" />
 
   
   
@@ -281,7 +281,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://xiaoweiz.github.io/publication/high-dim-sim-opt/" />
+  <link rel="canonical" href="https://xiaoweiz.github.io/publication/nested-simulation/" />
 
   
   
@@ -303,18 +303,18 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Xiaowei Zhang" />
-  <meta property="og:url" content="https://xiaoweiz.github.io/publication/high-dim-sim-opt/" />
-  <meta property="og:title" content="High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids | Xiaowei Zhang" />
-  <meta property="og:description" content="High-dimensional simulation optimization is notoriously challenging. We propose a new sampling algorithm that converges to a global optimal solution and suffers minimally from the curse of dimensionality. The algorithm consists of two stages. First, we take samples following a sparse grid experimental design and approximate the response surface via kernel ridge regression with a Brownian field kernel. Second, we follow the expected improvement strategy---with critical modifications that boost the algorithm&#39;s sample efficiency---to iteratively sample from the next level of the sparse grid. Under mild conditions on the smoothness of the response surface and the simulation noise, we establish upper bounds on the convergence rate for both noise-free and noisy simulation samples. These upper bounds deteriorate only slightly in the dimension of the feasible set, and they can be improved if the objective function is known to be of a higher-order smoothness. Extensive numerical experiments demonstrate that the proposed algorithm dramatically outperforms typical alternatives in practice." /><meta property="og:image" content="https://xiaoweiz.github.io/publication/high-dim-sim-opt/featured.png" />
-    <meta property="twitter:image" content="https://xiaoweiz.github.io/publication/high-dim-sim-opt/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://xiaoweiz.github.io/publication/nested-simulation/" />
+  <meta property="og:title" content="Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions | Xiaowei Zhang" />
+  <meta property="og:description" content="Nested simulation concerns estimating functionals of a conditional expectation via simulation. In this paper, we propose a new method based on kernel ridge regression to exploit the smoothness of the conditional expectation as a function of the multidimensional conditioning variable. Asymptotic analysis shows that the proposed method can effectively alleviate the curse of dimensionality on the convergence rate as the simulation budget increases, provided that the conditional expectation is sufficiently smooth. The smoothness bridges the gap between the cubic root convergence rate (that is, the optimal rate for the standard nested simulation) and the square root convergence rate (that is, the canonical rate for the standard Monte Carlo simulation). We demonstrate the performance of the proposed method via numerical examples from portfolio risk management and input uncertainty quantification." /><meta property="og:image" content="https://xiaoweiz.github.io/publication/nested-simulation/featured.png" />
+    <meta property="twitter:image" content="https://xiaoweiz.github.io/publication/nested-simulation/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-07-19T10:00:00&#43;08:00"
+        content="2022-01-09T13:38:42&#43;08:00"
       />
     
-    <meta property="article:modified_time" content="2021-07-19T10:00:00&#43;08:00">
+    <meta property="article:modified_time" content="2022-01-09T13:38:42&#43;08:00">
   
 
   
@@ -336,20 +336,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://xiaoweiz.github.io/publication/high-dim-sim-opt/"
+    "@id": "https://xiaoweiz.github.io/publication/nested-simulation/"
   },
-  "headline": "High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids",
+  "headline": "Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions",
   
   "image": [
-    "https://xiaoweiz.github.io/publication/high-dim-sim-opt/featured.png"
+    "https://xiaoweiz.github.io/publication/nested-simulation/featured.png"
   ],
   
-  "datePublished": "2021-07-19T10:00:00+08:00",
-  "dateModified": "2021-07-19T10:00:00+08:00",
+  "datePublished": "2022-01-09T13:38:42+08:00",
+  "dateModified": "2022-01-09T13:38:42+08:00",
   
   "author": {
     "@type": "Person",
-    "name": "Liang Ding"
+    "name": "Wenjia Wang"
   },
   
   "publisher": {
@@ -360,7 +360,7 @@
       "url": "https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "High-dimensional simulation optimization is notoriously challenging. We propose a new sampling algorithm that converges to a global optimal solution and suffers minimally from the curse of dimensionality. The algorithm consists of two stages. First, we take samples following a sparse grid experimental design and approximate the response surface via kernel ridge regression with a Brownian field kernel. Second, we follow the expected improvement strategy---with critical modifications that boost the algorithm's sample efficiency---to iteratively sample from the next level of the sparse grid. Under mild conditions on the smoothness of the response surface and the simulation noise, we establish upper bounds on the convergence rate for both noise-free and noisy simulation samples. These upper bounds deteriorate only slightly in the dimension of the feasible set, and they can be improved if the objective function is known to be of a higher-order smoothness. Extensive numerical experiments demonstrate that the proposed algorithm dramatically outperforms typical alternatives in practice."
+  "description": "Nested simulation concerns estimating functionals of a conditional expectation via simulation. In this paper, we propose a new method based on kernel ridge regression to exploit the smoothness of the conditional expectation as a function of the multidimensional conditioning variable. Asymptotic analysis shows that the proposed method can effectively alleviate the curse of dimensionality on the convergence rate as the simulation budget increases, provided that the conditional expectation is sufficiently smooth. The smoothness bridges the gap between the cubic root convergence rate (that is, the optimal rate for the standard nested simulation) and the square root convergence rate (that is, the canonical rate for the standard Monte Carlo simulation). We demonstrate the performance of the proposed method via numerical examples from portfolio risk management and input uncertainty quantification."
 }
 </script>
 
@@ -376,11 +376,11 @@
 
 
 
-  <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids | Xiaowei Zhang</title>
+  <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions | Xiaowei Zhang</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a946659c09060e0d197617262764ecac" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6021aa25123ea1533b259e0bc60c8de0" >
 
   
   
@@ -793,7 +793,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</h1>
+  <h1>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</h1>
 
   
 
@@ -810,8 +810,8 @@
     
 
   <span >
-      Liang Ding</span>, <span >
-      Rui Tuo</span>, <span class="author-highlighted">
+      Wenjia Wang</span>, <span >
+      Yanyuan Wang</span>, <span class="author-highlighted">
       Xiaowei Zhang</span>
   </div>
   
@@ -823,7 +823,7 @@
     
       
     
-    July 2021
+    January 2022
   </span>
   
 
@@ -856,14 +856,6 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2107.08595" target="_blank" rel="noopener">
-  Preprint
-</a>
-
 
 
 
@@ -878,7 +870,7 @@
 
 
   
-  <a class="btn btn-outline-primary btn-page-header" href="/project/simulation-optimization/">
+  <a class="btn btn-outline-primary btn-page-header" href="/project/simulation-metamodeling/">
     Project
   </a>
   
@@ -899,9 +891,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 263px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 241px;">
   <div style="position: relative">
-    <img src="/publication/high-dim-sim-opt/featured_hu410902789d8e12db974c2a18e04af9ca_255272_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="263" alt="" class="featured-image">
+    <img src="/publication/nested-simulation/featured_huff1bc28a53ad52030663311dab5c587a_257623_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="241" alt="" class="featured-image">
     
   </div>
 </div>
@@ -912,7 +904,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">High-dimensional simulation optimization is notoriously challenging. We propose a new sampling algorithm that converges to a global optimal solution and suffers minimally from the curse of dimensionality. The algorithm consists of two stages. First, we take samples following a sparse grid experimental design and approximate the response surface via kernel ridge regression with a Brownian field kernel. Second, we follow the expected improvement strategy&mdash;with critical modifications that boost the algorithm&rsquo;s sample efficiency&mdash;to iteratively sample from the next level of the sparse grid. Under mild conditions on the smoothness of the response surface and the simulation noise, we establish upper bounds on the convergence rate for both noise-free and noisy simulation samples. These upper bounds deteriorate only slightly in the dimension of the feasible set, and they can be improved if the objective function is known to be of a higher-order smoothness. Extensive numerical experiments demonstrate that the proposed algorithm dramatically outperforms typical alternatives in practice.</p>
+    <p class="pub-abstract">Nested simulation concerns estimating functionals of a conditional expectation via simulation. In this paper, we propose a new method based on kernel ridge regression to exploit the smoothness of the conditional expectation as a function of the multidimensional conditioning variable. Asymptotic analysis shows that the proposed method can effectively alleviate the curse of dimensionality on the convergence rate as the simulation budget increases, provided that the conditional expectation is sufficiently smooth. The smoothness bridges the gap between the cubic root convergence rate (that is, the optimal rate for the standard nested simulation) and the square root convergence rate (that is, the canonical rate for the standard Monte Carlo simulation). We demonstrate the performance of the proposed method via numerical examples from portfolio risk management and input uncertainty quantification.</p>
     
 
     
@@ -949,27 +941,15 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/simulation-optimization/">simulation optimization</a>
-  
   <a class="badge badge-light" href="/tag/kernel-ridge-regression/">kernel ridge regression</a>
   
-  <a class="badge badge-light" href="/tag/expected-improvement/">expected improvement</a>
+  <a class="badge badge-light" href="/tag/nested-simulation/">nested simulation</a>
   
-  <a class="badge badge-light" href="/tag/brownian-field/">Brownian field</a>
-  
-  <a class="badge badge-light" href="/tag/sparse-grid/">sparse grid</a>
-  
-  <a class="badge badge-light" href="/tag/gaussian-process/">Gaussian process</a>
-  
-  <a class="badge badge-light" href="/tag/tensor-markov-kernel/">tensor Markov kernel</a>
-  
-  <a class="badge badge-light" href="/tag/experimental-design/">experimental design</a>
-  
-  <a class="badge badge-light" href="/tag/matrix-inversion/">matrix inversion</a>
-  
-  <a class="badge badge-light" href="/tag/high-dimensional/">high-dimensional</a>
+  <a class="badge badge-light" href="/tag/smoothness/">smoothness</a>
   
   <a class="badge badge-light" href="/tag/convergence-rate/">convergence rate</a>
+  
+  <a class="badge badge-light" href="/tag/high-dimensional/">high-dimensional</a>
   
 </div>
 
@@ -986,7 +966,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/publication/high-dim-sim-opt/&amp;text=High-Dimensional%20Simulation%20Optimization%20via%20Brownian%20Fields%20and%20Sparse%20Grids" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/publication/nested-simulation/&amp;text=Smooth%20Nested%20Simulation:%20Bridging%20Cubic%20and%20Square%20Root%20Convergence%20Rates%20in%20High%20Dimensions" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -999,7 +979,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/publication/high-dim-sim-opt/&amp;t=High-Dimensional%20Simulation%20Optimization%20via%20Brownian%20Fields%20and%20Sparse%20Grids" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/publication/nested-simulation/&amp;t=Smooth%20Nested%20Simulation:%20Bridging%20Cubic%20and%20Square%20Root%20Convergence%20Rates%20in%20High%20Dimensions" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1012,7 +992,7 @@
       
       
       <li>
-        <a href="mailto:?subject=High-Dimensional%20Simulation%20Optimization%20via%20Brownian%20Fields%20and%20Sparse%20Grids&amp;body=https://xiaoweiz.github.io/publication/high-dim-sim-opt/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Smooth%20Nested%20Simulation:%20Bridging%20Cubic%20and%20Square%20Root%20Convergence%20Rates%20in%20High%20Dimensions&amp;body=https://xiaoweiz.github.io/publication/nested-simulation/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1025,7 +1005,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/publication/high-dim-sim-opt/&amp;title=High-Dimensional%20Simulation%20Optimization%20via%20Brownian%20Fields%20and%20Sparse%20Grids" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/publication/nested-simulation/&amp;title=Smooth%20Nested%20Simulation:%20Bridging%20Cubic%20and%20Square%20Root%20Convergence%20Rates%20in%20High%20Dimensions" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1038,7 +1018,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=High-Dimensional%20Simulation%20Optimization%20via%20Brownian%20Fields%20and%20Sparse%20Grids%20https://xiaoweiz.github.io/publication/high-dim-sim-opt/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Smooth%20Nested%20Simulation:%20Bridging%20Cubic%20and%20Square%20Root%20Convergence%20Rates%20in%20High%20Dimensions%20https://xiaoweiz.github.io/publication/nested-simulation/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1051,7 +1031,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/publication/high-dim-sim-opt/&amp;title=High-Dimensional%20Simulation%20Optimization%20via%20Brownian%20Fields%20and%20Sparse%20Grids" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/publication/nested-simulation/&amp;title=Smooth%20Nested%20Simulation:%20Bridging%20Cubic%20and%20Square%20Root%20Convergence%20Rates%20in%20High%20Dimensions" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1210,15 +1190,13 @@
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/publication/high-dim-sim-opt/">High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</a></li>
+      
       <li><a href="/publication/high-dim-kriging/">Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</a></li>
       
       <li><a href="/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/">Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</a></li>
       
-      <li><a href="/publication/nested-simulation/">Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</a></li>
-      
-      <li><a href="/talk/surrogate-based-simulation-optimization/">Surrogate-based Simulation Optimization</a></li>
-      
-      <li><a href="/publication/surrogate-based-so/">Surrogate-Based Simulation Optimization</a></li>
+      <li><a href="/publication/contextual-selection-high-dimension/">Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</a></li>
       
     </ul>
   </div>

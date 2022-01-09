@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kernel ridge regression | Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/tag/kernel-ridge-regression/</link>
-      <atom:link href="https://xiaoweiz.github.io/tag/kernel-ridge-regression/index.xml" rel="self" type="application/rss+xml" />
-    <description>kernel ridge regression</description>
+    <title>nested simulation | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/nested-simulation/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/nested-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>nested simulation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jan 2022 13:38:42 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>kernel ridge regression</title>
-      <link>https://xiaoweiz.github.io/tag/kernel-ridge-regression/</link>
+      <title>nested simulation</title>
+      <link>https://xiaoweiz.github.io/tag/nested-simulation/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://xiaoweiz.github.io/publication/nested-simulation/</link>
       <pubDate>Sun, 09 Jan 2022 13:38:42 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/nested-simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</title>
-      <link>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</link>
-      <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</guid>
       <description></description>
     </item>
     
