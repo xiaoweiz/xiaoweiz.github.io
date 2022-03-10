@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jan 2022 13:38:42 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 17:11:41 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Tue, 22 Mar 2022 17:11:41 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
@@ -57,14 +65,6 @@
       <link>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</link>
       <pubDate>Tue, 19 Oct 2021 10:02:20 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
-      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
-      <pubDate>Thu, 07 Oct 2021 22:11:41 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
       <description></description>
     </item>
     
