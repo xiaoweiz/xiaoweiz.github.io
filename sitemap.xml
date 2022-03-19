@@ -34,11 +34,25 @@
   <url>
     <loc></loc><lastmod>2022-03-22T17:11:41+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication-type/3/</loc><lastmod>2022-01-09T13:38:42+08:00</lastmod></url>
+    <loc>https://xiaoweiz.github.io/publication-type/3/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/convergence-rate/</loc><lastmod>2022-01-09T13:38:42+08:00</lastmod></url>
+    <loc>https://xiaoweiz.github.io/tag/convergence-rate/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/high-dimensional/</loc><lastmod>2022-01-09T13:38:42+08:00</lastmod></url>
+    <loc>https://xiaoweiz.github.io/tag/experimental-design/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/high-dimensional/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/matrix-inversion/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/high-dim-kriging/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/simulation-metamodeling/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/sparse-grid/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/stochastic-kriging/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/tensor-markov-kernel/</loc><lastmod>2022-03-19T10:00:00+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/tag/kernel-ridge-regression/</loc><lastmod>2022-01-09T13:38:42+08:00</lastmod></url>
   <url>
@@ -84,13 +98,7 @@
   <url>
     <loc>https://xiaoweiz.github.io/tag/upper-confidence-band/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/matrix-inversion/</loc><lastmod>2021-10-25T07:45:00-07:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/simulation-metamodeling/</loc><lastmod>2021-10-25T07:45:00-07:00</lastmod></url>
-  <url>
     <loc>https://xiaoweiz.github.io/tag/simulation-optimization/</loc><lastmod>2021-10-25T07:45:00-07:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/stochastic-kriging/</loc><lastmod>2021-10-25T07:45:00-07:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</loc><lastmod>2021-10-25T07:45:00-07:00</lastmod></url>
   <url>
@@ -108,17 +116,9 @@
   <url>
     <loc>https://xiaoweiz.github.io/tag/expected-improvement/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/experimental-design/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
-  <url>
     <loc>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/sparse-grid/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/tensor-markov-kernel/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/high-dim-kriging/</loc><lastmod>2021-06-09T10:00:00+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</loc><lastmod>2021-02-27T10:13:49+08:00</lastmod></url>
   <url>
