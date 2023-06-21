@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/publication-type/3/</link>
       <atom:link href="https://xiaoweiz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Apr 2023 13:38:42 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jun 2023 09:38:42 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://xiaoweiz.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publication/nested-simulation/</link>
+      <pubDate>Wed, 21 Jun 2023 09:38:42 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/nested-simulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model</title>
@@ -25,14 +33,6 @@
       <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
       <pubDate>Fri, 02 Sep 2022 18:06:44 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/publication/nested-simulation/</link>
-      <pubDate>Mon, 20 Jun 2022 13:38:42 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/nested-simulation/</guid>
       <description></description>
     </item>
     
