@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/tag/instrumental-variable/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/instrumental-variable/index.xml" rel="self" type="application/rss+xml" />
     <description>instrumental variable</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 18:06:44 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 18:02:20 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>instrumental variable</title>
       <link>https://xiaoweiz.github.io/tag/instrumental-variable/</link>
     </image>
+    
+    <item>
+      <title>Dynamic Selection in Algorithmic Decision-making</title>
+      <link>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</link>
+      <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Reinforcement Learning: An Instrumental Variable Approach</title>
@@ -25,14 +33,6 @@
       <link>https://xiaoweiz.github.io/talk/self-fulfilling-bandits-endogeneity-spillover-and-dynamic-selection-in-algorithmic-decision-making/</link>
       <pubDate>Mon, 15 Nov 2021 17:30:22 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/talk/self-fulfilling-bandits-endogeneity-spillover-and-dynamic-selection-in-algorithmic-decision-making/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-fulfilling Bandits: Dynamic Selection in Algorithmic Decision-making</title>
-      <link>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</link>
-      <pubDate>Tue, 19 Oct 2021 10:02:20 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</guid>
       <description></description>
     </item>
     

@@ -34,6 +34,22 @@
   <url>
     <loc></loc><lastmod>2023-09-28T08:38:42+08:00</lastmod></url>
   <url>
+    <loc>https://xiaoweiz.github.io/tag/contextual-bandit/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/dynamic-selection/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/endogeneity-spillover/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc>https://xiaoweiz.github.io/tag/self-fulfilling-bias/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+  <url>
     <loc>https://xiaoweiz.github.io/publication-type/2/</loc><lastmod>2023-09-25T13:38:42+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/publication/newsvendor-hedging/</loc><lastmod>2023-09-25T13:38:42+08:00</lastmod></url>
@@ -54,10 +70,6 @@
   <url>
     <loc>https://xiaoweiz.github.io/publication/causal-rl/</loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
-  <url>
     <loc>https://xiaoweiz.github.io/tag/markov-decision-process/</loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/tag/q-learning/</loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
@@ -65,8 +77,6 @@
     <loc>https://xiaoweiz.github.io/tag/reinforcement-learning/</loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/tag/stochastic-approximation/</loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2022-09-02T18:06:44+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/tag/experimental-design/</loc><lastmod>2022-08-22T10:00:00+08:00</lastmod></url>
   <url>
@@ -98,19 +108,11 @@
   <url>
     <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/contextual-bandit/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/dynamic-selection/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/endogeneity-spillover/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
-  <url>
     <loc>https://xiaoweiz.github.io/tag/greedy/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/event/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/talk/self-fulfilling-bandits-endogeneity-spillover-and-dynamic-selection-in-algorithmic-decision-making/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/tag/self-fulfilling-bias/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/tag/upper-confidence-band/</loc><lastmod>2021-11-15T17:30:22+08:00</lastmod></url>
   <url>
@@ -121,8 +123,6 @@
     <loc>https://xiaoweiz.github.io/publication-type/6/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod></url>
-  <url>
-    <loc>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</loc><lastmod>2021-10-19T10:02:20+08:00</lastmod></url>
   <url>
     <loc>https://xiaoweiz.github.io/tag/brownian-field/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
   <url>
