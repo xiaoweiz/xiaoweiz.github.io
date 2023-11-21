@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals (e.g., customers, orders, etc.) represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. In this talk, we will present a new statistical finding regarding the random fluctuations of the arrival process in large service systems, and propose a tractable model accordingly. When a service system under the new arrival model is scaled up, its dynamics is fundamentally different from that typical queueing analysis stipulates, and leads to a new staffing rule for managing the servers. At last, we will demonstrate via data-driven simulation that our staffing rule improves the system performance substantially in general." />
+  <meta name="description" content="Staffing rules serve as an essential management tool in service industries to attain target service levels. Traditionally, the square-root safety rule, based on the Poisson arrival assumption, has been commonly used. However, empirical findings suggest that arrival processes often exhibit an `over-dispersion&#39; phenomenon, in which the variance of the arrival exceeds the mean. In this paper, we develop a new doubly stochastic Poisson process model to capture a significant dispersion scaling law, known as Taylor&#39;s law, showing that the variance is a power function of the mean. We further examine how over-dispersion affects staffing, providing a closed-form staffing formula to ensure a desired service level. Interestingly, the additional staffing level beyond the nominal load is a power function of the nominal load, with the power exponent lying between 1/2 (the square-root safety rule) and 1 (the linear safety rule), depending on the degree of over-dispersion. Simulation studies and a large-scale call center case study indicate that our staffing rule outperforms classical alternatives." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/" />
+  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/publication/taylor-staffing/" />
 
   
   
@@ -281,7 +281,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/" />
+  <link rel="canonical" href="https://xiaoweiz.github.io/publication/taylor-staffing/" />
 
   
   
@@ -292,7 +292,6 @@
   
   
     
-    
   
   
 
@@ -301,29 +300,32 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Xiaowei Zhang" />
-  <meta property="og:url" content="https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/" />
-  <meta property="og:title" content="Fluctuation Scaling in Large Service Systems | Xiaowei Zhang" />
-  <meta property="og:description" content="Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals (e.g., customers, orders, etc.) represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. In this talk, we will present a new statistical finding regarding the random fluctuations of the arrival process in large service systems, and propose a tractable model accordingly. When a service system under the new arrival model is scaled up, its dynamics is fundamentally different from that typical queueing analysis stipulates, and leads to a new staffing rule for managing the servers. At last, we will demonstrate via data-driven simulation that our staffing rule improves the system performance substantially in general." /><meta property="og:image" content="https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://xiaoweiz.github.io/publication/taylor-staffing/" />
+  <meta property="og:title" content="Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules | Xiaowei Zhang" />
+  <meta property="og:description" content="Staffing rules serve as an essential management tool in service industries to attain target service levels. Traditionally, the square-root safety rule, based on the Poisson arrival assumption, has been commonly used. However, empirical findings suggest that arrival processes often exhibit an `over-dispersion&#39; phenomenon, in which the variance of the arrival exceeds the mean. In this paper, we develop a new doubly stochastic Poisson process model to capture a significant dispersion scaling law, known as Taylor&#39;s law, showing that the variance is a power function of the mean. We further examine how over-dispersion affects staffing, providing a closed-form staffing formula to ensure a desired service level. Interestingly, the additional staffing level beyond the nominal load is a power function of the nominal load, with the power exponent lying between 1/2 (the square-root safety rule) and 1 (the linear safety rule), depending on the degree of over-dispersion. Simulation studies and a large-scale call center case study indicate that our staffing rule outperforms classical alternatives." /><meta property="og:image" content="https://xiaoweiz.github.io/publication/taylor-staffing/featured.png" />
+    <meta property="twitter:image" content="https://xiaoweiz.github.io/publication/taylor-staffing/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-02-27T12:50:25&#43;08:00"
+        content="2023-11-18T10:02:21&#43;08:00"
       />
     
-    <meta property="article:modified_time" content="2018-06-05T09:30:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-11-18T10:02:21&#43;08:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
 
 
 
@@ -331,39 +333,34 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/"
+    "@id": "https://xiaoweiz.github.io/publication/taylor-staffing/"
   },
-  "name": "Fluctuation Scaling in Large Service Systems",
+  "headline": "Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules",
   
-  "location": {
-    "@type": "Place",
-    "name": "Qingdao, China",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "",
-      "addressLocality": "",
-      "postalCode": "",
-      "addressRegion": "",
-      "addressCountry": ""
-    }
-    
-  },
+  "image": [
+    "https://xiaoweiz.github.io/publication/taylor-staffing/featured.png"
+  ],
   
+  "datePublished": "2023-11-18T10:02:21+08:00",
+  "dateModified": "2023-11-18T10:02:21+08:00",
   
-  "startDate": "2018-06-05T09:30:00Z",
-  
-  "endDate": "2018-06-05T10:00:00Z",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
-    "name": "Xiaowei Zhang"
+    "name": "L. Jeff Hong"
   },
   
-  "description": "Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals (e.g., customers, orders, etc.) represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. In this talk, we will present a new statistical finding regarding the random fluctuations of the arrival process in large service systems, and propose a tractable model accordingly. When a service system under the new arrival model is scaled up, its dynamics is fundamentally different from that typical queueing analysis stipulates, and leads to a new staffing rule for managing the servers. At last, we will demonstrate via data-driven simulation that our staffing rule improves the system performance substantially in general."
+  "publisher": {
+    "@type": "Organization",
+    "name": "Xiaowei Zhang",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Staffing rules serve as an essential management tool in service industries to attain target service levels. Traditionally, the square-root safety rule, based on the Poisson arrival assumption, has been commonly used. However, empirical findings suggest that arrival processes often exhibit an `over-dispersion' phenomenon, in which the variance of the arrival exceeds the mean. In this paper, we develop a new doubly stochastic Poisson process model to capture a significant dispersion scaling law, known as Taylor's law, showing that the variance is a power function of the mean. We further examine how over-dispersion affects staffing, providing a closed-form staffing formula to ensure a desired service level. Interestingly, the additional staffing level beyond the nominal load is a power function of the nominal load, with the power exponent lying between 1/2 (the square-root safety rule) and 1 (the linear safety rule), depending on the degree of over-dispersion. Simulation studies and a large-scale call center case study indicate that our staffing rule outperforms classical alternatives."
 }
 </script>
 
@@ -373,15 +370,17 @@
 
   
 
+  
 
 
 
 
-  <title>Fluctuation Scaling in Large Service Systems | Xiaowei Zhang</title>
+
+  <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules | Xiaowei Zhang</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6cdad53db4d529212ac6f1f4585221c7" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a9055b66ab964a7b28346112d8432061" >
 
   
   
@@ -719,40 +718,77 @@
   </div>
 
   <div class="page-body">
-    <div class="pub">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1>Fluctuation Scaling in Large Service Systems</h1>
-
-  
-
-  
     
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</h1>
+
+  
+
+  
 
 
 <div class="article-metadata">
 
   
   
+  
+  
+  <div>
+    
 
+  <span >
+      L. Jeff Hong</span>, <span >
+      Weihuan Huang</span>, <span >
+      Jiheng Zhang</span>, <span class="author-highlighted">
+      Xiaowei Zhang</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    November 2023
+  </span>
   
 
   
@@ -771,7 +807,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -784,16 +820,20 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2311.11279" target="_blank" rel="noopener">
+  Preprint
+</a>
+
 
 
 
   
 
 
-
-<a class="btn btn-outline-primary btn-page-header" href="/talk/fluctuation-scaling-in-large-service-systems/Qingdao18.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -820,7 +860,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 331px;">
+  <div style="position: relative">
+    <img src="/publication/taylor-staffing/featured_hue9c134eb41d2c00f731b4fcfd9763be0_575299_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="331" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -828,33 +875,20 @@
   <div class="article-container">
 
     
-      <h3>Abstract</h3>
-      <p class="pub-abstract">Operational decision making in service systems often depends largely on the characterization of the random fluctuations involved. Exogenous arrivals (e.g., customers, orders, etc.) represent a primary source of uncertainty and their stochastic behavior needs to be modeled carefully. In this talk, we will present a new statistical finding regarding the random fluctuations of the arrival process in large service systems, and propose a tractable model accordingly. When a service system under the new arrival model is scaled up, its dynamics is fundamentally different from that typical queueing analysis stipulates, and leads to a new staffing rule for managing the servers. At last, we will demonstrate via data-driven simulation that our staffing rule improves the system performance substantially in general.</p>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Staffing rules serve as an essential management tool in service industries to attain target service levels. Traditionally, the square-root safety rule, based on the Poisson arrival assumption, has been commonly used. However, empirical findings suggest that arrival processes often exhibit an `over-dispersion&rsquo; phenomenon, in which the variance of the arrival exceeds the mean. In this paper, we develop a new doubly stochastic Poisson process model to capture a significant dispersion scaling law, known as Taylor&rsquo;s law, showing that the variance is a power function of the mean. We further examine how over-dispersion affects staffing, providing a closed-form staffing formula to ensure a desired service level. Interestingly, the additional staffing level beyond the nominal load is a power function of the nominal load, with the power exponent lying between 1/2 (the square-root safety rule) and 1 (the linear safety rule), depending on the degree of over-dispersion. Simulation studies and a large-scale call center case study indicate that our staffing rule outperforms classical alternatives.</p>
     
 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Jun 5, 2018 9:30 AM &mdash; 10:00 AM
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-
+    
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="http://www.ie.tsinghua.edu.cn/tsinghua-poms-2018/" target="_blank" rel="noopener">
-            Tsinghua-JD-POMS International Workshop
+            <a href="/publication/#3">
+              Preprint
             </a>
           </div>
         </div>
@@ -869,12 +903,8 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Qingdao, China</div>
-          
-            <div class="col-md-3"></div>
-            <div class="col-12 col-md-9"></div>
-          
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Submitted</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -884,9 +914,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style">
-      
-    </div>
+    <div class="article-style"></div>
 
     
 
@@ -897,15 +925,13 @@
 
 <div class="article-tags">
   
+  <a class="badge badge-light" href="/tag/over-dispersion/">over-dispersion</a>
+  
   <a class="badge badge-light" href="/tag/taylors-law/">Taylor&#39;s law</a>
-  
-  <a class="badge badge-light" href="/tag/arrival-data/">arrival data</a>
-  
-  <a class="badge badge-light" href="/tag/heavy-traffic/">heavy traffic</a>
   
   <a class="badge badge-light" href="/tag/doubly-stochastic-poisson-process/">doubly stochastic Poisson process</a>
   
-  <a class="badge badge-light" href="/tag/overdispersion/">overdispersion</a>
+  <a class="badge badge-light" href="/tag/staffing-rule/">staffing rule</a>
   
 </div>
 
@@ -922,7 +948,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/&amp;text=Fluctuation%20Scaling%20in%20Large%20Service%20Systems" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/publication/taylor-staffing/&amp;text=Staffing%20under%20Taylor&amp;#39;s%20Law:%20A%20Unifying%20Framework%20for%20Bridging%20Square-root%20and%20Linear%20Safety%20Rules" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -935,7 +961,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/&amp;t=Fluctuation%20Scaling%20in%20Large%20Service%20Systems" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/publication/taylor-staffing/&amp;t=Staffing%20under%20Taylor&amp;#39;s%20Law:%20A%20Unifying%20Framework%20for%20Bridging%20Square-root%20and%20Linear%20Safety%20Rules" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -948,7 +974,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Fluctuation%20Scaling%20in%20Large%20Service%20Systems&amp;body=https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Staffing%20under%20Taylor&amp;#39;s%20Law:%20A%20Unifying%20Framework%20for%20Bridging%20Square-root%20and%20Linear%20Safety%20Rules&amp;body=https://xiaoweiz.github.io/publication/taylor-staffing/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -961,7 +987,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/&amp;title=Fluctuation%20Scaling%20in%20Large%20Service%20Systems" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/publication/taylor-staffing/&amp;title=Staffing%20under%20Taylor&amp;#39;s%20Law:%20A%20Unifying%20Framework%20for%20Bridging%20Square-root%20and%20Linear%20Safety%20Rules" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -974,7 +1000,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Fluctuation%20Scaling%20in%20Large%20Service%20Systems%20https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Staffing%20under%20Taylor&amp;#39;s%20Law:%20A%20Unifying%20Framework%20for%20Bridging%20Square-root%20and%20Linear%20Safety%20Rules%20https://xiaoweiz.github.io/publication/taylor-staffing/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -987,7 +1013,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/&amp;title=Fluctuation%20Scaling%20in%20Large%20Service%20Systems" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/publication/taylor-staffing/&amp;title=Staffing%20under%20Taylor&amp;#39;s%20Law:%20A%20Unifying%20Framework%20for%20Bridging%20Square-root%20and%20Linear%20Safety%20Rules" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1007,6 +1033,25 @@
 
   
   
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
 
 
 
@@ -1097,6 +1142,7 @@
   </div>
 
 
+  
 
 
 
@@ -1117,11 +1163,11 @@
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/talk/fluctuation-scaling-in-large-service-systems/">Fluctuation Scaling in Large Service Systems</a></li>
+      
       <li><a href="/publication/scaling-arrival-wsc/">Scaling and Modeling of Call Center Arrivals</a></li>
       
       <li><a href="/publication/bayesian-modeling-arrival-wsc/">A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</a></li>
-      
-      <li><a href="/publication/taylor-staffing/">Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</a></li>
       
     </ul>
   </div>
