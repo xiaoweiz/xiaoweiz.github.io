@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 08:38:42 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:00:00 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
@@ -65,14 +73,6 @@
       <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
       <pubDate>Fri, 02 Sep 2022 18:06:44 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
-      <pubDate>Mon, 22 Aug 2022 10:00:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
       <description></description>
     </item>
     
