@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/publication-type/3/</link>
       <atom:link href="https://xiaoweiz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 01:31:22 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 18:06:44 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://xiaoweiz.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
+      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
+      <pubDate>Fri, 20 Dec 2024 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
@@ -57,14 +65,6 @@
       <link>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</link>
       <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal Reinforcement Learning: An Instrumental Variable Approach</title>
-      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
-      <pubDate>Fri, 02 Sep 2022 18:06:44 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
       <description></description>
     </item>
     
