@@ -37,14 +37,6 @@
     </item>
     
     <item>
-      <title>Surrogate-based Simulation Optimization</title>
-      <link>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</link>
-      <pubDate>Mon, 25 Oct 2021 07:45:00 -0700</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Surrogate-Based Simulation Optimization</title>
       <link>https://xiaoweiz.github.io/publication/surrogate-based-so/</link>
       <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
@@ -61,34 +53,10 @@
     </item>
     
     <item>
-      <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
-      <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</link>
-      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
       <link>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</link>
       <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</link>
-      <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</guid>
       <description></description>
     </item>
     
@@ -113,22 +81,6 @@
       <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
       <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</link>
-      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</link>
-      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</guid>
       <description></description>
     </item>
     

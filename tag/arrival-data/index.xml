@@ -5,20 +5,12 @@
     <link>https://xiaoweiz.github.io/tag/arrival-data/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/arrival-data/index.xml" rel="self" type="application/rss+xml" />
     <description>arrival data</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jun 2018 09:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2014 18:06:44 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>arrival data</title>
       <link>https://xiaoweiz.github.io/tag/arrival-data/</link>
     </image>
-    
-    <item>
-      <title>Fluctuation Scaling in Large Service Systems</title>
-      <link>https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/</link>
-      <pubDate>Tue, 05 Jun 2018 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Scaling and Modeling of Call Center Arrivals</title>

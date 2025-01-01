@@ -5,100 +5,12 @@
     <link>https://xiaoweiz.github.io/event/</link>
       <atom:link href="https://xiaoweiz.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 17:30:22 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://xiaoweiz.github.io/event/</link>
     </image>
-    
-    <item>
-      <title>Self-fulfilling Bandits: Endogeneity Spillover and Dynamic Selection in Algorithmic Decision-making</title>
-      <link>https://xiaoweiz.github.io/talk/self-fulfilling-bandits-endogeneity-spillover-and-dynamic-selection-in-algorithmic-decision-making/</link>
-      <pubDate>Mon, 15 Nov 2021 17:30:22 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/self-fulfilling-bandits-endogeneity-spillover-and-dynamic-selection-in-algorithmic-decision-making/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surrogate-based Simulation Optimization</title>
-      <link>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</link>
-      <pubDate>Mon, 25 Oct 2021 07:45:00 -0700</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
-      <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Sequential Learning for Contextual Selection</title>
-      <link>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</link>
-      <pubDate>Sat, 01 Jun 2019 11:30:00 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/bayesian-sequential-learning-for-contextual-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
-      <link>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</link>
-      <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data-Driven Ranking and Selection: High-Dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/talk/data-driven-ranking-and-selection-high-dimensional-covariates-and-general-dependence/</link>
-      <pubDate>Mon, 10 Dec 2018 11:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/data-driven-ranking-and-selection-high-dimensional-covariates-and-general-dependence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuation Scaling in Large Service Systems</title>
-      <link>https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/</link>
-      <pubDate>Tue, 05 Jun 2018 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/fluctuation-scaling-in-large-service-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking and Selection with Covariates: Simulation for Personalized Decision Making</title>
-      <link>https://xiaoweiz.github.io/talk/ranking-and-selection-with-covariates-simulation-for-personalized-decision-making/</link>
-      <pubDate>Thu, 29 Mar 2018 15:00:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/ranking-and-selection-with-covariates-simulation-for-personalized-decision-making/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
-      <link>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</link>
-      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Approaches for Enhancing Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</link>
-      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
-      <link>https://xiaoweiz.github.io/talk/affine-jump-diffusions-stochastic-stability-and-limit-theorems/</link>
-      <pubDate>Thu, 11 May 2017 15:30:00 +0000</pubDate>
-      <guid>https://xiaoweiz.github.io/talk/affine-jump-diffusions-stochastic-stability-and-limit-theorems/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
