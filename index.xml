@@ -5,12 +5,28 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 20:40:11 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2025 14:42:08 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Sparse Additive Contextual Bandits: A Nonparametric Approach for Online Decision-making with High-dimensional Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/sparkle/</link>
+      <pubDate>Mon, 17 Mar 2025 14:42:08 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/sparkle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Inference for Weighted Sample Average Approximation in Contextual Stochastic Optimization</title>
+      <link>https://xiaoweiz.github.io/publication/wsaa/</link>
+      <pubDate>Fri, 14 Mar 2025 13:26:23 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/wsaa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Seesaw Experimentation: A/B Tests with Spillovers</title>
