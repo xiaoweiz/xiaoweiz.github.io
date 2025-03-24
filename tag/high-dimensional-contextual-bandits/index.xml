@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reproducing kernel Hilbert space | Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/tag/reproducing-kernel-hilbert-space/</link>
-      <atom:link href="https://xiaoweiz.github.io/tag/reproducing-kernel-hilbert-space/index.xml" rel="self" type="application/rss+xml" />
-    <description>reproducing kernel Hilbert space</description>
+    <title>high-dimensional contextual bandits | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/high-dimensional-contextual-bandits/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/high-dimensional-contextual-bandits/index.xml" rel="self" type="application/rss+xml" />
+    <description>high-dimensional contextual bandits</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2025 14:42:08 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>reproducing kernel Hilbert space</title>
-      <link>https://xiaoweiz.github.io/tag/reproducing-kernel-hilbert-space/</link>
+      <title>high-dimensional contextual bandits</title>
+      <link>https://xiaoweiz.github.io/tag/high-dimensional-contextual-bandits/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://xiaoweiz.github.io/publication/sparkle/</link>
       <pubDate>Mon, 17 Mar 2025 14:42:08 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/sparkle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regret Optimality of GP-UCB</title>
-      <link>https://xiaoweiz.github.io/publication/gp-ucb/</link>
-      <pubDate>Sun, 03 Dec 2023 00:33:41 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/gp-ucb/</guid>
       <description></description>
     </item>
     
