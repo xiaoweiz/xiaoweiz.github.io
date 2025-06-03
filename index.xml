@@ -5,12 +5,28 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 10:02:21 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 14:36:33 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Can AI Master Econometrics? Evidence from Econometrics AI Agent on Expert-Level Tasks</title>
+      <link>https://xiaoweiz.github.io/publication/econometrics-ai/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/econometrics-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
+      <pubDate>Sat, 31 May 2025 01:31:22 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</title>
@@ -61,14 +77,6 @@
     </item>
     
     <item>
-      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
-      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
-      <pubDate>Mon, 09 Dec 2024 01:31:22 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AI Persuasion, Bayesian Attribution, and Career Concerns of Doctors</title>
       <link>https://xiaoweiz.github.io/publication/ai-doctor/</link>
       <pubDate>Tue, 01 Oct 2024 10:02:21 +0800</pubDate>
@@ -89,14 +97,6 @@
       <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
       <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regret Optimality of GP-UCB</title>
-      <link>https://xiaoweiz.github.io/publication/gp-ucb/</link>
-      <pubDate>Sun, 03 Dec 2023 00:33:41 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/gp-ucb/</guid>
       <description></description>
     </item>
     
