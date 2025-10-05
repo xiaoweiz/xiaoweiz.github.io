@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavioral operations management | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/behavioral-operations-management/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/behavioral-operations-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>behavioral operations management</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 04:00:11 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>behavioral operations management</title>
+      <link>https://xiaoweiz.github.io/tag/behavioral-operations-management/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
+      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
+      <pubDate>Tue, 30 Sep 2025 04:00:11 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
