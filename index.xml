@@ -5,7 +5,7 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 04:00:11 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 14:06:44 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
+      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
       <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
-      <pubDate>Tue, 30 Sep 2025 04:00:11 +0800</pubDate>
+      <pubDate>Wed, 01 Oct 2025 04:00:11 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
       <description></description>
     </item>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>Staffing Under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</title>
+      <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</title>
       <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
       <pubDate>Thu, 01 May 2025 10:02:21 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
@@ -65,14 +73,6 @@
       <link>https://xiaoweiz.github.io/publication/seesaw/</link>
       <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/seesaw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
-      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
-      <pubDate>Fri, 20 Dec 2024 18:06:44 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
       <description></description>
     </item>
     
