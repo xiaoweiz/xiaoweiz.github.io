@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/</link>
       <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaowei Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 13:26:23 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 23:35:21 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaowei Zhang</title>
       <link>https://xiaoweiz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</title>
+      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#39;&#39;Over-optimizing&#39;&#39; for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making</title>
@@ -49,14 +57,6 @@
       <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
       <pubDate>Sat, 31 May 2025 01:31:22 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules</title>
-      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
-      <pubDate>Thu, 01 May 2025 10:02:21 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
       <description></description>
     </item>
     
