@@ -60,7 +60,7 @@
   
     
   
-  <meta name="description" content="Contextual stochastic optimization provides a framework for decision-making under uncertainty incorporating observable contextual information through covariates. We analyze statistical inference for weighted sample average approximation (wSAA), a widely-used method for solving contextual stochastic optimization problems. We first establish central limit theorems for wSAA estimates of optimal values when problems can be solved exactly, characterizing how estimation uncertainty scales with covariate sample size. We then investigate practical scenarios with computational budget constraints, revealing a fundamental tradeoff between statistical accuracy and computational cost as sample sizes increase. Through central limit theorems for budget-constrained wSAA estimates, we precisely characterize this statistical-computational tradeoff. We also develop &#34;over-optimizing&#34; strategies for solving wSAA problems that ensure valid statistical inference. Extensive numerical experiments on both synthetic and real-world datasets validate our theoretical findings." />
+  <meta name="description" content="We study uncertainty quantification for contextual stochastic optimization, focusing on weighted sample average approximation (wSAA), which uses machine-learned relevance weights based on covariates. Although wSAA is widely used for contextual decisions, its uncertainty quantification remains limited. In addition, computational budgets tie sample size to optimization accuracy, creating a coupling that standard analyses often ignore. We establish central limit theorems for wSAA and construct asymptotic-normality-based confidence intervals for optimal conditional expected costs. We analyze the statistical--computational tradeoff under a computational budget, characterizing how to allocate resources between sample size and optimization iterations to balance statistical and optimization errors. These allocation rules depend on structural parameters of the objective; misspecifying them can break the asymptotic optimality of the wSAA estimator. We show that &#39;&#39;over-optimizing&#39;&#39; (running more iterations than the nominal rule) mitigates this misspecification and preserves asymptotic normality, at the expense of a slight slowdown in the convergence rate of the budget-constrained estimator. The common intuition that &#39;&#39;more data is better&#39;&#39; can fail under computational constraints: increasing the sample size may worsen statistical inference by forcing fewer algorithm iterations and larger optimization error. Our framework provides a principled way to quantify uncertainty for contextual decision-making under computational constraints. It offers practical guidance on allocating limited resources between data acquisition and optimization effort, clarifying when to prioritize additional optimization iterations over more data to ensure valid confidence intervals for conditional performance." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/publication/wsaa/" />
@@ -304,8 +304,8 @@
   
   <meta property="og:site_name" content="Xiaowei Zhang" />
   <meta property="og:url" content="https://xiaoweiz.github.io/publication/wsaa/" />
-  <meta property="og:title" content="Statistical Inference for Weighted Sample Average Approximation in Contextual Stochastic Optimization | Xiaowei Zhang" />
-  <meta property="og:description" content="Contextual stochastic optimization provides a framework for decision-making under uncertainty incorporating observable contextual information through covariates. We analyze statistical inference for weighted sample average approximation (wSAA), a widely-used method for solving contextual stochastic optimization problems. We first establish central limit theorems for wSAA estimates of optimal values when problems can be solved exactly, characterizing how estimation uncertainty scales with covariate sample size. We then investigate practical scenarios with computational budget constraints, revealing a fundamental tradeoff between statistical accuracy and computational cost as sample sizes increase. Through central limit theorems for budget-constrained wSAA estimates, we precisely characterize this statistical-computational tradeoff. We also develop &#34;over-optimizing&#34; strategies for solving wSAA problems that ensure valid statistical inference. Extensive numerical experiments on both synthetic and real-world datasets validate our theoretical findings." /><meta property="og:image" content="https://xiaoweiz.github.io/publication/wsaa/featured.png" />
+  <meta property="og:title" content="&#39;&#39;Over-optimizing&#39;&#39; for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making | Xiaowei Zhang" />
+  <meta property="og:description" content="We study uncertainty quantification for contextual stochastic optimization, focusing on weighted sample average approximation (wSAA), which uses machine-learned relevance weights based on covariates. Although wSAA is widely used for contextual decisions, its uncertainty quantification remains limited. In addition, computational budgets tie sample size to optimization accuracy, creating a coupling that standard analyses often ignore. We establish central limit theorems for wSAA and construct asymptotic-normality-based confidence intervals for optimal conditional expected costs. We analyze the statistical--computational tradeoff under a computational budget, characterizing how to allocate resources between sample size and optimization iterations to balance statistical and optimization errors. These allocation rules depend on structural parameters of the objective; misspecifying them can break the asymptotic optimality of the wSAA estimator. We show that &#39;&#39;over-optimizing&#39;&#39; (running more iterations than the nominal rule) mitigates this misspecification and preserves asymptotic normality, at the expense of a slight slowdown in the convergence rate of the budget-constrained estimator. The common intuition that &#39;&#39;more data is better&#39;&#39; can fail under computational constraints: increasing the sample size may worsen statistical inference by forcing fewer algorithm iterations and larger optimization error. Our framework provides a principled way to quantify uncertainty for contextual decision-making under computational constraints. It offers practical guidance on allocating limited resources between data acquisition and optimization effort, clarifying when to prioritize additional optimization iterations over more data to ensure valid confidence intervals for conditional performance." /><meta property="og:image" content="https://xiaoweiz.github.io/publication/wsaa/featured.png" />
     <meta property="twitter:image" content="https://xiaoweiz.github.io/publication/wsaa/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -314,7 +314,7 @@
         content="2025-03-14T13:26:23&#43;08:00"
       />
     
-    <meta property="article:modified_time" content="2025-03-14T13:26:23&#43;08:00">
+    <meta property="article:modified_time" content="2025-10-11T13:26:23&#43;08:00">
   
 
   
@@ -338,14 +338,14 @@
     "@type": "WebPage",
     "@id": "https://xiaoweiz.github.io/publication/wsaa/"
   },
-  "headline": "Statistical Inference for Weighted Sample Average Approximation in Contextual Stochastic Optimization",
+  "headline": "''Over-optimizing'' for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making",
   
   "image": [
     "https://xiaoweiz.github.io/publication/wsaa/featured.png"
   ],
   
   "datePublished": "2025-03-14T13:26:23+08:00",
-  "dateModified": "2025-03-14T13:26:23+08:00",
+  "dateModified": "2025-10-11T13:26:23+08:00",
   
   "author": {
     "@type": "Person",
@@ -360,7 +360,7 @@
       "url": "https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Contextual stochastic optimization provides a framework for decision-making under uncertainty incorporating observable contextual information through covariates. We analyze statistical inference for weighted sample average approximation (wSAA), a widely-used method for solving contextual stochastic optimization problems. We first establish central limit theorems for wSAA estimates of optimal values when problems can be solved exactly, characterizing how estimation uncertainty scales with covariate sample size. We then investigate practical scenarios with computational budget constraints, revealing a fundamental tradeoff between statistical accuracy and computational cost as sample sizes increase. Through central limit theorems for budget-constrained wSAA estimates, we precisely characterize this statistical-computational tradeoff. We also develop \"over-optimizing\" strategies for solving wSAA problems that ensure valid statistical inference. Extensive numerical experiments on both synthetic and real-world datasets validate our theoretical findings."
+  "description": "We study uncertainty quantification for contextual stochastic optimization, focusing on weighted sample average approximation (wSAA), which uses machine-learned relevance weights based on covariates. Although wSAA is widely used for contextual decisions, its uncertainty quantification remains limited. In addition, computational budgets tie sample size to optimization accuracy, creating a coupling that standard analyses often ignore. We establish central limit theorems for wSAA and construct asymptotic-normality-based confidence intervals for optimal conditional expected costs. We analyze the statistical--computational tradeoff under a computational budget, characterizing how to allocate resources between sample size and optimization iterations to balance statistical and optimization errors. These allocation rules depend on structural parameters of the objective; misspecifying them can break the asymptotic optimality of the wSAA estimator. We show that ''over-optimizing'' (running more iterations than the nominal rule) mitigates this misspecification and preserves asymptotic normality, at the expense of a slight slowdown in the convergence rate of the budget-constrained estimator. The common intuition that ''more data is better'' can fail under computational constraints: increasing the sample size may worsen statistical inference by forcing fewer algorithm iterations and larger optimization error. Our framework provides a principled way to quantify uncertainty for contextual decision-making under computational constraints. It offers practical guidance on allocating limited resources between data acquisition and optimization effort, clarifying when to prioritize additional optimization iterations over more data to ensure valid confidence intervals for conditional performance."
 }
 </script>
 
@@ -376,7 +376,7 @@
 
 
 
-  <title>Statistical Inference for Weighted Sample Average Approximation in Contextual Stochastic Optimization | Xiaowei Zhang</title>
+  <title>&#39;&#39;Over-optimizing&#39;&#39; for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making | Xiaowei Zhang</title>
 </head>
 
 
@@ -682,7 +682,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Statistical Inference for Weighted Sample Average Approximation in Contextual Stochastic Optimization</h1>
+  <h1>&#39;&#39;Over-optimizing&#39;&#39; for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making</h1>
 
   
 
@@ -711,7 +711,7 @@
     
       
     
-    March 2025
+    October 2025
   </span>
   
 
@@ -794,7 +794,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Contextual stochastic optimization provides a framework for decision-making under uncertainty incorporating observable contextual information through covariates. We analyze statistical inference for weighted sample average approximation (wSAA), a widely-used method for solving contextual stochastic optimization problems. We first establish central limit theorems for wSAA estimates of optimal values when problems can be solved exactly, characterizing how estimation uncertainty scales with covariate sample size. We then investigate practical scenarios with computational budget constraints, revealing a fundamental tradeoff between statistical accuracy and computational cost as sample sizes increase. Through central limit theorems for budget-constrained wSAA estimates, we precisely characterize this statistical-computational tradeoff. We also develop &ldquo;over-optimizing&rdquo; strategies for solving wSAA problems that ensure valid statistical inference. Extensive numerical experiments on both synthetic and real-world datasets validate our theoretical findings.</p>
+    <p class="pub-abstract">We study uncertainty quantification for contextual stochastic optimization, focusing on weighted sample average approximation (wSAA), which uses machine-learned relevance weights based on covariates. Although wSAA is widely used for contextual decisions, its uncertainty quantification remains limited. In addition, computational budgets tie sample size to optimization accuracy, creating a coupling that standard analyses often ignore. We establish central limit theorems for wSAA and construct asymptotic-normality-based confidence intervals for optimal conditional expected costs. We analyze the statistical&ndash;computational tradeoff under a computational budget, characterizing how to allocate resources between sample size and optimization iterations to balance statistical and optimization errors. These allocation rules depend on structural parameters of the objective; misspecifying them can break the asymptotic optimality of the wSAA estimator. We show that &lsquo;&lsquo;over-optimizing&rsquo;&rsquo; (running more iterations than the nominal rule) mitigates this misspecification and preserves asymptotic normality, at the expense of a slight slowdown in the convergence rate of the budget-constrained estimator. The common intuition that &lsquo;&lsquo;more data is better&rsquo;&rsquo; can fail under computational constraints: increasing the sample size may worsen statistical inference by forcing fewer algorithm iterations and larger optimization error. Our framework provides a principled way to quantify uncertainty for contextual decision-making under computational constraints. It offers practical guidance on allocating limited resources between data acquisition and optimization effort, clarifying when to prioritize additional optimization iterations over more data to ensure valid confidence intervals for conditional performance.</p>
     
 
     
@@ -845,13 +845,13 @@
   
   <a class="badge badge-light" href="/tag/contextual-stochastic-optimization/">contextual stochastic optimization</a>
   
-  <a class="badge badge-light" href="/tag/weighted-sample-average-approximation/">weighted sample average approximation</a>
+  <a class="badge badge-light" href="/tag/uncertainty-quantification/">uncertainty quantification</a>
   
-  <a class="badge badge-light" href="/tag/central-limit-theorem/">central limit theorem</a>
+  <a class="badge badge-light" href="/tag/weighted-sample-average-approximation/">weighted sample average approximation</a>
   
   <a class="badge badge-light" href="/tag/statisticalcomputational-tradeoff/">statistical–computational tradeoff</a>
   
-  <a class="badge badge-light" href="/tag/over-optimization/">over-optimization</a>
+  <a class="badge badge-light" href="/tag/over-optimizing/">over-optimizing</a>
   
 </div>
 
@@ -868,7 +868,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/publication/wsaa/&amp;text=Statistical%20Inference%20for%20Weighted%20Sample%20Average%20Approximation%20in%20Contextual%20Stochastic%20Optimization" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/publication/wsaa/&amp;text=&amp;#39;&amp;#39;Over-optimizing&amp;#39;&amp;#39;%20for%20Normality:%20Budget-constrained%20Uncertainty%20Quantification%20for%20Contextual%20Decision-making" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -881,7 +881,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/publication/wsaa/&amp;t=Statistical%20Inference%20for%20Weighted%20Sample%20Average%20Approximation%20in%20Contextual%20Stochastic%20Optimization" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/publication/wsaa/&amp;t=&amp;#39;&amp;#39;Over-optimizing&amp;#39;&amp;#39;%20for%20Normality:%20Budget-constrained%20Uncertainty%20Quantification%20for%20Contextual%20Decision-making" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -894,7 +894,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Statistical%20Inference%20for%20Weighted%20Sample%20Average%20Approximation%20in%20Contextual%20Stochastic%20Optimization&amp;body=https://xiaoweiz.github.io/publication/wsaa/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=&amp;#39;&amp;#39;Over-optimizing&amp;#39;&amp;#39;%20for%20Normality:%20Budget-constrained%20Uncertainty%20Quantification%20for%20Contextual%20Decision-making&amp;body=https://xiaoweiz.github.io/publication/wsaa/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -907,7 +907,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/publication/wsaa/&amp;title=Statistical%20Inference%20for%20Weighted%20Sample%20Average%20Approximation%20in%20Contextual%20Stochastic%20Optimization" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/publication/wsaa/&amp;title=&amp;#39;&amp;#39;Over-optimizing&amp;#39;&amp;#39;%20for%20Normality:%20Budget-constrained%20Uncertainty%20Quantification%20for%20Contextual%20Decision-making" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -920,7 +920,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Statistical%20Inference%20for%20Weighted%20Sample%20Average%20Approximation%20in%20Contextual%20Stochastic%20Optimization%20https://xiaoweiz.github.io/publication/wsaa/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=&amp;#39;&amp;#39;Over-optimizing&amp;#39;&amp;#39;%20for%20Normality:%20Budget-constrained%20Uncertainty%20Quantification%20for%20Contextual%20Decision-making%20https://xiaoweiz.github.io/publication/wsaa/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -933,7 +933,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/publication/wsaa/&amp;title=Statistical%20Inference%20for%20Weighted%20Sample%20Average%20Approximation%20in%20Contextual%20Stochastic%20Optimization" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/publication/wsaa/&amp;title=&amp;#39;&amp;#39;Over-optimizing&amp;#39;&amp;#39;%20for%20Normality:%20Budget-constrained%20Uncertainty%20Quantification%20for%20Contextual%20Decision-making" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1148,7 +1148,7 @@
       
 
     
-    <script src="/js/vendor-bundle.min.5a3a4e7cbc7b4e121b2d29312cf8ad59.js"></script>
+    <script src="/js/vendor-bundle.min.9592335d574f7a97010f99b90ad0f310.js"></script>
 
     
     
@@ -1245,7 +1245,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.f4140b8ec5a725451afc89ff5f0c8764.js"></script>
+    <script src="/en/js/wowchemy.min.e14897cafececa7181d21d62540ef117.js"></script>
 
     
 
