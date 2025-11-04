@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>multi-agent system | Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/tag/multi-agent-system/</link>
-      <atom:link href="https://xiaoweiz.github.io/tag/multi-agent-system/index.xml" rel="self" type="application/rss+xml" />
-    <description>multi-agent system</description>
+    <title>agent version control | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/agent-version-control/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/agent-version-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>agent version control</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 01:06:59 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>multi-agent system</title>
-      <link>https://xiaoweiz.github.io/tag/multi-agent-system/</link>
+      <title>agent version control</title>
+      <link>https://xiaoweiz.github.io/tag/agent-version-control/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://xiaoweiz.github.io/publication/agentgit/</link>
       <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/agentgit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
-      <link>https://xiaoweiz.github.io/publication/ai-investing/</link>
-      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/ai-investing/</guid>
       <description></description>
     </item>
     

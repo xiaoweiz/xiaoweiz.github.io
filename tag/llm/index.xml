@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/tag/llm/</link>
       <atom:link href="https://xiaoweiz.github.io/tag/llm/index.xml" rel="self" type="application/rss+xml" />
     <description>LLM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 20:13:11 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 01:06:59 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>LLM</title>
       <link>https://xiaoweiz.github.io/tag/llm/</link>
     </image>
+    
+    <item>
+      <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
+      <link>https://xiaoweiz.github.io/publication/agentgit/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/agentgit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
