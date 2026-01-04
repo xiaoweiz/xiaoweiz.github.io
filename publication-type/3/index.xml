@@ -5,12 +5,28 @@
     <link>https://xiaoweiz.github.io/publication-type/3/</link>
       <atom:link href="https://xiaoweiz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Dec 2025 01:31:22 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 17:54:45 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://xiaoweiz.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title>
+      <link>https://xiaoweiz.github.io/publication/uncertainty-sorting/</link>
+      <pubDate>Thu, 01 Jan 2026 17:54:45 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/uncertainty-sorting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Additive Contextual Bandits: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/sparkle/</link>
+      <pubDate>Wed, 24 Dec 2025 14:42:08 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/sparkle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
@@ -65,14 +81,6 @@
       <link>https://xiaoweiz.github.io/publication/econometrics-ai/</link>
       <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/econometrics-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Additive Contextual Bandits: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
-      <link>https://xiaoweiz.github.io/publication/sparkle/</link>
-      <pubDate>Mon, 17 Mar 2025 14:42:08 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/sparkle/</guid>
       <description></description>
     </item>
     
