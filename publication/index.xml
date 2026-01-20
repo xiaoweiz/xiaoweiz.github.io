@@ -5,12 +5,20 @@
     <link>https://xiaoweiz.github.io/publication/</link>
       <atom:link href="https://xiaoweiz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 14:42:08 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
     <image>
       <url>https://xiaoweiz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://xiaoweiz.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SPARKLE: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
@@ -25,14 +33,6 @@
       <link>https://xiaoweiz.github.io/publication/uncertainty-sorting/</link>
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       <guid>https://xiaoweiz.github.io/publication/uncertainty-sorting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
-      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
-      <pubDate>Mon, 15 Dec 2025 01:31:22 +0800</pubDate>
-      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
       <description></description>
     </item>
     
