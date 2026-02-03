@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Input Uncertainty |</title><link>https://xiaoweiz.github.io/tags/input-uncertainty/</link><atom:link href="https://xiaoweiz.github.io/tags/input-uncertainty/index.xml" rel="self" type="application/rss+xml"/><description>Input Uncertainty</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Input Uncertainty</title><link>https://xiaoweiz.github.io/tags/input-uncertainty/</link></image><item><title>Distributionally Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection/</link><pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection/</guid><description/></item><item><title>Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link><pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Input Uncertainty | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/input-uncertainty/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/input-uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Input Uncertainty</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Input Uncertainty</title>
+      <link>https://xiaoweiz.github.io/tags/input-uncertainty/</link>
+    </image>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publications/robust-selection/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

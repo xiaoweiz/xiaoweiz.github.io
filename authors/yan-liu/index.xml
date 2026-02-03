@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yan Liu |</title><link>https://xiaoweiz.github.io/authors/yan-liu/</link><atom:link href="https://xiaoweiz.github.io/authors/yan-liu/index.xml" rel="self" type="application/rss+xml"/><description>Yan Liu</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 07:54:45 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/authors/yan-liu_hu_10afc9f508eb22b6.png</url><title>Yan Liu</title><link>https://xiaoweiz.github.io/authors/yan-liu/</link></image><item><title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title><link>https://xiaoweiz.github.io/publications/uncertainty-sorting/</link><pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/uncertainty-sorting/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Liu | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/yan-liu/</link>
+      <atom:link href="https://xiaoweiz.github.io/authors/yan-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Liu</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 07:54:45 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/authors/yan-liu_hu_10afc9f508eb22b6.png</url>
+      <title>Yan Liu</title>
+      <link>https://xiaoweiz.github.io/authors/yan-liu/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title>
+      <link>https://xiaoweiz.github.io/publications/uncertainty-sorting/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/uncertainty-sorting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

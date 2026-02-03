@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simulation Metamodeling |</title><link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link><atom:link href="https://xiaoweiz.github.io/tags/simulation-metamodeling/index.xml" rel="self" type="application/rss+xml"/><description>Simulation Metamodeling</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Simulation Metamodeling</title><link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link></image><item><title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title><link>https://xiaoweiz.github.io/publications/qr-gmm/</link><pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/qr-gmm/</guid><description/></item><item><title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title><link>https://xiaoweiz.github.io/publications/high-dim-kriging/</link><pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/high-dim-kriging/</guid><description/></item><item><title>Surrogate-Based Simulation Optimization</title><link>https://xiaoweiz.github.io/publications/surrogate-based-so/</link><pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/surrogate-based-so/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation Metamodeling | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/simulation-metamodeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulation Metamodeling</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Simulation Metamodeling</title>
+      <link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/publications/qr-gmm/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/qr-gmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publications/high-dim-kriging/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/high-dim-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publications/surrogate-based-so/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/surrogate-based-so/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

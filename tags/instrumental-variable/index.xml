@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Instrumental Variable |</title><link>https://xiaoweiz.github.io/tags/instrumental-variable/</link><atom:link href="https://xiaoweiz.github.io/tags/instrumental-variable/index.xml" rel="self" type="application/rss+xml"/><description>Instrumental Variable</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 14:06:44 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Instrumental Variable</title><link>https://xiaoweiz.github.io/tags/instrumental-variable/</link></image><item><title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title><link>https://xiaoweiz.github.io/publications/causal-rl/</link><pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/causal-rl/</guid><description/></item><item><title>Dynamic Selection in Algorithmic Decision-making</title><link>https://xiaoweiz.github.io/publications/self-fulfilling-bandits/</link><pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/self-fulfilling-bandits/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instrumental Variable | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/instrumental-variable/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/instrumental-variable/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instrumental Variable</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 14:06:44 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Instrumental Variable</title>
+      <link>https://xiaoweiz.github.io/tags/instrumental-variable/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
+      <link>https://xiaoweiz.github.io/publications/causal-rl/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/causal-rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Selection in Algorithmic Decision-making</title>
+      <link>https://xiaoweiz.github.io/publications/self-fulfilling-bandits/</link>
+      <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/self-fulfilling-bandits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

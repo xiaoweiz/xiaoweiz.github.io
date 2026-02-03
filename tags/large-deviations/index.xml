@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Large Deviations |</title><link>https://xiaoweiz.github.io/tags/large-deviations/</link><atom:link href="https://xiaoweiz.github.io/tags/large-deviations/index.xml" rel="self" type="application/rss+xml"/><description>Large Deviations</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2015 20:16:50 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Large Deviations</title><link>https://xiaoweiz.github.io/tags/large-deviations/</link></image><item><title>Affine Point Processes: Approximation and Efficient Simulation</title><link>https://xiaoweiz.github.io/publications/affine-point-processes/</link><pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/affine-point-processes/</guid><description/></item><item><title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title><link>https://xiaoweiz.github.io/publications/loss-process/</link><pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/loss-process/</guid><description/></item><item><title>Rare Event Simulation for a Generalized Hawkes Process</title><link>https://xiaoweiz.github.io/publications/rare-event-hawkes/</link><pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/rare-event-hawkes/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Deviations | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/large-deviations/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/large-deviations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Deviations</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2015 20:16:50 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Large Deviations</title>
+      <link>https://xiaoweiz.github.io/tags/large-deviations/</link>
+    </image>
+    
+    <item>
+      <title>Affine Point Processes: Approximation and Efficient Simulation</title>
+      <link>https://xiaoweiz.github.io/publications/affine-point-processes/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/affine-point-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
+      <link>https://xiaoweiz.github.io/publications/loss-process/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/loss-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation for a Generalized Hawkes Process</title>
+      <link>https://xiaoweiz.github.io/publications/rare-event-hawkes/</link>
+      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/rare-event-hawkes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Over-Optimizing |</title><link>https://xiaoweiz.github.io/tags/over-optimizing/</link><atom:link href="https://xiaoweiz.github.io/tags/over-optimizing/index.xml" rel="self" type="application/rss+xml"/><description>Over-Optimizing</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 13:26:23 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Over-Optimizing</title><link>https://xiaoweiz.github.io/tags/over-optimizing/</link></image><item><title>''Over-Optimizing'' for Normality: Budget-Constrained Uncertainty Quantification for Contextual Decision-Making</title><link>https://xiaoweiz.github.io/publications/wsaa/</link><pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/wsaa/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Over-Optimizing | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/over-optimizing/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/over-optimizing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Over-Optimizing</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 13:26:23 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Over-Optimizing</title>
+      <link>https://xiaoweiz.github.io/tags/over-optimizing/</link>
+    </image>
+    
+    <item>
+      <title>&#39;&#39;Over-Optimizing&#39;&#39; for Normality: Budget-Constrained Uncertainty Quantification for Contextual Decision-Making</title>
+      <link>https://xiaoweiz.github.io/publications/wsaa/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/wsaa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

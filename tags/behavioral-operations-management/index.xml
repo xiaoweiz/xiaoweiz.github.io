@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Behavioral Operations Management |</title><link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link><atom:link href="https://xiaoweiz.github.io/tags/behavioral-operations-management/index.xml" rel="self" type="application/rss+xml"/><description>Behavioral Operations Management</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 04:00:11 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Behavioral Operations Management</title><link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link></image><item><title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title><link>https://xiaoweiz.github.io/publications/llm-bom-sim/</link><pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/llm-bom-sim/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behavioral Operations Management | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/behavioral-operations-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Behavioral Operations Management</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 04:00:11 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Behavioral Operations Management</title>
+      <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
+      <link>https://xiaoweiz.github.io/publications/llm-bom-sim/</link>
+      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/llm-bom-sim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

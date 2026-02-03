@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weiwei Fan |</title><link>https://xiaoweiz.github.io/authors/weiwei-fan/</link><atom:link href="https://xiaoweiz.github.io/authors/weiwei-fan/index.xml" rel="self" type="application/rss+xml"/><description>Weiwei Fan</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/authors/weiwei-fan_hu_506212b17a2b34bf.png</url><title>Weiwei Fan</title><link>https://xiaoweiz.github.io/authors/weiwei-fan/</link></image><item><title>Distributionally Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection/</link><pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection/</guid><description/></item><item><title>Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link><pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiwei Fan | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/weiwei-fan/</link>
+      <atom:link href="https://xiaoweiz.github.io/authors/weiwei-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiwei Fan</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/authors/weiwei-fan_hu_506212b17a2b34bf.png</url>
+      <title>Weiwei Fan</title>
+      <link>https://xiaoweiz.github.io/authors/weiwei-fan/</link>
+    </image>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publications/robust-selection/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

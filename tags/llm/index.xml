@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LLM |</title><link>https://xiaoweiz.github.io/tags/llm/</link><atom:link href="https://xiaoweiz.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml"/><description>LLM</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 04:00:11 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>LLM</title><link>https://xiaoweiz.github.io/tags/llm/</link></image><item><title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title><link>https://xiaoweiz.github.io/publications/llm-bom-sim/</link><pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/llm-bom-sim/</guid><description/></item><item><title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title><link>https://xiaoweiz.github.io/publications/agentgit/</link><pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/agentgit/</guid><description/></item><item><title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title><link>https://xiaoweiz.github.io/publications/ai-investing/</link><pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/ai-investing/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/llm/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLM</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 04:00:11 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>LLM</title>
+      <link>https://xiaoweiz.github.io/tags/llm/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
+      <link>https://xiaoweiz.github.io/publications/llm-bom-sim/</link>
+      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/llm-bom-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
+      <link>https://xiaoweiz.github.io/publications/agentgit/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/agentgit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
+      <link>https://xiaoweiz.github.io/publications/ai-investing/</link>
+      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/ai-investing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
