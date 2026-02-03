@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangguo Li | </title>
+    <link>https://example.com/authors/xiangguo-li/</link>
+      <atom:link href="https://example.com/authors/xiangguo-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangguo Li</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 20:13:11 +0800</lastBuildDate>
+    <item>
+      <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
+      <link>https://example.com/publications/ai-investing/</link>
+      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
+      <guid>https://example.com/publications/ai-investing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

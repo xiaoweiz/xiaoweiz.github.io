@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A/B Test | </title>
+    <link>https://example.com/tags/a/b-test/</link>
+      <atom:link href="https://example.com/tags/a/b-test/index.xml" rel="self" type="application/rss+xml" />
+    <description>A/B Test</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 20:40:11 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>A/B Test</title>
+      <link>https://example.com/tags/a/b-test/</link>
+    </image>
+    
+    <item>
+      <title>Seesaw Experimentation: A/B Tests with Spillovers</title>
+      <link>https://example.com/publications/seesaw/</link>
+      <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
+      <guid>https://example.com/publications/seesaw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

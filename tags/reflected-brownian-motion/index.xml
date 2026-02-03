@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflected Brownian Motion | </title>
+    <link>https://example.com/tags/reflected-brownian-motion/</link>
+      <atom:link href="https://example.com/tags/reflected-brownian-motion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reflected Brownian Motion</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2010 17:48:04 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Reflected Brownian Motion</title>
+      <link>https://example.com/tags/reflected-brownian-motion/</link>
+    </image>
+    
+    <item>
+      <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
+      <link>https://example.com/publications/loss-process/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      <guid>https://example.com/publications/loss-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

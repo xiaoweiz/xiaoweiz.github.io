@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steady State Simulation | </title>
+    <link>https://example.com/tags/steady-state-simulation/</link>
+      <atom:link href="https://example.com/tags/steady-state-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steady State Simulation</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2010 18:06:44 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Steady State Simulation</title>
+      <link>https://example.com/tags/steady-state-simulation/</link>
+    </image>
+    
+    <item>
+      <title>A Regenerative Bootstrap Approach to Estimating the Initial Transient</title>
+      <link>https://example.com/publications/regenerative-bootstrap/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      <guid>https://example.com/publications/regenerative-bootstrap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

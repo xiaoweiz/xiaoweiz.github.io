@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaocheng Li | </title>
+    <link>https://example.com/authors/xiaocheng-li/</link>
+      <atom:link href="https://example.com/authors/xiaocheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaocheng Li</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2018 19:05:59 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/authors/xiaocheng-li_hu_4761f5d8ced21919.png</url>
+      <title>Xiaocheng Li</title>
+      <link>https://example.com/authors/xiaocheng-li/</link>
+    </image>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://example.com/publications/contextual-selection-high-dimension/</link>
+      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
+      <guid>https://example.com/publications/contextual-selection-high-dimension/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

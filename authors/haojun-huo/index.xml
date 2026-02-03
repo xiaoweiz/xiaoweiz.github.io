@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haojun Huo | </title>
+    <link>https://example.com/authors/haojun-huo/</link>
+      <atom:link href="https://example.com/authors/haojun-huo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haojun Huo</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Dec 2018 18:06:44 +0800</lastBuildDate>
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://example.com/publications/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      <guid>https://example.com/publications/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

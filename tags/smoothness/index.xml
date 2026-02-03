@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smoothness | </title>
+    <link>https://example.com/tags/smoothness/</link>
+      <atom:link href="https://example.com/tags/smoothness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smoothness</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 08:38:42 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Smoothness</title>
+      <link>https://example.com/tags/smoothness/</link>
+    </image>
+    
+    <item>
+      <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
+      <link>https://example.com/publications/nested-simulation/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      <guid>https://example.com/publications/nested-simulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

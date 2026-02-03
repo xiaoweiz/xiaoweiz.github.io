@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Uncertainty | </title>
+    <link>https://example.com/tags/predictive-uncertainty/</link>
+      <atom:link href="https://example.com/tags/predictive-uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Predictive Uncertainty</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 07:54:45 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Predictive Uncertainty</title>
+      <link>https://example.com/tags/predictive-uncertainty/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title>
+      <link>https://example.com/publications/uncertainty-sorting/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      <guid>https://example.com/publications/uncertainty-sorting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

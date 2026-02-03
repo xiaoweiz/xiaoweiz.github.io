@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overdispersion | </title>
+    <link>https://example.com/tags/overdispersion/</link>
+      <atom:link href="https://example.com/tags/overdispersion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overdispersion</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2014 18:06:44 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Overdispersion</title>
+      <link>https://example.com/tags/overdispersion/</link>
+    </image>
+    
+    <item>
+      <title>Scaling and Modeling of Call Center Arrivals</title>
+      <link>https://example.com/publications/scaling-arrival-wsc/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      <guid>https://example.com/publications/scaling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title>
+      <link>https://example.com/publications/bayesian-modeling-arrival-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
+      <guid>https://example.com/publications/bayesian-modeling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

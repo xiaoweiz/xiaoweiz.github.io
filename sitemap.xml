@@ -4,408 +4,434 @@
   
   
   <url>
-    <loc></loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication-type/3/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/covariates/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/generative-model/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/qr-gmm/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/authors/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/tags/ai/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/publications/ai-doctor/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/tags/attribution/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/quantile-regression/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/tags/career-concerns/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/simulation-metamodeling/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/tags/disagreement/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tags/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/authors/hanzhe-li/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/tags/interpretability/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/authors/jin-li/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-20T08:53:22+08:00</lastmod></url>
+    <loc>https://example.com/authors/me/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/contextual-bandit/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/tags/persuasion/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/doubly-penalized-estimation/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/high-dimensional-covariate/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/publications/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/kernel-method/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/tags/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/nonparametric-regression/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/publication_types/working-paper/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/authors/ye-luo/</loc><lastmod>2026-02-04T10:02:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/reproducing-kernel-hilbert-space/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/tags/covariates/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/sparkle/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/tags/generative-model/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/sparse-additive-model/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/authors/l.-jeff-hong/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-06T14:42:08+08:00</lastmod></url>
+    <loc>https://example.com/publications/qr-gmm/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/asset-pricing/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/authors/qingkai-zhang/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/conformal-prediction/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/tags/quantile-regression/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/machine-learning/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/tags/simulation-metamodeling/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/predictive-uncertainty/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/authors/yanxi-hou/</loc><lastmod>2026-01-20T08:53:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/uncertainty-sorting/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/tags/contextual-bandit/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/tags/doubly-penalized-estimation/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/tags/high-dimensional-covariate/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2026-01-01T07:54:45+08:00</lastmod></url>
+    <loc>https://example.com/tags/kernel-method/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/behavioral-operations-management/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/nonparametric-regression/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/llm/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod></url>
+    <loc>https://example.com/authors/qingwen-zhang/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-11-25T04:00:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/reproducing-kernel-hilbert-space/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/llm-bom-sim/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod></url>
+    <loc>https://example.com/publications/sparkle/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-11-25T04:00:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/sparse-additive-model/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/simulation/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod></url>
+    <loc>https://example.com/authors/wenjia-wang/</loc><lastmod>2026-01-06T14:42:08+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication-type/1/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/blog/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/agent-version-control/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/blog/sparkle/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/agentgit/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/tags/asset-pricing/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/multi-agent-system/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/tags/conformal-prediction/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/tags/machine-learning/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/tags/predictive-uncertainty/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/publications/uncertainty-sorting/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-11-02T01:06:59+08:00</lastmod></url>
+    <loc>https://example.com/authors/yan-liu/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/doubly-stochastic-poisson-process/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/zigan-wang/</loc><lastmod>2026-01-01T07:54:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/tags/behavioral-operations-management/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/over-dispersion/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/tags/llm/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/staffing-rule/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/mingyang-zhao/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/taylor-staffing/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/publications/llm-bom-sim/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/taylors-law/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/runze-zhang/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-11T23:35:21+08:00</lastmod></url>
+    <loc>https://example.com/tags/simulation/</loc><lastmod>2025-11-25T04:00:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/wsaa/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/tags/agent-version-control/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/contextual-stochastic-optimization/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/publications/agentgit/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/over-optimizing/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/publication_types/conference-paper/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/statisticalcomputational-tradeoff/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/tags/multi-agent-system/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/uncertainty-quantification/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/authors/siqi-ping/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/weighted-sample-average-approximation/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/authors/xiaojian-qi/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-11T13:26:23+08:00</lastmod></url>
+    <loc>https://example.com/authors/xiyu-chen/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/actor-critic/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/yang-li/</loc><lastmod>2025-11-02T01:06:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/causal-rl/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/doubly-stochastic-poisson-process/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/instrumental-variable/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/jiheng-zhang/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/over-dispersion/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/markov-decision-process/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/staffing-rule/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/q-learning/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/taylor-staffing/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/reinforcement-learning/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/taylors-law/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/stochastic-approximation/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/weihuan-huang/</loc><lastmod>2025-10-11T23:35:21+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/ai/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/publications/wsaa/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/contextual-stochastic-optimization/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/fundamental-investing/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/over-optimizing/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/ai-investing/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/statisticalcomputational-tradeoff/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/uncertainty-quantification/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/robo-advisor/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/weighted-sample-average-approximation/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/authors/yanyuan-wang/</loc><lastmod>2025-10-11T13:26:23+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/actor-critic/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-10-01T20:13:11+08:00</lastmod></url>
+    <loc>https://example.com/publications/causal-rl/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/agentic-ai/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/tags/instrumental-variable/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/ai-adoption/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/tags/markov-decision-process/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/econometrics-ai/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/tags/q-learning/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/econometrics/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/tags/reinforcement-learning/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/empirical-replication/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/tags/stochastic-approximation/</loc><lastmod>2025-10-09T14:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/authors/chujun-he/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/tags/fundamental-investing/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/publications/ai-investing/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2025-06-01T14:36:33+08:00</lastmod></url>
+    <loc>https://example.com/authors/kewei-ma/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/experimentation/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod></url>
+    <loc>https://example.com/tags/robo-advisor/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/seesaw/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod></url>
+    <loc>https://example.com/authors/xiangguo-li/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/spillovers/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod></url>
+    <loc>https://example.com/authors/yuxuan-xiong/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication-type/2/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/authors/zhonghao-huang/</loc><lastmod>2025-10-01T20:13:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/convergence-rate/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/high-dimensional/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/kernel-ridge-regression/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/nested-simulation/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/nested-simulation/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/agentic-ai/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/smoothness/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/ai-adoption/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/ai-doctor/</loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/publications/econometrics-ai/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/attribution/</loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/tags/econometrics/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/career-concerns/</loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/tags/empirical-replication/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/diagnosis/</loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/qiang-chen/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/tianyang-han/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/interpretability/</loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/tuo-zhou/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/persuasion/</loc><lastmod>2024-10-01T10:02:21+08:00</lastmod></url>
+    <loc>https://example.com/authors/yuxiao-wu/</loc><lastmod>2025-06-01T14:36:33+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/newsvendor-hedging/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/a/b-test/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/experimentation/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/publications/seesaw/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/mean-variance-framework/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/spillovers/</loc><lastmod>2025-01-01T20:40:11+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/newsvendor/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/convergence-rate/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/pricing/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/tags/high-dimensional/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/risk-hedging/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod></url>
+    <loc>https://example.com/publication_types/journal-article/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/experimental-design/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/tags/kernel-ridge-regression/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/gaussian-process/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/tags/nested-simulation/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/publications/nested-simulation/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/matrix-inversion/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/tags/smoothness/</loc><lastmod>2024-12-10T08:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/high-dim-kriging/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/publications/newsvendor-hedging/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/sparse-grid/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/authors/jin-yao/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/stochastic-kriging/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/authors/liao-wang/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/tensor-markov-kernel/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/tags/mean-variance-framework/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/dynamic-selection/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+    <loc>https://example.com/tags/newsvendor/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+    <loc>https://example.com/tags/pricing/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/endogeneity-spillover/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+    <loc>https://example.com/tags/risk-hedging/</loc><lastmod>2024-07-15T13:38:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/self-fulfilling-bias/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod></url>
+    <loc>https://example.com/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-22T17:11:41+08:00</lastmod></url>
+    <loc>https://example.com/tags/experimental-design/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/knowledge-gradient/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod></url>
+    <loc>https://example.com/tags/gaussian-process/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/kg-contextual-selection/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod></url>
+    <loc>https://example.com/authors/liang-ding/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/ranking-and-selection/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod></url>
+    <loc>https://example.com/tags/matrix-inversion/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/simulation-optimization/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod></url>
+    <loc>https://example.com/publications/high-dim-kriging/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod></url>
+    <loc>https://example.com/tags/sparse-grid/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/brownian-field/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/tags/stochastic-kriging/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/expected-improvement/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/tags/tensor-markov-kernel/</loc><lastmod>2024-03-21T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/slides/example/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-07-19T10:00:00+08:00</lastmod></url>
+    <loc>https://example.com/slides/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/causal-reinforcement-learning/</loc><lastmod>2021-02-27T10:13:49+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/</loc><lastmod>2021-02-27T10:13:49+08:00</lastmod></url>
+    <loc>https://example.com/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/personalized-medicine/</loc><lastmod>2021-02-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection/</loc><lastmod>2021-02-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/dynamic-selection/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publications/self-fulfilling-bandits/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tags/endogeneity-spillover/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tags/self-fulfilling-bias/</loc><lastmod>2023-09-27T18:02:20+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/authors/haihui-shen/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tags/knowledge-gradient/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publications/kg-contextual-selection/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tags/ranking-and-selection/</loc><lastmod>2022-03-22T17:11:41+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/appointment-scheduling/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod></url>
+    <loc>https://example.com/publication_types/book-chapter/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/robust-selection/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod></url>
+    <loc>https://example.com/tags/simulation-optimization/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/input-uncertainty/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod></url>
+    <loc>https://example.com/publications/surrogate-based-so/</loc><lastmod>2021-10-25T22:07:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/robust-optimization/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod></url>
+    <loc>https://example.com/tags/brownian-field/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-01-15T21:11:51+08:00</lastmod></url>
+    <loc>https://example.com/tags/expected-improvement/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/simulation-optimization/</loc><lastmod>2019-06-03T21:26:25+08:00</lastmod></url>
+    <loc>https://example.com/publications/high-dim-sim-opt/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/simulation-metamodeling/</loc><lastmod>2019-06-03T20:22:36+08:00</lastmod></url>
+    <loc>https://example.com/authors/rui-tuo/</loc><lastmod>2021-07-19T10:00:00+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/arrival-data-modeling/</loc><lastmod>2019-06-03T19:25:36+08:00</lastmod></url>
+    <loc>https://example.com/tags/personalized-medicine/</loc><lastmod>2021-02-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/affine-models-in-finance/</loc><lastmod>2019-06-03T16:24:55+08:00</lastmod></url>
+    <loc>https://example.com/publications/contextual-selection/</loc><lastmod>2021-02-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tags/appointment-scheduling/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publications/robust-selection/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/input-uncertainty/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/gradient/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/robust-optimization/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-12-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/weiwei-fan/</loc><lastmod>2020-01-15T21:11:51+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/markovian-covariance-function/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/scalable-kriging-gradients-wsc/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-12-12T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/gradient/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</loc><lastmod>2018-12-10T19:05:59+08:00</lastmod></url>
+    <loc>https://example.com/authors/haojun-huo/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-12-10T19:05:59+08:00</lastmod></url>
+    <loc>https://example.com/tags/markovian-covariance-function/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/affine-jump-diffusion/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod></url>
+    <loc>https://example.com/authors/zeyu-zheng/</loc><lastmod>2018-12-12T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod></url>
+    <loc>https://example.com/publications/contextual-selection-high-dimension/</loc><lastmod>2018-12-10T19:05:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/ergodicity/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod></url>
+    <loc>https://example.com/authors/xiaocheng-li/</loc><lastmod>2018-12-10T19:05:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-11-01T20:55:03+08:00</lastmod></url>
+    <loc>https://example.com/tags/affine-jump-diffusion/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/project/rare-event-analysis/</loc><lastmod>2018-06-03T12:01:07+08:00</lastmod></url>
+    <loc>https://example.com/publications/affine-jump-diffusion/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</loc><lastmod>2018-03-31T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/ergodicity/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/scalable-kriging/</loc><lastmod>2018-03-02T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/peter-w.-glynn/</loc><lastmod>2018-11-01T20:55:03+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-02-08T17:48:04+08:00</lastmod></url>
+    <loc>https://example.com/publications/stylized-model-stochastic-kriging/</loc><lastmod>2018-03-31T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/kriging-inadequate/</loc><lastmod>2018-02-08T17:48:04+08:00</lastmod></url>
+    <loc>https://example.com/publications/scalable-kriging/</loc><lastmod>2018-03-02T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</loc><lastmod>2017-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/lu-zou/</loc><lastmod>2018-02-08T17:48:04+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/bayesian/</loc><lastmod>2016-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/kriging-inadequate/</loc><lastmod>2018-02-08T17:48:04+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</loc><lastmod>2016-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/contextual-selection-wsc/</loc><lastmod>2017-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</loc><lastmod>2016-12-03T21:00:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/academic/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/affine-point-process/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/events/example/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/affine-point-processes/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/tags/markdown/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/importance-sampling/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/tags/open-science/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/tags/presentations/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/events/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/large-deviations/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/tags/bayesian/</loc><lastmod>2016-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/rare-event-simulation/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod></url>
+    <loc>https://example.com/publications/robust-knowledge-gradient/</loc><lastmod>2016-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/arrival-data/</loc><lastmod>2014-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/kriging-inadequate-wsc/</loc><lastmod>2016-12-03T21:00:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/overdispersion/</loc><lastmod>2014-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/affine-point-process/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</loc><lastmod>2014-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/affine-point-processes/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</loc><lastmod>2013-12-10T21:16:19+08:00</lastmod></url>
+    <loc>https://example.com/tags/importance-sampling/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/markov-chain-monte-carlo/</loc><lastmod>2013-12-10T21:16:19+08:00</lastmod></url>
+    <loc>https://example.com/authors/jose-blanchet/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/robust-selection-wsc/</loc><lastmod>2013-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/authors/kay-giesecke/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/large-deviations/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/bootstrap/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/rare-event-simulation/</loc><lastmod>2015-11-03T20:16:50+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/initial-transient/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/arrival-data/</loc><lastmod>2014-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/regenerative-process/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/overdispersion/</loc><lastmod>2014-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/steady-state-simulation/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/scaling-arrival-wsc/</loc><lastmod>2014-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/local-time/</loc><lastmod>2010-12-09T17:48:04+08:00</lastmod></url>
+    <loc>https://example.com/publications/bayesian-modeling-arrival-wsc/</loc><lastmod>2013-12-10T21:16:19+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/loss-process/</loc><lastmod>2010-12-09T17:48:04+08:00</lastmod></url>
+    <loc>https://example.com/tags/markov-chain-monte-carlo/</loc><lastmod>2013-12-10T21:16:19+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/reflected-brownian-motion/</loc><lastmod>2010-12-09T17:48:04+08:00</lastmod></url>
+    <loc>https://example.com/publications/robust-selection-wsc/</loc><lastmod>2013-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/hawkes-process/</loc><lastmod>2009-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publication_types/1/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/rare-event-hawkes/</loc><lastmod>2009-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/publications/regenerative-bootstrap/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</loc><lastmod>2007-12-10T18:06:44+08:00</lastmod></url>
+    <loc>https://example.com/tags/bootstrap/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/admin/</loc></url>
+    <loc>https://example.com/tags/initial-transient/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/tag/a/b-test/</loc></url>
+    <loc>https://example.com/tags/regenerative-process/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://xiaoweiz.github.io/event/</loc></url></urlset>
+    <loc>https://example.com/tags/steady-state-simulation/</loc><lastmod>2010-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/local-time/</loc><lastmod>2010-12-09T17:48:04+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publications/loss-process/</loc><lastmod>2010-12-09T17:48:04+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/reflected-brownian-motion/</loc><lastmod>2010-12-09T17:48:04+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/hawkes-process/</loc><lastmod>2009-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publications/rare-event-hawkes/</loc><lastmod>2009-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publications/suboptimal-rare-event/</loc><lastmod>2007-12-10T18:06:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/cards/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/reference/i18n/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/toggle/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/hugo-blox/guide/formatting/steps/</loc><changefreq>weekly</changefreq></url></urlset>

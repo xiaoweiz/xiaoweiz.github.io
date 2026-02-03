@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation Optimization | </title>
+    <link>https://example.com/tags/simulation-optimization/</link>
+      <atom:link href="https://example.com/tags/simulation-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulation Optimization</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 22:07:59 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Simulation Optimization</title>
+      <link>https://example.com/tags/simulation-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Surrogate-Based Simulation Optimization</title>
+      <link>https://example.com/publications/surrogate-based-so/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      <guid>https://example.com/publications/surrogate-based-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</title>
+      <link>https://example.com/publications/high-dim-sim-opt/</link>
+      <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
+      <guid>https://example.com/publications/high-dim-sim-opt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

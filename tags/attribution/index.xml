@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attribution | </title>
+    <link>https://example.com/tags/attribution/</link>
+      <atom:link href="https://example.com/tags/attribution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Attribution</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Feb 2026 10:02:21 +0800</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Attribution</title>
+      <link>https://example.com/tags/attribution/</link>
+    </image>
+    
+    <item>
+      <title>AI Persuasion, Bayesian Attribution, and Career Concerns of Decision-Makers</title>
+      <link>https://example.com/publications/ai-doctor/</link>
+      <pubDate>Wed, 04 Feb 2026 10:02:21 +0800</pubDate>
+      <guid>https://example.com/publications/ai-doctor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
