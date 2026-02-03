@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yanyuan Wang | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/authors/yanyuan-wang/</link><atom:link href="https://xiaoweiz.github.io/authors/yanyuan-wang/index.xml" rel="self" type="application/rss+xml"/><description>Yanyuan Wang</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 13:26:23 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/authors/yanyuan-wang_hu_541f9938dca1dffb.png</url><title>Yanyuan Wang</title><link>https://xiaoweiz.github.io/authors/yanyuan-wang/</link></image><item><title>''Over-Optimizing'' for Normality: Budget-Constrained Uncertainty Quantification for Contextual Decision-Making</title><link>https://xiaoweiz.github.io/publications/wsaa/</link><pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/wsaa/</guid><description/></item><item><title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title><link>https://xiaoweiz.github.io/publications/nested-simulation/</link><pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/nested-simulation/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanyuan Wang | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/yanyuan-wang/</link>
+      <atom:link href="https://xiaoweiz.github.io/authors/yanyuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanyuan Wang</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 13:26:23 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/authors/yanyuan-wang_hu_7ecbb158f99fc4d.png</url>
+      <title>Yanyuan Wang</title>
+      <link>https://xiaoweiz.github.io/authors/yanyuan-wang/</link>
+    </image>
+    
+    <item>
+      <title>&#39;&#39;Over-Optimizing&#39;&#39; for Normality: Budget-Constrained Uncertainty Quantification for Contextual Decision-Making</title>
+      <link>https://xiaoweiz.github.io/publications/wsaa/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/wsaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publications/nested-simulation/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/nested-simulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

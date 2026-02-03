@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/projects/</link><atom:link href="https://xiaoweiz.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Projects</title><link>https://xiaoweiz.github.io/projects/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/projects/</link>
+      <atom:link href="https://xiaoweiz.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Projects</title>
+      <link>https://xiaoweiz.github.io/projects/</link>
+    </image>
+    
+  </channel>
+</rss>
