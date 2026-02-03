@@ -1,32 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog | </title>
-    <link>https://example.com/blog/</link>
-      <atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
-      <title>Blog</title>
-      <link>https://example.com/blog/</link>
-    </image>
-    
-    <item>
-      <title>When Personalization Meets High Dimensions: How SPARKLE Learns What Works, Fast</title>
-      <link>https://example.com/blog/sparkle/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/sparkle/</guid>
-      <description>&lt;p&gt;If you’ve ever wondered how your apps learn what you like—videos, medicines, ads—there’s a compact mathematical story behind it called contextual bandits. Think of a bandit as a slot machine with multiple arms. Now give the machine x-ray vision: before each pull, it sees your “context” (age, watch history, health markers, etc.), and must pick one arm (a video to show, a dose to recommend). It gets a reward (you watched, your INR stabilized), learns a bit, and repeats. The goal: maximize rewards over time while learning on the fly.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog |</title><link>https://xiaoweiz.github.io/blog/</link><atom:link href="https://xiaoweiz.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Blog</title><link>https://xiaoweiz.github.io/blog/</link></image><item><title>When Personalization Meets High Dimensions: How SPARKLE Learns What Works, Fast</title><link>https://xiaoweiz.github.io/blog/sparkle/</link><pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate><guid>https://xiaoweiz.github.io/blog/sparkle/</guid><description>&lt;p&gt;If you’ve ever wondered how your apps learn what you like—videos, medicines, ads—there’s a compact mathematical story behind it called contextual bandits. Think of a bandit as a slot machine with multiple arms. Now give the machine x-ray vision: before each pull, it sees your “context” (age, watch history, health markers, etc.), and must pick one arm (a video to show, a dose to recommend). It gets a reward (you watched, your INR stabilized), learns a bit, and repeats. The goal: maximize rewards over time while learning on the fly.&lt;/p&gt;
 &lt;p&gt;Sounds simple—until modern data shows up. Today’s systems see hundreds of features per decision. Worse, the true relationship between features and outcomes is rarely linear. Classic models either struggle with so many dimensions (“curse of dimensionality”) or rely on rigid linear assumptions that miss the point. Enter SPARKLE: an algorithm that keeps the flexibility of nonparametric modeling but still learns fast in high dimensions.&lt;/p&gt;
-&lt;h2 id=&#34;the-elevator-pitch&#34;&gt;The elevator pitch&lt;/h2&gt;
+&lt;h2 id="the-elevator-pitch"&gt;The elevator pitch&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Problem: Make sequential decisions (recommendations, treatments) with high-dimensional contexts and unknown, possibly nonlinear rewards.&lt;/li&gt;
 &lt;li&gt;Core idea: Model each arm’s reward as a sparse sum of simple 1D curves—one per feature. Most features don’t matter; a few do.&lt;/li&gt;
 &lt;li&gt;Method: In each “epoch,” estimate those 1D curves with a doubly penalized kernel method that both smooths (for nonparametrics) and selects (for sparsity). Use those estimates to screen arms aggressively where differences are obvious, and explore only where arms are hard to tell apart.&lt;/li&gt;
 &lt;li&gt;Result: Sublinear regret—the measure of learning inefficiency—that grows only logarithmically with the number of features. In plain English: even as features explode, SPARKLE’s learning speed barely flinches.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;why-sparse-additive-is-a-sweet-spot&#34;&gt;Why “sparse additive” is a sweet spot&lt;/h2&gt;
+&lt;h2 id="why-sparse-additive-is-a-sweet-spot"&gt;Why “sparse additive” is a sweet spot&lt;/h2&gt;
 &lt;p&gt;Imagine each arm’s reward as a recipe: add up a handful of ingredient effects, each depending on just one feature. That’s an additive model. It trades “wiring diagram of the universe” complexity for something you can fit and interpret. Sparsity then says: most ingredients don’t matter at all. That’s realistic—maybe 5 of your 200 profile features drive whether you’ll watch a given video to the end.&lt;/p&gt;
 &lt;p&gt;SPARKLE wraps this in a kernel framework (think “smooth curves” with tunable wiggliness) and applies a double penalty:&lt;/p&gt;
 &lt;ul&gt;
@@ -34,43 +15,38 @@
 &lt;li&gt;Sparsity penalty pushes unimportant feature-curves to zero.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This combination lets the model stay flexible without drowning in dimensions.&lt;/p&gt;
-&lt;h2 id=&#34;the-exploration-trick-route-effort-by-difficulty&#34;&gt;The exploration trick: route effort by difficulty&lt;/h2&gt;
+&lt;h2 id="the-exploration-trick-route-effort-by-difficulty"&gt;The exploration trick: route effort by difficulty&lt;/h2&gt;
 &lt;p&gt;A hallmark of SPARKLE is its epoch-based screening:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In early epochs, use rough estimates to quickly rule out obviously bad arms in regions where one arm clearly dominates. Don’t waste time there.&lt;/li&gt;
 &lt;li&gt;In later epochs, spend effort only where arms are close—near decision boundaries—using finer estimates.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Think of it like sieving gravel: you start with a coarse sieve to separate out the big rocks, then finer sieves for the pebbles. Crucially, SPARKLE keeps exploration tightly focused on the ambiguous regions and exploits everywhere else.&lt;/p&gt;
-&lt;h2 id=&#34;the-geometry-behind-the-scenes&#34;&gt;The geometry behind the scenes&lt;/h2&gt;
+&lt;h2 id="the-geometry-behind-the-scenes"&gt;The geometry behind the scenes&lt;/h2&gt;
 &lt;p&gt;There’s a subtle, important challenge in nonparametric bandits: because you only observe rewards for the arm you chose, each arm ends up seeing data from a moving, biased slice of the context space. If those slices become too “holey” or fragmented, curve-fitting goes haywire (you’d be extrapolating between islands). The authors prove that SPARKLE’s screening mechanism keeps these slices well-behaved—think “few intervals, separated enough”—so the nonparametric estimators remain reliable.&lt;/p&gt;
-&lt;h2 id=&#34;what-the-theory-says&#34;&gt;What the theory says&lt;/h2&gt;
+&lt;h2 id="what-the-theory-says"&gt;What the theory says&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Regret upper bound: SPARKLE’s cumulative regret scales as $T^{1 − c}$ with $c &gt; 0$, and only $\log(d)$ with the number of features $d$. That’s a big deal: most nonparametric methods suffer polynomial hits in $d$.&lt;/li&gt;
 &lt;li&gt;Lower bounds: They also prove information-theoretic limits for this problem class. The gap to SPARKLE’s upper bound shrinks as the reward functions get smoother—suggesting SPARKLE is near-optimal in smooth regimes.&lt;/li&gt;
 &lt;li&gt;Unification: As smoothness grows, the additive kernel model subsumes linear models, and their rate matches the best high-dimensional linear bandits—so SPARKLE bridges linear and nonlinear worlds.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;why-this-matters-in-practice&#34;&gt;Why this matters in practice&lt;/h2&gt;
+&lt;h2 id="why-this-matters-in-practice"&gt;Why this matters in practice&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video recommendation: On a fully observed short-video dataset, SPARKLE leverages rich user features and continuous engagement signals to outpace alternatives like kNN-UCB, kernel ridge baselines, and LASSO-based bandits. The edge widens with dimensionality.&lt;/li&gt;
 &lt;li&gt;Personalized medicine: On warfarin dosing, even with simple, discrete rewards (right dose vs. wrong), SPARKLE remains robust and overtakes linear bandits as more data accumulates—capturing nuances in 118 patient features without overfitting.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;intuition-pumps-and-takeaways&#34;&gt;Intuition pumps and takeaways&lt;/h2&gt;
+&lt;h2 id="intuition-pumps-and-takeaways"&gt;Intuition pumps and takeaways&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Additive + sparse = flexible, learnable, and interpretable. You can visualize each feature’s effect per arm.&lt;/li&gt;
 &lt;li&gt;Doubly penalized kernels give the right bias-variance trade-off in high dimensions: smooth where data is sparse, sharp where the signal is strong.&lt;/li&gt;
 &lt;li&gt;Exploration should be routed by difficulty, not done everywhere. SPARKLE’s epoch screening concentrates sampling near the decision boundaries where it matters most.&lt;/li&gt;
 &lt;li&gt;Geometry matters. Keeping each arm’s “seen contexts” contiguous and well-spaced is the hidden ingredient that stabilizes nonparametric learning online.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;limitations-and-future-directions&#34;&gt;Limitations and future directions&lt;/h2&gt;
+&lt;h2 id="limitations-and-future-directions"&gt;Limitations and future directions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Interactions: Additivity ignores feature-by-feature interactions. Extending to sparse pairwise or grouped interactions could boost realism while keeping complexity in check.&lt;/li&gt;
 &lt;li&gt;Hyperparameters and scaling: Automated tuning and faster solvers for the second-order cone programs (the estimator’s optimization) would help at very large scales.&lt;/li&gt;
 &lt;li&gt;Sharper rates: There’s a small theory gap to the lower bounds; closing it would be satisfying and could inspire even leaner algorithms.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;bottom-line&#34;&gt;Bottom line&lt;/h2&gt;
-&lt;p&gt;SPARKLE shows you can have your nonparametric cake and eat it too—even with hundreds of features—by betting on sparsity, structuring exploration, and caring about geometry. For anyone building real-time personalization systems where the rules aren’t linear, it’s a pragmatic path to fast, reliable learning.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;h2 id="bottom-line"&gt;Bottom line&lt;/h2&gt;
+&lt;p&gt;SPARKLE shows you can have your nonparametric cake and eat it too—even with hundreds of features—by betting on sparsity, structuring exploration, and caring about geometry. For anyone building real-time personalization systems where the rules aren’t linear, it’s a pragmatic path to fast, reliable learning.&lt;/p&gt;</description></item></channel></rss>
