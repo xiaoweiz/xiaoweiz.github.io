@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yuxiao Wu | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/authors/yuxiao-wu/</link><atom:link href="https://xiaoweiz.github.io/authors/yuxiao-wu/index.xml" rel="self" type="application/rss+xml"/><description>Yuxiao Wu</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 14:36:33 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/authors/yuxiao-wu_hu_ba5f632b0a644a67.png</url><title>Yuxiao Wu</title><link>https://xiaoweiz.github.io/authors/yuxiao-wu/</link></image><item><title>Can AI Master Econometrics? Evidence from Econometrics AI Agent on Expert-Level Tasks</title><link>https://xiaoweiz.github.io/publications/econometrics-ai/</link><pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/econometrics-ai/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuxiao Wu | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/yuxiao-wu/</link>
+      <atom:link href="https://xiaoweiz.github.io/authors/yuxiao-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuxiao Wu</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 14:36:33 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/authors/yuxiao-wu_hu_ba5f632b0a644a67.png</url>
+      <title>Yuxiao Wu</title>
+      <link>https://xiaoweiz.github.io/authors/yuxiao-wu/</link>
+    </image>
+    
+    <item>
+      <title>Can AI Master Econometrics? Evidence from Econometrics AI Agent on Expert-Level Tasks</title>
+      <link>https://xiaoweiz.github.io/publications/econometrics-ai/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/econometrics-ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

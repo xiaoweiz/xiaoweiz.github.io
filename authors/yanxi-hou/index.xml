@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yanxi Hou | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/authors/yanxi-hou/</link><atom:link href="https://xiaoweiz.github.io/authors/yanxi-hou/index.xml" rel="self" type="application/rss+xml"/><description>Yanxi Hou</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/authors/yanxi-hou_hu_d0e8ca4044358423.png</url><title>Yanxi Hou</title><link>https://xiaoweiz.github.io/authors/yanxi-hou/</link></image><item><title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title><link>https://xiaoweiz.github.io/publications/qr-gmm/</link><pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/qr-gmm/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanxi Hou | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/yanxi-hou/</link>
+      <atom:link href="https://xiaoweiz.github.io/authors/yanxi-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanxi Hou</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/authors/yanxi-hou_hu_d0e8ca4044358423.png</url>
+      <title>Yanxi Hou</title>
+      <link>https://xiaoweiz.github.io/authors/yanxi-hou/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/publications/qr-gmm/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/qr-gmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

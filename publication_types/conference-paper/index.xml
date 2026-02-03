@@ -1,1 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conference Paper | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/publication_types/conference-paper/</link><atom:link href="https://xiaoweiz.github.io/publication_types/conference-paper/index.xml" rel="self" type="application/rss+xml"/><description>Conference Paper</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 01:06:59 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Conference Paper</title><link>https://xiaoweiz.github.io/publication_types/conference-paper/</link></image><item><title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title><link>https://xiaoweiz.github.io/publications/agentgit/</link><pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/agentgit/</guid><description/></item><item><title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title><link>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</link><pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</guid><description/></item><item><title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title><link>https://xiaoweiz.github.io/publications/contextual-selection-high-dimension/</link><pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/contextual-selection-high-dimension/</guid><description/></item><item><title>Ranking and Selection with Covariates</title><link>https://xiaoweiz.github.io/publications/contextual-selection-wsc/</link><pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/contextual-selection-wsc/</guid><description/></item><item><title>Sequential Sampling for Bayesian Robust Ranking and Selection</title><link>https://xiaoweiz.github.io/publications/robust-knowledge-gradient/</link><pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-knowledge-gradient/</guid><description/></item><item><title>Simulation Metamodeling in the Presence of Model Inadequacy</title><link>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</link><pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</guid><description/></item><item><title>Scaling and Modeling of Call Center Arrivals</title><link>https://xiaoweiz.github.io/publications/scaling-arrival-wsc/</link><pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/scaling-arrival-wsc/</guid><description/></item><item><title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title><link>https://xiaoweiz.github.io/publications/bayesian-modeling-arrival-wsc/</link><pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/bayesian-modeling-arrival-wsc/</guid><description/></item><item><title>Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link><pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid><description/></item><item><title>Rare Event Simulation for a Generalized Hawkes Process</title><link>https://xiaoweiz.github.io/publications/rare-event-hawkes/</link><pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/rare-event-hawkes/</guid><description/></item><item><title>Efficient Suboptimal Rare-event Simulation</title><link>https://xiaoweiz.github.io/publications/suboptimal-rare-event/</link><pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/suboptimal-rare-event/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Paper | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/publication_types/conference-paper/</link>
+      <atom:link href="https://xiaoweiz.github.io/publication_types/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference Paper</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 01:06:59 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Conference Paper</title>
+      <link>https://xiaoweiz.github.io/publication_types/conference-paper/</link>
+    </image>
+    
+    <item>
+      <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
+      <link>https://xiaoweiz.github.io/publications/agentgit/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/agentgit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publications/contextual-selection-high-dimension/</link>
+      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/contextual-selection-high-dimension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates</title>
+      <link>https://xiaoweiz.github.io/publications/contextual-selection-wsc/</link>
+      <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/contextual-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Sampling for Bayesian Robust Ranking and Selection</title>
+      <link>https://xiaoweiz.github.io/publications/robust-knowledge-gradient/</link>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/robust-knowledge-gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling and Modeling of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publications/scaling-arrival-wsc/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/scaling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publications/bayesian-modeling-arrival-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/bayesian-modeling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation for a Generalized Hawkes Process</title>
+      <link>https://xiaoweiz.github.io/publications/rare-event-hawkes/</link>
+      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/rare-event-hawkes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Suboptimal Rare-event Simulation</title>
+      <link>https://xiaoweiz.github.io/publications/suboptimal-rare-event/</link>
+      <pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/suboptimal-rare-event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

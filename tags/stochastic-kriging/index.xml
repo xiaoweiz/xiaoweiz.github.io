@@ -1,1 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stochastic Kriging | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link><atom:link href="https://xiaoweiz.github.io/tags/stochastic-kriging/index.xml" rel="self" type="application/rss+xml"/><description>Stochastic Kriging</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:00:00 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url><title>Stochastic Kriging</title><link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link></image><item><title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title><link>https://xiaoweiz.github.io/publications/high-dim-kriging/</link><pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/high-dim-kriging/</guid><description/></item><item><title>Surrogate-Based Simulation Optimization</title><link>https://xiaoweiz.github.io/publications/surrogate-based-so/</link><pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/surrogate-based-so/</guid><description/></item><item><title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title><link>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</link><pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</guid><description/></item><item><title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title><link>https://xiaoweiz.github.io/publications/stylized-model-stochastic-kriging/</link><pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/stylized-model-stochastic-kriging/</guid><description/></item><item><title>Scalable Stochastic Kriging with Markovian Covariances</title><link>https://xiaoweiz.github.io/publications/scalable-kriging/</link><pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/scalable-kriging/</guid><description/></item><item><title>Stochastic Kriging for Inadequate Simulation Models</title><link>https://xiaoweiz.github.io/publications/kriging-inadequate/</link><pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/kriging-inadequate/</guid><description/></item><item><title>Simulation Metamodeling in the Presence of Model Inadequacy</title><link>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</link><pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic Kriging | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link>
+      <atom:link href="https://xiaoweiz.github.io/tags/stochastic-kriging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stochastic Kriging</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 10:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Stochastic Kriging</title>
+      <link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link>
+    </image>
+    
+    <item>
+      <title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publications/high-dim-kriging/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/high-dim-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publications/surrogate-based-so/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/surrogate-based-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publications/stylized-model-stochastic-kriging/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publications/scalable-kriging/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/scalable-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publications/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
