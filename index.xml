@@ -7,19 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://xiaoweiz.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/talk/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Publications</title>
@@ -33,7 +24,7 @@
     <item>
       <title>Courses</title>
       <link>https://xiaoweiz.github.io/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaoweiz.github.io/courses/</guid>
       <description></description>
@@ -42,27 +33,18 @@
     <item>
       <title>Posts</title>
       <link>https://xiaoweiz.github.io/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaoweiz.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://xiaoweiz.github.io/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://xiaoweiz.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaoweiz.github.io/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://xiaoweiz.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/project/</guid>
+      <guid>https://xiaoweiz.github.io/talk/</guid>
       <description></description>
     </item>
     
