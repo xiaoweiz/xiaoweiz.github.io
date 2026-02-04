@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/publication/</link>
+    <description>Recent content in Publications on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPARKLE: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/sparkle/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/sparkle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title>
+      <link>https://xiaoweiz.github.io/publication/uncertainty-sorting/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/uncertainty-sorting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
+      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
+      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
+      <link>https://xiaoweiz.github.io/publication/agentgit/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/agentgit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing Under Taylor&#39;s Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title>
+      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#39;&#39;Over-Optimizing&#39;&#39; for Normality: Budget-Constrained Uncertainty Quantification for Contextual Decision-Making</title>
+      <link>https://xiaoweiz.github.io/publication/wsaa/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/wsaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
+      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
+      <link>https://xiaoweiz.github.io/publication/ai-investing/</link>
+      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/ai-investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can AI Master Econometrics? Evidence from Econometrics AI Agent on Expert-Level Tasks</title>
+      <link>https://xiaoweiz.github.io/publication/econometrics-ai/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/econometrics-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Persuasion, Bayesian Attribution, and Career Concerns of Decision-Makers</title>
+      <link>https://xiaoweiz.github.io/publication/ai-doctor/</link>
+      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/ai-doctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seesaw Experimentation: A/B Tests with Spillovers</title>
+      <link>https://xiaoweiz.github.io/publication/seesaw/</link>
+      <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/seesaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publication/nested-simulation/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/nested-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model</title>
+      <link>https://xiaoweiz.github.io/publication/newsvendor-hedging/</link>
+      <pubDate>Mon, 15 Jul 2024 13:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/newsvendor-hedging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Selection in Algorithmic Decision-making</title>
+      <link>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</link>
+      <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Tue, 22 Mar 2022 17:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publication/surrogate-based-so/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/surrogate-based-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</title>
+      <link>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</link>
+      <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
+      <pubDate>Fri, 12 Feb 2021 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</link>
+      <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Jump-Diffusions: Stochastic Stability and Limit Theorems</title>
+      <link>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</link>
+      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</link>
+      <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Sampling for Bayesian Robust Ranking and Selection</title>
+      <link>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</link>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Point Processes: Approximation and Efficient Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/affine-point-processes/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/affine-point-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling and Modeling of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regenerative Bootstrap Approach to Estimating the Initial Transient</title>
+      <link>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
+      <link>https://xiaoweiz.github.io/publication/loss-process/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/loss-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation for a Generalized Hawkes Process</title>
+      <link>https://xiaoweiz.github.io/publication/rare-event-hawkes/</link>
+      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/rare-event-hawkes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Suboptimal Rare-event Simulation</title>
+      <link>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</link>
+      <pubDate>Mon, 10 Dec 2007 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

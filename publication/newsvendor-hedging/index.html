@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="theme-name" content="academia-hugo"/>
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Xiaowei Zhang">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="If a financial asset&#39;s price movement impacts a firm&#39;s product demand, the firm can respond to the impact by adjusting its operational decisions. For example, in the automotive industry, car makers decrease the selling prices of fuel-inefficient cars when the oil price rises. Meanwhile, the firm can implement a risk-hedging strategy using the financial asset jointly with its operational decisions. Motivated by this, we develop and solve a general risk-management model integrating risk hedging into a price-setting newsvendor. The optimal hedging strategy is calculated analytically, which leads to an explicit objective function for optimizing price and ``virtual production quantity&#39;&#39; (VPQ). (The latter determines the service level, i.e., the demand fulfillment probability.) We find that hedging generally reduces the optimal price {when the firm sets the target mean return as its production-only maximum expected profit. With the same condition on the target mean return}, hedging also reduces the optimal VPQ when the asset price trend positively impacts product demand; meanwhile, it may increase the VPQ by a small margin when the impact is negative. We construct the return-risk efficient frontier that characterizes the optimal return-risk trade-off. Our numerical study using data from a prominent automotive manufacturer shows that the markdowns in price and reduction in VPQ are small under our model and that the hedging strategy substantially reduces risk without materially reducing operational profit. ">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://xiaoweiz.github.io/publication/newsvendor-hedging/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/all.css" integrity="sha384-rWj9FmWWt3OMqd9vBkWRhFavvVUYalYqGPoMdL1brs/qvvqz88gvLShYa4hKNyqb" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.3f99d69362c1352d711647f486d91076.css">
+
+  
+
+  
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://xiaoweiz.github.io/publication/newsvendor-hedging/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Xiaowei Zhang">
+  <meta property="og:url" content="https://xiaoweiz.github.io/publication/newsvendor-hedging/">
+  <meta property="og:title" content="How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model | Xiaowei Zhang">
+  <meta property="og:description" content="If a financial asset&#39;s price movement impacts a firm&#39;s product demand, the firm can respond to the impact by adjusting its operational decisions. For example, in the automotive industry, car makers decrease the selling prices of fuel-inefficient cars when the oil price rises. Meanwhile, the firm can implement a risk-hedging strategy using the financial asset jointly with its operational decisions. Motivated by this, we develop and solve a general risk-management model integrating risk hedging into a price-setting newsvendor. The optimal hedging strategy is calculated analytically, which leads to an explicit objective function for optimizing price and ``virtual production quantity&#39;&#39; (VPQ). (The latter determines the service level, i.e., the demand fulfillment probability.) We find that hedging generally reduces the optimal price {when the firm sets the target mean return as its production-only maximum expected profit. With the same condition on the target mean return}, hedging also reduces the optimal VPQ when the asset price trend positively impacts product demand; meanwhile, it may increase the VPQ by a small margin when the impact is negative. We construct the return-risk efficient frontier that characterizes the optimal return-risk trade-off. Our numerical study using data from a prominent automotive manufacturer shows that the markdowns in price and reduction in VPQ are small under our model and that the hedging strategy substantially reduces risk without materially reducing operational profit. "><meta property="og:image" content="https://xiaoweiz.github.io/publication/newsvendor-hedging/featured.png">
+  <meta property="twitter:image" content="https://xiaoweiz.github.io/publication/newsvendor-hedging/featured.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2024-07-15T13:38:42&#43;08:00">
+  
+  <meta property="article:modified_time" content="2024-07-15T13:38:42&#43;08:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model | Xiaowei Zhang</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+    
+    <a class="navbar-brand" href="/">Xiaowei Zhang</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container split-header">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+        <img class="img-fluid w-100" src="/publication/newsvendor-hedging/featured_hu_389582a7fcadf73e.png" itemprop="image" alt="">
+        
+    </div>
+    <div class="col-lg-8">
+      <h1 itemprop="name">How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model</h1>
+
+      
+
+      
+
+
+
+<meta content="2024-07-15 13:38:42 &#43;0800 HKT" itemprop="datePublished">
+<meta content="2024-07-15 13:38:42 &#43;0800 HKT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/liao-wang/">Liao Wang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jin-yao/">Jin Yao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Xiaowei Zhang</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>July 2024</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://xiaoweiz.github.io/publication/newsvendor-hedging/&amp;text=How%20Does%20Risk%20Hedging%20Impact%20Operations?%20Insights%20from%20a%20Price-Setting%20Newsvendor%20Model" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://xiaoweiz.github.io/publication/newsvendor-hedging/&amp;t=How%20Does%20Risk%20Hedging%20Impact%20Operations?%20Insights%20from%20a%20Price-Setting%20Newsvendor%20Model" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=How%20Does%20Risk%20Hedging%20Impact%20Operations?%20Insights%20from%20a%20Price-Setting%20Newsvendor%20Model&amp;body=https://xiaoweiz.github.io/publication/newsvendor-hedging/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://xiaoweiz.github.io/publication/newsvendor-hedging/&amp;title=How%20Does%20Risk%20Hedging%20Impact%20Operations?%20Insights%20from%20a%20Price-Setting%20Newsvendor%20Model" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=How%20Does%20Risk%20Hedging%20Impact%20Operations?%20Insights%20from%20a%20Price-Setting%20Newsvendor%20Model%20https://xiaoweiz.github.io/publication/newsvendor-hedging/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://xiaoweiz.github.io/publication/newsvendor-hedging/&amp;title=How%20Does%20Risk%20Hedging%20Impact%20Operations?%20Insights%20from%20a%20Price-Setting%20Newsvendor%20Model" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/newsvendor-hedging/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1287/mnsc.2023.4942" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2201.01026" target="_blank" rel="noopener">
+    
+    Preprint
+  </a>
+
+
+</div>
+
+
+    </div>
+    
+    </div>
+  </div>
+</div>
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">If a financial asset&rsquo;s price movement impacts a firm&rsquo;s product demand, the firm can respond to the impact by adjusting its operational decisions. For example, in the automotive industry, car makers decrease the selling prices of fuel-inefficient cars when the oil price rises. Meanwhile, the firm can implement a risk-hedging strategy using the financial asset jointly with its operational decisions. Motivated by this, we develop and solve a general risk-management model integrating risk hedging into a price-setting newsvendor. The optimal hedging strategy is calculated analytically, which leads to an explicit objective function for optimizing price and ``virtual production quantity&rsquo;&rsquo; (VPQ). (The latter determines the service level, i.e., the demand fulfillment probability.) We find that hedging generally reduces the optimal price {when the firm sets the target mean return as its production-only maximum expected profit. With the same condition on the target mean return}, hedging also reduces the optimal VPQ when the asset price trend positively impacts product demand; meanwhile, it may increase the VPQ by a small margin when the impact is negative. We construct the return-risk efficient frontier that characterizes the optimal return-risk trade-off. Our numerical study using data from a prominent automotive manufacturer shows that the markdowns in price and reduction in VPQ are small under our model and that the hedging strategy substantially reduces risk without materially reducing operational profit.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-10 mx-auto">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Management Science</em> <strong>70</strong>(7):4167-4952</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/newsvendor/">newsvendor</a>
+  
+  <a class="badge badge-light" href="/tags/pricing/">pricing</a>
+  
+  <a class="badge badge-light" href="/tags/risk-hedging/">risk hedging</a>
+  
+  <a class="badge badge-light" href="/tags/mean-variance-framework/">mean-variance framework</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/liao-wang/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+    <script id="dsq-count-scr" src="//themefisher-template.disqus.com/count.js" async></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academia.min.8a205a65e3712d5d8efee2f8c35ca2bb.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6 mb-4 mb-md-0">
+        
+        <p class="mb-0">
+          Copyright © 2026 &middot; 
+          Powered by
+          <a href="https://gethugothemes.com" target="_blank" rel="noopener">Gethugothemes</a>
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right mb-0">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

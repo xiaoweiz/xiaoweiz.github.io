@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lu Zou | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/authors/lu-zou/</link><atom:link href="https://xiaoweiz.github.io/authors/lu-zou/index.xml" rel="self" type="application/rss+xml"/><description>Lu Zou</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Feb 2018 17:48:04 +0800</lastBuildDate><item><title>Stochastic Kriging for Inadequate Simulation Models</title><link>https://xiaoweiz.github.io/publications/kriging-inadequate/</link><pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/kriging-inadequate/</guid><description/></item><item><title>Simulation Metamodeling in the Presence of Model Inadequacy</title><link>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</link><pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/kriging-inadequate-wsc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Zou on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/lu-zou/</link>
+    <description>Recent content in Lu Zou on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 08 Feb 2018 17:48:04 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/authors/lu-zou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

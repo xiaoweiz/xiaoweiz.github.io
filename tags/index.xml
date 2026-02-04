@@ -1,1 +1,925 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/tags/</link><atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><description>Tags</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Feb 2026 10:02:21 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_982c5d63a71b2961.png</url><title>Tags</title><link>https://xiaoweiz.github.io/tags/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/</link>
+    <description>Recent content in Tags on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covariates</title>
+      <link>https://xiaoweiz.github.io/tags/covariates/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/covariates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Model</title>
+      <link>https://xiaoweiz.github.io/tags/generative-model/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/generative-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/tags/quantile-regression/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/quantile-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling</title>
+      <link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/simulation-metamodeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Bandit</title>
+      <link>https://xiaoweiz.github.io/tags/contextual-bandit/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/contextual-bandit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doubly Penalized Estimation</title>
+      <link>https://xiaoweiz.github.io/tags/doubly-penalized-estimation/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/doubly-penalized-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional Covariate</title>
+      <link>https://xiaoweiz.github.io/tags/high-dimensional-covariate/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/high-dimensional-covariate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Method</title>
+      <link>https://xiaoweiz.github.io/tags/kernel-method/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/kernel-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Regression</title>
+      <link>https://xiaoweiz.github.io/tags/nonparametric-regression/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/nonparametric-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducing Kernel Hilbert Space</title>
+      <link>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Additive Model</title>
+      <link>https://xiaoweiz.github.io/tags/sparse-additive-model/</link>
+      <pubDate>Tue, 06 Jan 2026 14:42:08 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/sparse-additive-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asset Pricing</title>
+      <link>https://xiaoweiz.github.io/tags/asset-pricing/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/asset-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction</title>
+      <link>https://xiaoweiz.github.io/tags/conformal-prediction/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/conformal-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://xiaoweiz.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Uncertainty</title>
+      <link>https://xiaoweiz.github.io/tags/predictive-uncertainty/</link>
+      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/predictive-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Operations Management</title>
+      <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
+      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/behavioral-operations-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://xiaoweiz.github.io/tags/llm/</link>
+      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://xiaoweiz.github.io/tags/simulation/</link>
+      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent Version Control</title>
+      <link>https://xiaoweiz.github.io/tags/agent-version-control/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/agent-version-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent System</title>
+      <link>https://xiaoweiz.github.io/tags/multi-agent-system/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/multi-agent-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doubly Stochastic Poisson Process</title>
+      <link>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over-Dispersion</title>
+      <link>https://xiaoweiz.github.io/tags/over-dispersion/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/over-dispersion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing Rule</title>
+      <link>https://xiaoweiz.github.io/tags/staffing-rule/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/staffing-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor&#39;s Law</title>
+      <link>https://xiaoweiz.github.io/tags/taylors-law/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/taylors-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Stochastic Optimization</title>
+      <link>https://xiaoweiz.github.io/tags/contextual-stochastic-optimization/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/contextual-stochastic-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over-Optimizing</title>
+      <link>https://xiaoweiz.github.io/tags/over-optimizing/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/over-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical–computational Tradeoff</title>
+      <link>https://xiaoweiz.github.io/tags/statisticalcomputational-tradeoff/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/statisticalcomputational-tradeoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Quantification</title>
+      <link>https://xiaoweiz.github.io/tags/uncertainty-quantification/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/uncertainty-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted Sample Average Approximation</title>
+      <link>https://xiaoweiz.github.io/tags/weighted-sample-average-approximation/</link>
+      <pubDate>Sat, 11 Oct 2025 13:26:23 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/weighted-sample-average-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actor-Critic</title>
+      <link>https://xiaoweiz.github.io/tags/actor-critic/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/actor-critic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumental Variable</title>
+      <link>https://xiaoweiz.github.io/tags/instrumental-variable/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/instrumental-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Decision Process</title>
+      <link>https://xiaoweiz.github.io/tags/markov-decision-process/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/markov-decision-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-Learning</title>
+      <link>https://xiaoweiz.github.io/tags/q-learning/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/q-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://xiaoweiz.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Approximation</title>
+      <link>https://xiaoweiz.github.io/tags/stochastic-approximation/</link>
+      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/stochastic-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://xiaoweiz.github.io/tags/ai/</link>
+      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Investing</title>
+      <link>https://xiaoweiz.github.io/tags/fundamental-investing/</link>
+      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/fundamental-investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robo-Advisor</title>
+      <link>https://xiaoweiz.github.io/tags/robo-advisor/</link>
+      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/robo-advisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agentic AI</title>
+      <link>https://xiaoweiz.github.io/tags/agentic-ai/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/agentic-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Adoption</title>
+      <link>https://xiaoweiz.github.io/tags/ai-adoption/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ai-adoption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Econometrics</title>
+      <link>https://xiaoweiz.github.io/tags/econometrics/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Replication</title>
+      <link>https://xiaoweiz.github.io/tags/empirical-replication/</link>
+      <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/empirical-replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution</title>
+      <link>https://xiaoweiz.github.io/tags/attribution/</link>
+      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/attribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Concerns</title>
+      <link>https://xiaoweiz.github.io/tags/career-concerns/</link>
+      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/career-concerns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disagreement</title>
+      <link>https://xiaoweiz.github.io/tags/disagreement/</link>
+      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/disagreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability</title>
+      <link>https://xiaoweiz.github.io/tags/interpretability/</link>
+      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuasion</title>
+      <link>https://xiaoweiz.github.io/tags/persuasion/</link>
+      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/persuasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A/B Test</title>
+      <link>https://xiaoweiz.github.io/tags/a/b-test/</link>
+      <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/a/b-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimentation</title>
+      <link>https://xiaoweiz.github.io/tags/experimentation/</link>
+      <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/experimentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spillovers</title>
+      <link>https://xiaoweiz.github.io/tags/spillovers/</link>
+      <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/spillovers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Rate</title>
+      <link>https://xiaoweiz.github.io/tags/convergence-rate/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/convergence-rate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional</title>
+      <link>https://xiaoweiz.github.io/tags/high-dimensional/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/high-dimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Ridge Regression</title>
+      <link>https://xiaoweiz.github.io/tags/kernel-ridge-regression/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/kernel-ridge-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nested Simulation</title>
+      <link>https://xiaoweiz.github.io/tags/nested-simulation/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/nested-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothness</title>
+      <link>https://xiaoweiz.github.io/tags/smoothness/</link>
+      <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/smoothness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean-Variance Framework</title>
+      <link>https://xiaoweiz.github.io/tags/mean-variance-framework/</link>
+      <pubDate>Mon, 15 Jul 2024 13:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/mean-variance-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newsvendor</title>
+      <link>https://xiaoweiz.github.io/tags/newsvendor/</link>
+      <pubDate>Mon, 15 Jul 2024 13:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/newsvendor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>https://xiaoweiz.github.io/tags/pricing/</link>
+      <pubDate>Mon, 15 Jul 2024 13:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Hedging</title>
+      <link>https://xiaoweiz.github.io/tags/risk-hedging/</link>
+      <pubDate>Mon, 15 Jul 2024 13:38:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/risk-hedging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Design</title>
+      <link>https://xiaoweiz.github.io/tags/experimental-design/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/experimental-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process</title>
+      <link>https://xiaoweiz.github.io/tags/gaussian-process/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/gaussian-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Inversion</title>
+      <link>https://xiaoweiz.github.io/tags/matrix-inversion/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/matrix-inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Grid</title>
+      <link>https://xiaoweiz.github.io/tags/sparse-grid/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/sparse-grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging</title>
+      <link>https://xiaoweiz.github.io/tags/stochastic-kriging/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Markov Kernel</title>
+      <link>https://xiaoweiz.github.io/tags/tensor-markov-kernel/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/tensor-markov-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Selection</title>
+      <link>https://xiaoweiz.github.io/tags/dynamic-selection/</link>
+      <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/dynamic-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogeneity Spillover</title>
+      <link>https://xiaoweiz.github.io/tags/endogeneity-spillover/</link>
+      <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/endogeneity-spillover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Fulfilling Bias</title>
+      <link>https://xiaoweiz.github.io/tags/self-fulfilling-bias/</link>
+      <pubDate>Wed, 27 Sep 2023 18:02:20 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/self-fulfilling-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Gradient</title>
+      <link>https://xiaoweiz.github.io/tags/knowledge-gradient/</link>
+      <pubDate>Tue, 22 Mar 2022 17:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/knowledge-gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection</title>
+      <link>https://xiaoweiz.github.io/tags/ranking-and-selection/</link>
+      <pubDate>Tue, 22 Mar 2022 17:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ranking-and-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/tags/simulation-optimization/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/simulation-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brownian Field</title>
+      <link>https://xiaoweiz.github.io/tags/brownian-field/</link>
+      <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/brownian-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expected Improvement</title>
+      <link>https://xiaoweiz.github.io/tags/expected-improvement/</link>
+      <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/expected-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Medicine</title>
+      <link>https://xiaoweiz.github.io/tags/personalized-medicine/</link>
+      <pubDate>Fri, 12 Feb 2021 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/personalized-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appointment Scheduling</title>
+      <link>https://xiaoweiz.github.io/tags/appointment-scheduling/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/appointment-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input Uncertainty</title>
+      <link>https://xiaoweiz.github.io/tags/input-uncertainty/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/input-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Optimization</title>
+      <link>https://xiaoweiz.github.io/tags/robust-optimization/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/robust-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient</title>
+      <link>https://xiaoweiz.github.io/tags/gradient/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markovian Covariance Function</title>
+      <link>https://xiaoweiz.github.io/tags/markovian-covariance-function/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/markovian-covariance-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Jump-Diffusion</title>
+      <link>https://xiaoweiz.github.io/tags/affine-jump-diffusion/</link>
+      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/affine-jump-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ergodicity</title>
+      <link>https://xiaoweiz.github.io/tags/ergodicity/</link>
+      <pubDate>Thu, 01 Nov 2018 20:55:03 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ergodicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>https://xiaoweiz.github.io/tags/bayesian/</link>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://xiaoweiz.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://xiaoweiz.github.io/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human</title>
+      <link>https://xiaoweiz.github.io/tags/human/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://xiaoweiz.github.io/tags/robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academia</title>
+      <link>https://xiaoweiz.github.io/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Point Process</title>
+      <link>https://xiaoweiz.github.io/tags/affine-point-process/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/affine-point-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance Sampling</title>
+      <link>https://xiaoweiz.github.io/tags/importance-sampling/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/importance-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Deviations</title>
+      <link>https://xiaoweiz.github.io/tags/large-deviations/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/large-deviations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Event Simulation</title>
+      <link>https://xiaoweiz.github.io/tags/rare-event-simulation/</link>
+      <pubDate>Tue, 03 Nov 2015 20:16:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/rare-event-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arrival Data</title>
+      <link>https://xiaoweiz.github.io/tags/arrival-data/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/arrival-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overdispersion</title>
+      <link>https://xiaoweiz.github.io/tags/overdispersion/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/overdispersion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Chain Monte Carlo</title>
+      <link>https://xiaoweiz.github.io/tags/markov-chain-monte-carlo/</link>
+      <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/markov-chain-monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://xiaoweiz.github.io/tags/bootstrap/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial Transient</title>
+      <link>https://xiaoweiz.github.io/tags/initial-transient/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/initial-transient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regenerative Process</title>
+      <link>https://xiaoweiz.github.io/tags/regenerative-process/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/regenerative-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steady State Simulation</title>
+      <link>https://xiaoweiz.github.io/tags/steady-state-simulation/</link>
+      <pubDate>Fri, 10 Dec 2010 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/steady-state-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Time</title>
+      <link>https://xiaoweiz.github.io/tags/local-time/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/local-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflected Brownian Motion</title>
+      <link>https://xiaoweiz.github.io/tags/reflected-brownian-motion/</link>
+      <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/reflected-brownian-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawkes Process</title>
+      <link>https://xiaoweiz.github.io/tags/hawkes-process/</link>
+      <pubDate>Thu, 10 Dec 2009 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/hawkes-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

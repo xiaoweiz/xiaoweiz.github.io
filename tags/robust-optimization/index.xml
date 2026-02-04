@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robust Optimization | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/tags/robust-optimization/</link><atom:link href="https://xiaoweiz.github.io/tags/robust-optimization/index.xml" rel="self" type="application/rss+xml"/><description>Robust Optimization</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_982c5d63a71b2961.png</url><title>Robust Optimization</title><link>https://xiaoweiz.github.io/tags/robust-optimization/</link></image><item><title>Distributionally Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection/</link><pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection/</guid><description/></item><item><title>Sequential Sampling for Bayesian Robust Ranking and Selection</title><link>https://xiaoweiz.github.io/publications/robust-knowledge-gradient/</link><pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-knowledge-gradient/</guid><description/></item><item><title>Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link><pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust Optimization on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/robust-optimization/</link>
+    <description>Recent content in Robust Optimization on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 15 Jan 2020 21:11:51 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/tags/robust-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Sampling for Bayesian Robust Ranking and Selection</title>
+      <link>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</link>
+      <pubDate>Sat, 10 Dec 2016 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Staffing Rule | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/tags/staffing-rule/</link><atom:link href="https://xiaoweiz.github.io/tags/staffing-rule/index.xml" rel="self" type="application/rss+xml"/><description>Staffing Rule</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 23:35:21 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/icon_hu_982c5d63a71b2961.png</url><title>Staffing Rule</title><link>https://xiaoweiz.github.io/tags/staffing-rule/</link></image><item><title>Staffing Under Taylor's Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title><link>https://xiaoweiz.github.io/publications/taylor-staffing/</link><pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/taylor-staffing/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staffing Rule on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/staffing-rule/</link>
+    <description>Recent content in Staffing Rule on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 11 Oct 2025 23:35:21 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/tags/staffing-rule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Staffing Under Taylor&#39;s Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title>
+      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

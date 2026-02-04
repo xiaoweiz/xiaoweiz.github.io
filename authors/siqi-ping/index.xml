@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Siqi Ping | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/authors/siqi-ping/</link><atom:link href="https://xiaoweiz.github.io/authors/siqi-ping/index.xml" rel="self" type="application/rss+xml"/><description>Siqi Ping</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 01:06:59 +0800</lastBuildDate><item><title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title><link>https://xiaoweiz.github.io/publications/agentgit/</link><pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/agentgit/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siqi Ping on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/siqi-ping/</link>
+    <description>Recent content in Siqi Ping on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 02 Nov 2025 01:06:59 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/authors/siqi-ping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
+      <link>https://xiaoweiz.github.io/publication/agentgit/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/agentgit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

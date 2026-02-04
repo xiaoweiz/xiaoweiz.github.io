@@ -1,1 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>L. Jeff Hong | Xiaowei Zhang</title><link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link><atom:link href="https://xiaoweiz.github.io/authors/l.-jeff-hong/index.xml" rel="self" type="application/rss+xml"/><description>L. Jeff Hong</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate><image><url>https://xiaoweiz.github.io/media/authors/l.-jeff-hong_hu_d426f47a59814acd.png</url><title>L. Jeff Hong</title><link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link></image><item><title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title><link>https://xiaoweiz.github.io/publications/qr-gmm/</link><pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/qr-gmm/</guid><description/></item><item><title>Staffing Under Taylor's Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title><link>https://xiaoweiz.github.io/publications/taylor-staffing/</link><pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/taylor-staffing/</guid><description/></item><item><title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title><link>https://xiaoweiz.github.io/publications/kg-contextual-selection/</link><pubDate>Tue, 22 Mar 2022 17:11:41 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/kg-contextual-selection/</guid><description/></item><item><title>Surrogate-Based Simulation Optimization</title><link>https://xiaoweiz.github.io/publications/surrogate-based-so/</link><pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/surrogate-based-so/</guid><description/></item><item><title>Ranking and Selection with Covariates for Personalized Decision Making</title><link>https://xiaoweiz.github.io/publications/contextual-selection/</link><pubDate>Fri, 12 Feb 2021 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/contextual-selection/</guid><description/></item><item><title>Distributionally Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection/</link><pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection/</guid><description/></item><item><title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title><link>https://xiaoweiz.github.io/publications/stylized-model-stochastic-kriging/</link><pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/stylized-model-stochastic-kriging/</guid><description/></item><item><title>Ranking and Selection with Covariates</title><link>https://xiaoweiz.github.io/publications/contextual-selection-wsc/</link><pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/contextual-selection-wsc/</guid><description/></item><item><title>Scaling and Modeling of Call Center Arrivals</title><link>https://xiaoweiz.github.io/publications/scaling-arrival-wsc/</link><pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/scaling-arrival-wsc/</guid><description/></item><item><title>Robust Selection of the Best</title><link>https://xiaoweiz.github.io/publications/robust-selection-wsc/</link><pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publications/robust-selection-wsc/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Jeff Hong on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/authors/l.-jeff-hong/</link>
+    <description>Recent content in L. Jeff Hong on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/authors/l.-jeff-hong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
+      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing Under Taylor&#39;s Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title>
+      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
+      <pubDate>Sat, 11 Oct 2025 23:35:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Gradient for Selection with Covariates: Consistency and Computation</title>
+      <link>https://xiaoweiz.github.io/publication/kg-contextual-selection/</link>
+      <pubDate>Tue, 22 Mar 2022 17:11:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/kg-contextual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publication/surrogate-based-so/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/surrogate-based-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates for Personalized Decision Making</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection/</link>
+      <pubDate>Fri, 12 Feb 2021 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection/</link>
+      <pubDate>Wed, 15 Jan 2020 21:11:51 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection with Covariates</title>
+      <link>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</link>
+      <pubDate>Sun, 10 Dec 2017 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling and Modeling of Call Center Arrivals</title>
+      <link>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</link>
+      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Selection of the Best</title>
+      <link>https://xiaoweiz.github.io/publication/robust-selection-wsc/</link>
+      <pubDate>Tue, 10 Dec 2013 18:06:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/robust-selection-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
