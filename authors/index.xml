@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 10:02:21 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,39 @@
     <item>
       <title></title>
       <link>https://xiaoweiz.github.io/authors/admin/</link>
-      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am an Associate Professor at HKUST, jointly appointed in the Department of Industrial Engineering and Decision Analytics and the Department of Economics, and the Academic Director of the &lt;a href=&#34;https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-fintech&#34;&gt;MSc in FinTech&lt;/a&gt; program. I serve as an Associate Editor for several leading journals in the field, including &lt;em&gt;Management Science&lt;/em&gt;, &lt;em&gt;Operations Research&lt;/em&gt;, &lt;em&gt;Navel Research Logistics&lt;/em&gt;, and &lt;em&gt;Queueing Systems&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;My research focuses on developing innovative methodologies for data-driven decision-making, leveraging the unprecedented access to data and computational resources. By integrating advanced techniques from simulation, stochastics, and machine learning, I address complex challenges in business operations, finance, and digital economy, while investigating the transformative potential of AI technologies in these domains.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Hanzhe Li</title>
+      <link>https://xiaoweiz.github.io/authors/hanzhe-li/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/hanzhe-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jin Li</title>
+      <link>https://xiaoweiz.github.io/authors/jin-li/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/jin-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ye Luo</title>
+      <link>https://xiaoweiz.github.io/authors/ye-luo/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/ye-luo/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -74,15 +101,6 @@
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/yan-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ye Luo</title>
-      <link>https://xiaoweiz.github.io/authors/ye-luo/</link>
-      <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/ye-luo/</guid>
       <description></description>
     </item>
     
@@ -177,15 +195,6 @@
     </item>
     
     <item>
-      <title>Jin Li</title>
-      <link>https://xiaoweiz.github.io/authors/jin-li/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/jin-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chujun He</title>
       <link>https://xiaoweiz.github.io/authors/chujun-he/</link>
       <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
@@ -263,15 +272,6 @@
       <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/yuxiao-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hanzhe Li</title>
-      <link>https://xiaoweiz.github.io/authors/hanzhe-li/</link>
-      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/hanzhe-li/</guid>
       <description></description>
     </item>
     

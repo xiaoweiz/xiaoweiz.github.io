@@ -3,13 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://xiaoweiz.github.io/authors/admin/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/ai/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/ai-doctor/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/attribution/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/career-concerns/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/disagreement/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/hanzhe-li/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/interpretability/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/jin-li/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/persuasion/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/ye-luo/</loc>
+    <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
@@ -23,12 +65,6 @@
     <loc>https://xiaoweiz.github.io/publication/qr-gmm/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/authors/qingkai-zhang/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
@@ -36,12 +72,6 @@
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/simulation-metamodeling/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2026-01-20T08:53:22+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/yanxi-hou/</loc>
@@ -93,9 +123,6 @@
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/yan-liu/</loc>
-    <lastmod>2026-01-01T07:54:45+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/authors/ye-luo/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/zigan-wang/</loc>
@@ -194,9 +221,6 @@
     <loc>https://xiaoweiz.github.io/tags/instrumental-variable/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/jin-li/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/tags/markov-decision-process/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
@@ -208,9 +232,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/stochastic-approximation/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/ai/</loc>
-    <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/chujun-he/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
@@ -262,27 +283,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/yuxiao-wu/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/ai-doctor/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/attribution/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/career-concerns/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/disagreement/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/authors/hanzhe-li/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/interpretability/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/persuasion/</loc>
-    <lastmod>2025-03-04T10:02:21+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/a/b-test/</loc>
     <lastmod>2025-01-01T20:40:11+08:00</lastmod>

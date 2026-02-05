@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 10:02:21 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI</title>
+      <link>https://xiaoweiz.github.io/tags/ai/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution</title>
+      <link>https://xiaoweiz.github.io/tags/attribution/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/attribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Concerns</title>
+      <link>https://xiaoweiz.github.io/tags/career-concerns/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/career-concerns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disagreement</title>
+      <link>https://xiaoweiz.github.io/tags/disagreement/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/disagreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability</title>
+      <link>https://xiaoweiz.github.io/tags/interpretability/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuasion</title>
+      <link>https://xiaoweiz.github.io/tags/persuasion/</link>
+      <pubDate>Thu, 05 Feb 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/persuasion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covariates</title>
@@ -328,15 +382,6 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://xiaoweiz.github.io/tags/ai/</link>
-      <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fundamental Investing</title>
       <link>https://xiaoweiz.github.io/tags/fundamental-investing/</link>
       <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
@@ -387,51 +432,6 @@
       <pubDate>Sun, 01 Jun 2025 14:36:33 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/empirical-replication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attribution</title>
-      <link>https://xiaoweiz.github.io/tags/attribution/</link>
-      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/attribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career Concerns</title>
-      <link>https://xiaoweiz.github.io/tags/career-concerns/</link>
-      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/career-concerns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disagreement</title>
-      <link>https://xiaoweiz.github.io/tags/disagreement/</link>
-      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/disagreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretability</title>
-      <link>https://xiaoweiz.github.io/tags/interpretability/</link>
-      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/interpretability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Persuasion</title>
-      <link>https://xiaoweiz.github.io/tags/persuasion/</link>
-      <pubDate>Tue, 04 Mar 2025 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/persuasion/</guid>
       <description></description>
     </item>
     
