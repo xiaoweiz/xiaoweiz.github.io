@@ -2,40 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLM on Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/tags/llm/</link>
+    <link>http://localhost:1313/tags/llm/</link>
     <description>Recent content in LLM on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 25 Nov 2025 04:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 20:25:24 +0800</lastBuildDate>
     
-	    <atom:link href="https://xiaoweiz.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Optimizing Service Operations via LLM-Powered Multi-Agent Simulation</title>
+      <link>http://localhost:1313/publication/llm-mas/</link>
+      <pubDate>Fri, 03 Apr 2026 20:25:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/publication/llm-mas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
-      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
+      <link>http://localhost:1313/publication/llm-bom-sim/</link>
       <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
+      <guid>http://localhost:1313/publication/llm-bom-sim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
-      <link>https://xiaoweiz.github.io/publication/agentgit/</link>
+      <link>http://localhost:1313/publication/agentgit/</link>
       <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/agentgit/</guid>
+      <guid>http://localhost:1313/publication/agentgit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
-      <link>https://xiaoweiz.github.io/publication/ai-investing/</link>
+      <link>http://localhost:1313/publication/ai-investing/</link>
       <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/ai-investing/</guid>
+      <guid>http://localhost:1313/publication/ai-investing/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingyang Zhao on Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/authors/mingyang-zhao/</link>
+    <link>http://localhost:1313/authors/mingyang-zhao/</link>
     <description>Recent content in Mingyang Zhao on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 25 Nov 2025 04:00:11 +0800</lastBuildDate>
     
-	    <atom:link href="https://xiaoweiz.github.io/authors/mingyang-zhao/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:1313/authors/mingyang-zhao/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
-      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
+      <link>http://localhost:1313/publication/llm-bom-sim/</link>
       <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
+      <guid>http://localhost:1313/publication/llm-bom-sim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China’s A‑Share Market</title>
-      <link>https://xiaoweiz.github.io/publication/ai-investing/</link>
+      <link>http://localhost:1313/publication/ai-investing/</link>
       <pubDate>Wed, 01 Oct 2025 20:13:11 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/ai-investing/</guid>
+      <guid>http://localhost:1313/publication/ai-investing/</guid>
       <description></description>
     </item>
     

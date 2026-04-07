@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High-Dimensional on Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/tags/high-dimensional/</link>
+    <link>http://localhost:1313/tags/high-dimensional/</link>
     <description>Recent content in High-Dimensional on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 10 Dec 2024 08:38:42 +0800</lastBuildDate>
     
-	    <atom:link href="https://xiaoweiz.github.io/tags/high-dimensional/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:1313/tags/high-dimensional/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/publication/nested-simulation/</link>
+      <link>http://localhost:1313/publication/nested-simulation/</link>
       <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/nested-simulation/</guid>
+      <guid>http://localhost:1313/publication/nested-simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample and Computationally Efficient Stochastic Kriging in High Dimensions</title>
-      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
+      <link>http://localhost:1313/publication/high-dim-kriging/</link>
       <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
+      <guid>http://localhost:1313/publication/high-dim-kriging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</title>
-      <link>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</link>
+      <link>http://localhost:1313/publication/high-dim-sim-opt/</link>
       <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</guid>
+      <guid>http://localhost:1313/publication/high-dim-sim-opt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Driven Ranking and Selection: High-dimensional Covariates and General Dependence</title>
-      <link>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</link>
+      <link>http://localhost:1313/publication/contextual-selection-high-dimension/</link>
       <pubDate>Mon, 10 Dec 2018 19:05:59 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</guid>
+      <guid>http://localhost:1313/publication/contextual-selection-high-dimension/</guid>
       <description></description>
     </item>
     

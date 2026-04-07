@@ -2,567 +2,582 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaoweiz.github.io/authors/admin/</loc>
+    <loc>http://localhost:1313/authors/admin/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/3/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/controlled-markov-chain/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/llm/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/multi-agent-simulation/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/llm-mas/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/service-operations/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/yanyuan-wang/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zeroth-order-optimization/</loc>
+    <lastmod>2026-04-03T20:25:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/wsaa/</loc>
     <lastmod>2026-03-04T15:34:23+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/wsaa/</loc>
+    <loc>http://localhost:1313/tags/contextual-stochastic-optimization/</loc>
     <lastmod>2026-03-04T15:34:23+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
+    <loc>http://localhost:1313/tags/over-optimizing/</loc>
     <lastmod>2026-03-04T15:34:23+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/</loc>
+    <loc>http://localhost:1313/tags/statisticalcomputational-tradeoff/</loc>
     <lastmod>2026-03-04T15:34:23+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/contextual-stochastic-optimization/</loc>
+    <loc>http://localhost:1313/tags/uncertainty-quantification/</loc>
     <lastmod>2026-03-04T15:34:23+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/over-optimizing/</loc>
+    <loc>http://localhost:1313/tags/weighted-sample-average-approximation/</loc>
     <lastmod>2026-03-04T15:34:23+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/statisticalcomputational-tradeoff/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/uncertainty-quantification/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/weighted-sample-average-approximation/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/authors/yanyuan-wang/</loc>
-    <lastmod>2026-03-04T15:34:23+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/ai-doctor/</loc>
+    <loc>http://localhost:1313/publication/ai-doctor/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/attribution/</loc>
+    <loc>http://localhost:1313/tags/attribution/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/career-concerns/</loc>
+    <loc>http://localhost:1313/tags/career-concerns/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/disagreement/</loc>
+    <loc>http://localhost:1313/tags/disagreement/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/hanzhe-li/</loc>
+    <loc>http://localhost:1313/authors/hanzhe-li/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/interpretability/</loc>
+    <loc>http://localhost:1313/tags/interpretability/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/jin-li/</loc>
+    <loc>http://localhost:1313/authors/jin-li/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/persuasion/</loc>
+    <loc>http://localhost:1313/tags/persuasion/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/ye-luo/</loc>
+    <loc>http://localhost:1313/authors/ye-luo/</loc>
     <lastmod>2026-02-05T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
+    <loc>http://localhost:1313/tags/covariates/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/generative-model/</loc>
+    <loc>http://localhost:1313/tags/generative-model/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/l.-jeff-hong/</loc>
+    <loc>http://localhost:1313/authors/l.-jeff-hong/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/qr-gmm/</loc>
+    <loc>http://localhost:1313/publication/qr-gmm/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/qingkai-zhang/</loc>
+    <loc>http://localhost:1313/authors/qingkai-zhang/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/quantile-regression/</loc>
+    <loc>http://localhost:1313/tags/quantile-regression/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/simulation-metamodeling/</loc>
+    <loc>http://localhost:1313/tags/simulation-metamodeling/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/yanxi-hou/</loc>
+    <loc>http://localhost:1313/authors/yanxi-hou/</loc>
     <lastmod>2026-01-20T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/contextual-bandit/</loc>
+    <loc>http://localhost:1313/tags/contextual-bandit/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/doubly-penalized-estimation/</loc>
+    <loc>http://localhost:1313/tags/doubly-penalized-estimation/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/high-dimensional-covariate/</loc>
+    <loc>http://localhost:1313/tags/high-dimensional-covariate/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/kernel-method/</loc>
+    <loc>http://localhost:1313/tags/kernel-method/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/nonparametric-regression/</loc>
+    <loc>http://localhost:1313/tags/nonparametric-regression/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/qingwen-zhang/</loc>
+    <loc>http://localhost:1313/authors/qingwen-zhang/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</loc>
+    <loc>http://localhost:1313/tags/reproducing-kernel-hilbert-space/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/sparkle/</loc>
+    <loc>http://localhost:1313/publication/sparkle/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/sparse-additive-model/</loc>
+    <loc>http://localhost:1313/tags/sparse-additive-model/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/wenjia-wang/</loc>
+    <loc>http://localhost:1313/authors/wenjia-wang/</loc>
     <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/asset-pricing/</loc>
+    <loc>http://localhost:1313/tags/asset-pricing/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/conformal-prediction/</loc>
+    <loc>http://localhost:1313/tags/conformal-prediction/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/predictive-uncertainty/</loc>
+    <loc>http://localhost:1313/tags/predictive-uncertainty/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/uncertainty-sorting/</loc>
+    <loc>http://localhost:1313/publication/uncertainty-sorting/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/yan-liu/</loc>
+    <loc>http://localhost:1313/authors/yan-liu/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/zigan-wang/</loc>
+    <loc>http://localhost:1313/authors/zigan-wang/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/behavioral-operations-management/</loc>
+    <loc>http://localhost:1313/tags/behavioral-operations-management/</loc>
     <lastmod>2025-11-25T04:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/llm/</loc>
+    <loc>http://localhost:1313/authors/mingyang-zhao/</loc>
     <lastmod>2025-11-25T04:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/mingyang-zhao/</loc>
+    <loc>http://localhost:1313/publication/llm-bom-sim/</loc>
     <lastmod>2025-11-25T04:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/llm-bom-sim/</loc>
+    <loc>http://localhost:1313/authors/runze-zhang/</loc>
     <lastmod>2025-11-25T04:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/runze-zhang/</loc>
+    <loc>http://localhost:1313/tags/simulation/</loc>
     <lastmod>2025-11-25T04:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/simulation/</loc>
-    <lastmod>2025-11-25T04:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/1/</loc>
+    <loc>http://localhost:1313/publication_types/1/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/agent-version-control/</loc>
+    <loc>http://localhost:1313/tags/agent-version-control/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/agentgit/</loc>
+    <loc>http://localhost:1313/publication/agentgit/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/multi-agent-system/</loc>
+    <loc>http://localhost:1313/tags/multi-agent-system/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/siqi-ping/</loc>
+    <loc>http://localhost:1313/authors/siqi-ping/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/xiaojian-qi/</loc>
+    <loc>http://localhost:1313/authors/xiaojian-qi/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/xiyu-chen/</loc>
+    <loc>http://localhost:1313/authors/xiyu-chen/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/yang-li/</loc>
+    <loc>http://localhost:1313/authors/yang-li/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</loc>
+    <loc>http://localhost:1313/tags/doubly-stochastic-poisson-process/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/jiheng-zhang/</loc>
+    <loc>http://localhost:1313/authors/jiheng-zhang/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/over-dispersion/</loc>
+    <loc>http://localhost:1313/tags/over-dispersion/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/staffing-rule/</loc>
+    <loc>http://localhost:1313/tags/staffing-rule/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/taylor-staffing/</loc>
+    <loc>http://localhost:1313/publication/taylor-staffing/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/taylors-law/</loc>
+    <loc>http://localhost:1313/tags/taylors-law/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/weihuan-huang/</loc>
+    <loc>http://localhost:1313/authors/weihuan-huang/</loc>
     <lastmod>2025-10-11T23:35:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/actor-critic/</loc>
+    <loc>http://localhost:1313/tags/actor-critic/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/causal-rl/</loc>
+    <loc>http://localhost:1313/publication/causal-rl/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/instrumental-variable/</loc>
+    <loc>http://localhost:1313/tags/instrumental-variable/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/markov-decision-process/</loc>
+    <loc>http://localhost:1313/tags/markov-decision-process/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/q-learning/</loc>
+    <loc>http://localhost:1313/tags/q-learning/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/reinforcement-learning/</loc>
+    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/stochastic-approximation/</loc>
+    <loc>http://localhost:1313/tags/stochastic-approximation/</loc>
     <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/chujun-he/</loc>
+    <loc>http://localhost:1313/authors/chujun-he/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/fundamental-investing/</loc>
+    <loc>http://localhost:1313/tags/fundamental-investing/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/ai-investing/</loc>
+    <loc>http://localhost:1313/publication/ai-investing/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/kewei-ma/</loc>
+    <loc>http://localhost:1313/authors/kewei-ma/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/robo-advisor/</loc>
+    <loc>http://localhost:1313/tags/robo-advisor/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/xiangguo-li/</loc>
+    <loc>http://localhost:1313/authors/xiangguo-li/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/yuxuan-xiong/</loc>
+    <loc>http://localhost:1313/authors/yuxuan-xiong/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/zhonghao-huang/</loc>
+    <loc>http://localhost:1313/authors/zhonghao-huang/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/agentic-ai/</loc>
+    <loc>http://localhost:1313/tags/agentic-ai/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/ai-adoption/</loc>
+    <loc>http://localhost:1313/tags/ai-adoption/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/econometrics-ai/</loc>
+    <loc>http://localhost:1313/publication/econometrics-ai/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/econometrics/</loc>
+    <loc>http://localhost:1313/tags/econometrics/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/empirical-replication/</loc>
+    <loc>http://localhost:1313/tags/empirical-replication/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/qiang-chen/</loc>
+    <loc>http://localhost:1313/authors/qiang-chen/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/tianyang-han/</loc>
+    <loc>http://localhost:1313/authors/tianyang-han/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/tuo-zhou/</loc>
+    <loc>http://localhost:1313/authors/tuo-zhou/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/yuxiao-wu/</loc>
+    <loc>http://localhost:1313/authors/yuxiao-wu/</loc>
     <lastmod>2025-06-01T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/a/b-test/</loc>
+    <loc>http://localhost:1313/tags/a/b-test/</loc>
     <lastmod>2025-01-01T20:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/experimentation/</loc>
+    <loc>http://localhost:1313/tags/experimentation/</loc>
     <lastmod>2025-01-01T20:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/seesaw/</loc>
+    <loc>http://localhost:1313/publication/seesaw/</loc>
     <lastmod>2025-01-01T20:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/spillovers/</loc>
+    <loc>http://localhost:1313/tags/spillovers/</loc>
     <lastmod>2025-01-01T20:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
+    <loc>http://localhost:1313/publication_types/2/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/convergence-rate/</loc>
+    <loc>http://localhost:1313/tags/convergence-rate/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/high-dimensional/</loc>
+    <loc>http://localhost:1313/tags/high-dimensional/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/kernel-ridge-regression/</loc>
+    <loc>http://localhost:1313/tags/kernel-ridge-regression/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/nested-simulation/</loc>
+    <loc>http://localhost:1313/tags/nested-simulation/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/nested-simulation/</loc>
+    <loc>http://localhost:1313/publication/nested-simulation/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/smoothness/</loc>
+    <loc>http://localhost:1313/tags/smoothness/</loc>
     <lastmod>2024-12-10T08:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/newsvendor-hedging/</loc>
+    <loc>http://localhost:1313/publication/newsvendor-hedging/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/jin-yao/</loc>
+    <loc>http://localhost:1313/authors/jin-yao/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/liao-wang/</loc>
+    <loc>http://localhost:1313/authors/liao-wang/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/mean-variance-framework/</loc>
+    <loc>http://localhost:1313/tags/mean-variance-framework/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/newsvendor/</loc>
+    <loc>http://localhost:1313/tags/newsvendor/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/pricing/</loc>
+    <loc>http://localhost:1313/tags/pricing/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/risk-hedging/</loc>
+    <loc>http://localhost:1313/tags/risk-hedging/</loc>
     <lastmod>2024-07-15T13:38:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/experimental-design/</loc>
+    <loc>http://localhost:1313/tags/experimental-design/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/gaussian-process/</loc>
+    <loc>http://localhost:1313/tags/gaussian-process/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/liang-ding/</loc>
+    <loc>http://localhost:1313/authors/liang-ding/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/matrix-inversion/</loc>
+    <loc>http://localhost:1313/tags/matrix-inversion/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/high-dim-kriging/</loc>
+    <loc>http://localhost:1313/publication/high-dim-kriging/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/sparse-grid/</loc>
+    <loc>http://localhost:1313/tags/sparse-grid/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/stochastic-kriging/</loc>
+    <loc>http://localhost:1313/tags/stochastic-kriging/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/tensor-markov-kernel/</loc>
+    <loc>http://localhost:1313/tags/tensor-markov-kernel/</loc>
     <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/dynamic-selection/</loc>
+    <loc>http://localhost:1313/tags/dynamic-selection/</loc>
     <lastmod>2023-09-27T18:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/self-fulfilling-bandits/</loc>
+    <loc>http://localhost:1313/publication/self-fulfilling-bandits/</loc>
     <lastmod>2023-09-27T18:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/endogeneity-spillover/</loc>
+    <loc>http://localhost:1313/tags/endogeneity-spillover/</loc>
     <lastmod>2023-09-27T18:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/self-fulfilling-bias/</loc>
+    <loc>http://localhost:1313/tags/self-fulfilling-bias/</loc>
     <lastmod>2023-09-27T18:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/haihui-shen/</loc>
+    <loc>http://localhost:1313/authors/haihui-shen/</loc>
     <lastmod>2022-03-22T17:11:41+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/knowledge-gradient/</loc>
+    <loc>http://localhost:1313/tags/knowledge-gradient/</loc>
     <lastmod>2022-03-22T17:11:41+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/kg-contextual-selection/</loc>
+    <loc>http://localhost:1313/publication/kg-contextual-selection/</loc>
     <lastmod>2022-03-22T17:11:41+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/ranking-and-selection/</loc>
+    <loc>http://localhost:1313/tags/ranking-and-selection/</loc>
     <lastmod>2022-03-22T17:11:41+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/6/</loc>
+    <loc>http://localhost:1313/publication_types/6/</loc>
     <lastmod>2021-10-25T22:07:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/simulation-optimization/</loc>
+    <loc>http://localhost:1313/tags/simulation-optimization/</loc>
     <lastmod>2021-10-25T22:07:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/surrogate-based-so/</loc>
+    <loc>http://localhost:1313/publication/surrogate-based-so/</loc>
     <lastmod>2021-10-25T22:07:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/brownian-field/</loc>
+    <loc>http://localhost:1313/tags/brownian-field/</loc>
     <lastmod>2021-07-19T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/expected-improvement/</loc>
+    <loc>http://localhost:1313/tags/expected-improvement/</loc>
     <lastmod>2021-07-19T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</loc>
+    <loc>http://localhost:1313/publication/high-dim-sim-opt/</loc>
     <lastmod>2021-07-19T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/rui-tuo/</loc>
+    <loc>http://localhost:1313/authors/rui-tuo/</loc>
     <lastmod>2021-07-19T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/personalized-medicine/</loc>
+    <loc>http://localhost:1313/tags/personalized-medicine/</loc>
     <lastmod>2021-02-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection/</loc>
+    <loc>http://localhost:1313/publication/contextual-selection/</loc>
     <lastmod>2021-02-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/appointment-scheduling/</loc>
+    <loc>http://localhost:1313/tags/appointment-scheduling/</loc>
     <lastmod>2020-01-15T21:11:51+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/robust-selection/</loc>
+    <loc>http://localhost:1313/publication/robust-selection/</loc>
     <lastmod>2020-01-15T21:11:51+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/input-uncertainty/</loc>
+    <loc>http://localhost:1313/tags/input-uncertainty/</loc>
     <lastmod>2020-01-15T21:11:51+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/robust-optimization/</loc>
+    <loc>http://localhost:1313/tags/robust-optimization/</loc>
     <lastmod>2020-01-15T21:11:51+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/weiwei-fan/</loc>
+    <loc>http://localhost:1313/authors/weiwei-fan/</loc>
     <lastmod>2020-01-15T21:11:51+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</loc>
+    <loc>http://localhost:1313/publication/scalable-kriging-gradients-wsc/</loc>
     <lastmod>2018-12-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/gradient/</loc>
+    <loc>http://localhost:1313/tags/gradient/</loc>
     <lastmod>2018-12-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/haojun-huo/</loc>
+    <loc>http://localhost:1313/authors/haojun-huo/</loc>
     <lastmod>2018-12-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/markovian-covariance-function/</loc>
+    <loc>http://localhost:1313/tags/markovian-covariance-function/</loc>
     <lastmod>2018-12-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/zeyu-zheng/</loc>
+    <loc>http://localhost:1313/authors/zeyu-zheng/</loc>
     <lastmod>2018-12-12T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection-high-dimension/</loc>
+    <loc>http://localhost:1313/publication/contextual-selection-high-dimension/</loc>
     <lastmod>2018-12-10T19:05:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/xiaocheng-li/</loc>
+    <loc>http://localhost:1313/authors/xiaocheng-li/</loc>
     <lastmod>2018-12-10T19:05:59+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/affine-jump-diffusion/</loc>
+    <loc>http://localhost:1313/tags/affine-jump-diffusion/</loc>
     <lastmod>2018-11-01T20:55:03+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/affine-jump-diffusion/</loc>
+    <loc>http://localhost:1313/publication/affine-jump-diffusion/</loc>
     <lastmod>2018-11-01T20:55:03+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/ergodicity/</loc>
+    <loc>http://localhost:1313/tags/ergodicity/</loc>
     <lastmod>2018-11-01T20:55:03+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/peter-w.-glynn/</loc>
+    <loc>http://localhost:1313/authors/peter-w.-glynn/</loc>
     <lastmod>2018-11-01T20:55:03+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</loc>
+    <loc>http://localhost:1313/publication/stylized-model-stochastic-kriging/</loc>
     <lastmod>2018-03-31T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/scalable-kriging/</loc>
+    <loc>http://localhost:1313/publication/scalable-kriging/</loc>
     <lastmod>2018-03-02T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/lu-zou/</loc>
+    <loc>http://localhost:1313/authors/lu-zou/</loc>
     <lastmod>2018-02-08T17:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/kriging-inadequate/</loc>
+    <loc>http://localhost:1313/publication/kriging-inadequate/</loc>
     <lastmod>2018-02-08T17:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/contextual-selection-wsc/</loc>
+    <loc>http://localhost:1313/publication/contextual-selection-wsc/</loc>
     <lastmod>2017-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/bayesian/</loc>
+    <loc>http://localhost:1313/tags/bayesian/</loc>
     <lastmod>2016-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/robust-knowledge-gradient/</loc>
+    <loc>http://localhost:1313/publication/robust-knowledge-gradient/</loc>
     <lastmod>2016-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</loc>
+    <loc>http://localhost:1313/publication/kriging-inadequate-wsc/</loc>
     <lastmod>2016-12-03T21:00:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/affine-point-process/</loc>
+    <loc>http://localhost:1313/tags/affine-point-process/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/affine-point-processes/</loc>
+    <loc>http://localhost:1313/publication/affine-point-processes/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/importance-sampling/</loc>
+    <loc>http://localhost:1313/tags/importance-sampling/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/jose-blanchet/</loc>
+    <loc>http://localhost:1313/authors/jose-blanchet/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/kay-giesecke/</loc>
+    <loc>http://localhost:1313/authors/kay-giesecke/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/large-deviations/</loc>
+    <loc>http://localhost:1313/tags/large-deviations/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/rare-event-simulation/</loc>
+    <loc>http://localhost:1313/tags/rare-event-simulation/</loc>
     <lastmod>2015-11-03T20:16:50+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/arrival-data/</loc>
+    <loc>http://localhost:1313/tags/arrival-data/</loc>
     <lastmod>2014-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/overdispersion/</loc>
+    <loc>http://localhost:1313/tags/overdispersion/</loc>
     <lastmod>2014-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</loc>
+    <loc>http://localhost:1313/publication/scaling-arrival-wsc/</loc>
     <lastmod>2014-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</loc>
+    <loc>http://localhost:1313/publication/bayesian-modeling-arrival-wsc/</loc>
     <lastmod>2013-12-10T21:16:19+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/markov-chain-monte-carlo/</loc>
+    <loc>http://localhost:1313/tags/markov-chain-monte-carlo/</loc>
     <lastmod>2013-12-10T21:16:19+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/robust-selection-wsc/</loc>
+    <loc>http://localhost:1313/publication/robust-selection-wsc/</loc>
     <lastmod>2013-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/regenerative-bootstrap/</loc>
+    <loc>http://localhost:1313/publication/regenerative-bootstrap/</loc>
     <lastmod>2010-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/tags/bootstrap/</loc>
     <lastmod>2010-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/initial-transient/</loc>
+    <loc>http://localhost:1313/tags/initial-transient/</loc>
     <lastmod>2010-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/regenerative-process/</loc>
+    <loc>http://localhost:1313/tags/regenerative-process/</loc>
     <lastmod>2010-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/steady-state-simulation/</loc>
+    <loc>http://localhost:1313/tags/steady-state-simulation/</loc>
     <lastmod>2010-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/local-time/</loc>
+    <loc>http://localhost:1313/tags/local-time/</loc>
     <lastmod>2010-12-09T17:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/loss-process/</loc>
+    <loc>http://localhost:1313/publication/loss-process/</loc>
     <lastmod>2010-12-09T17:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/reflected-brownian-motion/</loc>
+    <loc>http://localhost:1313/tags/reflected-brownian-motion/</loc>
     <lastmod>2010-12-09T17:48:04+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/tags/hawkes-process/</loc>
+    <loc>http://localhost:1313/tags/hawkes-process/</loc>
     <lastmod>2009-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/rare-event-hawkes/</loc>
+    <loc>http://localhost:1313/publication/rare-event-hawkes/</loc>
     <lastmod>2009-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication/suboptimal-rare-event/</loc>
+    <loc>http://localhost:1313/publication/suboptimal-rare-event/</loc>
     <lastmod>2007-12-10T18:06:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://xiaoweiz.github.io/courses/</loc>
+    <loc>http://localhost:1313/courses/</loc>
   </url><url>
-    <loc>https://xiaoweiz.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
   </url><url>
-    <loc>https://xiaoweiz.github.io/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
   </url>
 </urlset>

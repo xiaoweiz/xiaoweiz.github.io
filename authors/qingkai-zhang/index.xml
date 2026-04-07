@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qingkai Zhang on Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/authors/qingkai-zhang/</link>
+    <link>http://localhost:1313/authors/qingkai-zhang/</link>
     <description>Recent content in Qingkai Zhang on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
     
-	    <atom:link href="https://xiaoweiz.github.io/authors/qingkai-zhang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:1313/authors/qingkai-zhang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
-      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
+      <link>http://localhost:1313/publication/qr-gmm/</link>
       <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
+      <guid>http://localhost:1313/publication/qr-gmm/</guid>
       <description></description>
     </item>
     
