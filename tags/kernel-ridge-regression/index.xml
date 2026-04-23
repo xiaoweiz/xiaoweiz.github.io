@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kernel Ridge Regression on Xiaowei Zhang</title>
-    <link>http://localhost:1313/tags/kernel-ridge-regression/</link>
+    <link>https://xiaoweiz.github.io/tags/kernel-ridge-regression/</link>
     <description>Recent content in Kernel Ridge Regression on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 10 Dec 2024 08:38:42 +0800</lastBuildDate>
     
-	    <atom:link href="http://localhost:1313/tags/kernel-ridge-regression/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/tags/kernel-ridge-regression/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</title>
-      <link>http://localhost:1313/publication/nested-simulation/</link>
+      <link>https://xiaoweiz.github.io/publication/nested-simulation/</link>
       <pubDate>Tue, 10 Dec 2024 08:38:42 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/nested-simulation/</guid>
+      <guid>https://xiaoweiz.github.io/publication/nested-simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Dimensional Simulation Optimization via Brownian Fields and Sparse Grids</title>
-      <link>http://localhost:1313/publication/high-dim-sim-opt/</link>
+      <link>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</link>
       <pubDate>Mon, 19 Jul 2021 10:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/high-dim-sim-opt/</guid>
+      <guid>https://xiaoweiz.github.io/publication/high-dim-sim-opt/</guid>
       <description></description>
     </item>
     

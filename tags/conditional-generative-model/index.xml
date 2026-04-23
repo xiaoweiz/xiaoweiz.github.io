@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conditional Generative Model on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tags/conditional-generative-model/</link>
+    <description>Recent content in Conditional Generative Model on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 22 Apr 2026 17:47:50 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/tags/conditional-generative-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cold-Start Forecasting of New Product Life-Cycles via Conditional Diffusion Models</title>
+      <link>https://xiaoweiz.github.io/publication/cdlf/</link>
+      <pubDate>Wed, 22 Apr 2026 17:47:50 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/cdlf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

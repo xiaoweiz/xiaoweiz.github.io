@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanxi Hou on Xiaowei Zhang</title>
-    <link>http://localhost:1313/authors/yanxi-hou/</link>
+    <link>https://xiaoweiz.github.io/authors/yanxi-hou/</link>
     <description>Recent content in Yanxi Hou on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 20 Jan 2026 08:53:22 +0800</lastBuildDate>
     
-	    <atom:link href="http://localhost:1313/authors/yanxi-hou/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/authors/yanxi-hou/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning to Simulate: Generative Metamodeling via Quantile Regression</title>
-      <link>http://localhost:1313/publication/qr-gmm/</link>
+      <link>https://xiaoweiz.github.io/publication/qr-gmm/</link>
       <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/qr-gmm/</guid>
+      <guid>https://xiaoweiz.github.io/publication/qr-gmm/</guid>
       <description></description>
     </item>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zigan Wang on Xiaowei Zhang</title>
-    <link>http://localhost:1313/authors/zigan-wang/</link>
+    <link>https://xiaoweiz.github.io/authors/zigan-wang/</link>
     <description>Recent content in Zigan Wang on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 Jan 2026 07:54:45 +0800</lastBuildDate>
     
-	    <atom:link href="http://localhost:1313/authors/zigan-wang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/authors/zigan-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title>
-      <link>http://localhost:1313/publication/uncertainty-sorting/</link>
+      <link>https://xiaoweiz.github.io/publication/uncertainty-sorting/</link>
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/uncertainty-sorting/</guid>
+      <guid>https://xiaoweiz.github.io/publication/uncertainty-sorting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AgentGit: A Version Control Framework for Reliable and Scalable LLM-Powered Multi-Agent Systems</title>
-      <link>http://localhost:1313/publication/agentgit/</link>
+      <link>https://xiaoweiz.github.io/publication/agentgit/</link>
       <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/agentgit/</guid>
+      <guid>https://xiaoweiz.github.io/publication/agentgit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
-      <link>http://localhost:1313/publication/causal-rl/</link>
+      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
       <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/causal-rl/</guid>
+      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
       <description></description>
     </item>
     
