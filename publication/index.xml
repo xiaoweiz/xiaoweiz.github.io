@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 21 May 2026 10:09:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:09:14 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>On the Suboptimality of GP-UCB under Polynomial Effective Optimism</title>
       <link>https://xiaoweiz.github.io/publication/gpucb/</link>
-      <pubDate>Thu, 21 May 2026 10:09:14 +0800</pubDate>
+      <pubDate>Wed, 20 May 2026 10:09:14 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/gpucb/</guid>
       <description></description>
