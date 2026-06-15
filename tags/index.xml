@@ -7,10 +7,100 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 20 May 2026 10:09:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:53:22 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Covariates</title>
+      <link>https://xiaoweiz.github.io/tags/covariates/</link>
+      <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/covariates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Model</title>
+      <link>https://xiaoweiz.github.io/tags/generative-model/</link>
+      <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/generative-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile Regression</title>
+      <link>https://xiaoweiz.github.io/tags/quantile-regression/</link>
+      <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/quantile-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling</title>
+      <link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link>
+      <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/simulation-metamodeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://xiaoweiz.github.io/tags/ai/</link>
+      <pubDate>Sat, 13 Jun 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution</title>
+      <link>https://xiaoweiz.github.io/tags/attribution/</link>
+      <pubDate>Sat, 13 Jun 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/attribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Concerns</title>
+      <link>https://xiaoweiz.github.io/tags/career-concerns/</link>
+      <pubDate>Sat, 13 Jun 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/career-concerns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disagreement</title>
+      <link>https://xiaoweiz.github.io/tags/disagreement/</link>
+      <pubDate>Sat, 13 Jun 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/disagreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability</title>
+      <link>https://xiaoweiz.github.io/tags/interpretability/</link>
+      <pubDate>Sat, 13 Jun 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persuasion</title>
+      <link>https://xiaoweiz.github.io/tags/persuasion/</link>
+      <pubDate>Sat, 13 Jun 2026 10:02:21 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/persuasion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effective Optimism</title>
@@ -45,60 +135,6 @@
       <pubDate>Wed, 20 May 2026 10:09:14 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://xiaoweiz.github.io/tags/ai/</link>
-      <pubDate>Tue, 12 May 2026 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attribution</title>
-      <link>https://xiaoweiz.github.io/tags/attribution/</link>
-      <pubDate>Tue, 12 May 2026 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/attribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career Concerns</title>
-      <link>https://xiaoweiz.github.io/tags/career-concerns/</link>
-      <pubDate>Tue, 12 May 2026 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/career-concerns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disagreement</title>
-      <link>https://xiaoweiz.github.io/tags/disagreement/</link>
-      <pubDate>Tue, 12 May 2026 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/disagreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretability</title>
-      <link>https://xiaoweiz.github.io/tags/interpretability/</link>
-      <pubDate>Tue, 12 May 2026 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/interpretability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Persuasion</title>
-      <link>https://xiaoweiz.github.io/tags/persuasion/</link>
-      <pubDate>Tue, 12 May 2026 10:02:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/persuasion/</guid>
       <description></description>
     </item>
     
@@ -297,42 +333,6 @@
       <pubDate>Wed, 28 Jan 2026 14:36:33 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/empirical-replication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covariates</title>
-      <link>https://xiaoweiz.github.io/tags/covariates/</link>
-      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/covariates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative Model</title>
-      <link>https://xiaoweiz.github.io/tags/generative-model/</link>
-      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/generative-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantile Regression</title>
-      <link>https://xiaoweiz.github.io/tags/quantile-regression/</link>
-      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/quantile-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation Metamodeling</title>
-      <link>https://xiaoweiz.github.io/tags/simulation-metamodeling/</link>
-      <pubDate>Tue, 20 Jan 2026 08:53:22 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/simulation-metamodeling/</guid>
       <description></description>
     </item>
     
