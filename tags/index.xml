@@ -7,10 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 08:53:22 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 04:00:11 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behavioral Operations Management</title>
+      <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
+      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/behavioral-operations-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain-of-Thought</title>
+      <link>https://xiaoweiz.github.io/tags/chain-of-thought/</link>
+      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/chain-of-thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperparameter Tuning</title>
+      <link>https://xiaoweiz.github.io/tags/hyperparameter-tuning/</link>
+      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/hyperparameter-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://xiaoweiz.github.io/tags/llm/</link>
+      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://xiaoweiz.github.io/tags/simulation/</link>
+      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covariates</title>
@@ -220,15 +265,6 @@
     </item>
     
     <item>
-      <title>LLM</title>
-      <link>https://xiaoweiz.github.io/tags/llm/</link>
-      <pubDate>Fri, 03 Apr 2026 20:25:24 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/llm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multi-Agent Simulation</title>
       <link>https://xiaoweiz.github.io/tags/multi-agent-simulation/</link>
       <pubDate>Fri, 03 Apr 2026 20:25:24 +0800</pubDate>
@@ -423,24 +459,6 @@
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/predictive-uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behavioral Operations Management</title>
-      <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
-      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/behavioral-operations-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation</title>
-      <link>https://xiaoweiz.github.io/tags/simulation/</link>
-      <pubDate>Tue, 25 Nov 2025 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     
