@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 10:02:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:28:42 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,30 @@
     <item>
       <title></title>
       <link>https://xiaoweiz.github.io/authors/admin/</link>
-      <pubDate>Mon, 20 Jul 2026 10:02:21 +0800</pubDate>
+      <pubDate>Sun, 26 Jul 2026 21:28:42 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am an Associate Professor at HKUST, jointly appointed in the Department of Industrial Engineering and Decision Analytics and the Department of Economics, and the Academic Director of the &lt;a href=&#34;https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-fintech&#34;&gt;MSc in FinTech&lt;/a&gt; program. I am also affiliated with HKU Centre for AI, Management and Organization (&lt;a href=&#34;https://camo.hku.hk/&#34;&gt;CAMO&lt;/a&gt;). I serve as an Associate Editor for several leading journals in the field, including &lt;em&gt;Management Science&lt;/em&gt;, &lt;em&gt;Operations Research&lt;/em&gt;, &lt;em&gt;Navel Research Logistics&lt;/em&gt;, and &lt;em&gt;Queueing Systems&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;My research focuses on developing innovative methodologies for data-driven decision-making, leveraging the unprecedented access to data and computational resources. By integrating advanced techniques from simulation, stochastics, and machine learning, I address complex challenges in business operations, finance, and digital economy, while investigating the transformative potential of AI technologies in these domains.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ruihan Zhou</title>
+      <link>https://xiaoweiz.github.io/authors/ruihan-zhou/</link>
+      <pubDate>Sun, 26 Jul 2026 21:28:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/ruihan-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yijie Peng</title>
+      <link>https://xiaoweiz.github.io/authors/yijie-peng/</link>
+      <pubDate>Sun, 26 Jul 2026 21:28:42 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/authors/yijie-peng/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -128,24 +146,6 @@
       <pubDate>Wed, 22 Apr 2026 17:47:50 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/authors/jinhui-han/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ruihan Zhu</title>
-      <link>https://xiaoweiz.github.io/authors/ruihan-zhu/</link>
-      <pubDate>Wed, 22 Apr 2026 17:47:50 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/ruihan-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yijie Peng</title>
-      <link>https://xiaoweiz.github.io/authors/yijie-peng/</link>
-      <pubDate>Wed, 22 Apr 2026 17:47:50 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/authors/yijie-peng/</guid>
       <description></description>
     </item>
     
