@@ -3,15 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://xiaoweiz.github.io/authors/admin/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/ai-product-launches/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/contextual-bandit/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/doubly-penalized-estimation/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/high-dimensional-covariate/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/kernel-method/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/nonparametric-regression/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/qingwen-zhang/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/sparkle/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/sparse-additive-model/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/wenjia-wang/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/ai-product-launches/</loc>
     <lastmod>2026-07-26T21:28:42+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/costly-operational-flexibility/</loc>
@@ -23,12 +65,6 @@
     <loc>https://xiaoweiz.github.io/tags/dynamic-programming/</loc>
     <lastmod>2026-07-26T21:28:42+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/tags/response-readiness/</loc>
     <lastmod>2026-07-26T21:28:42+08:00</lastmod>
   </url><url>
@@ -36,12 +72,6 @@
     <lastmod>2026-07-26T21:28:42+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/service-capacity-management/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2026-07-26T21:28:42+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
     <lastmod>2026-07-26T21:28:42+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/yijie-peng/</loc>
@@ -138,12 +168,6 @@
     <lastmod>2026-05-20T10:09:14+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/regret-lower-bound/</loc>
-    <lastmod>2026-05-20T10:09:14+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</loc>
-    <lastmod>2026-05-20T10:09:14+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/authors/wenjia-wang/</loc>
     <lastmod>2026-05-20T10:09:14+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</loc>
@@ -253,30 +277,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/zigan-wang/</loc>
     <lastmod>2026-01-28T14:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/contextual-bandit/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/doubly-penalized-estimation/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/high-dimensional-covariate/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/kernel-method/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/nonparametric-regression/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/authors/qingwen-zhang/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/sparkle/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/sparse-additive-model/</loc>
-    <lastmod>2026-01-06T14:42:08+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/asset-pricing/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
