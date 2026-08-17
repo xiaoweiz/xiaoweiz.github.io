@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 14:42:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:00:11 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
+      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SPARKLE: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
@@ -36,15 +45,6 @@
       <pubDate>Mon, 20 Jul 2026 10:02:21 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/ai-doctor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
-      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
-      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
       <description></description>
     </item>
     

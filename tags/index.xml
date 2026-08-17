@@ -7,10 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 14:42:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:00:11 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behavioral Operations Management</title>
+      <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/behavioral-operations-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain-of-Thought</title>
+      <link>https://xiaoweiz.github.io/tags/chain-of-thought/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/chain-of-thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperparameter Tuning</title>
+      <link>https://xiaoweiz.github.io/tags/hyperparameter-tuning/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/hyperparameter-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://xiaoweiz.github.io/tags/llm/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://xiaoweiz.github.io/tags/simulation/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contextual Bandit</title>
@@ -171,51 +216,6 @@
       <pubDate>Mon, 20 Jul 2026 10:02:21 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/persuasion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behavioral Operations Management</title>
-      <link>https://xiaoweiz.github.io/tags/behavioral-operations-management/</link>
-      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/behavioral-operations-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chain-of-Thought</title>
-      <link>https://xiaoweiz.github.io/tags/chain-of-thought/</link>
-      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/chain-of-thought/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hyperparameter Tuning</title>
-      <link>https://xiaoweiz.github.io/tags/hyperparameter-tuning/</link>
-      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/hyperparameter-tuning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LLM</title>
-      <link>https://xiaoweiz.github.io/tags/llm/</link>
-      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/llm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation</title>
-      <link>https://xiaoweiz.github.io/tags/simulation/</link>
-      <pubDate>Sat, 27 Jun 2026 04:00:11 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     
