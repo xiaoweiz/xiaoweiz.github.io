@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 04:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:51:44 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Actor-Critic</title>
+      <link>https://xiaoweiz.github.io/tags/actor-critic/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/actor-critic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumental Variable</title>
+      <link>https://xiaoweiz.github.io/tags/instrumental-variable/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/instrumental-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Decision Process</title>
+      <link>https://xiaoweiz.github.io/tags/markov-decision-process/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/markov-decision-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-Learning</title>
+      <link>https://xiaoweiz.github.io/tags/q-learning/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/q-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://xiaoweiz.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Approximation</title>
+      <link>https://xiaoweiz.github.io/tags/stochastic-approximation/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/stochastic-approximation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behavioral Operations Management</title>
@@ -522,60 +576,6 @@
       <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/multi-agent-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Actor-Critic</title>
-      <link>https://xiaoweiz.github.io/tags/actor-critic/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/actor-critic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instrumental Variable</title>
-      <link>https://xiaoweiz.github.io/tags/instrumental-variable/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/instrumental-variable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markov Decision Process</title>
-      <link>https://xiaoweiz.github.io/tags/markov-decision-process/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/markov-decision-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Q-Learning</title>
-      <link>https://xiaoweiz.github.io/tags/q-learning/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/q-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://xiaoweiz.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Approximation</title>
-      <link>https://xiaoweiz.github.io/tags/stochastic-approximation/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/stochastic-approximation/</guid>
       <description></description>
     </item>
     

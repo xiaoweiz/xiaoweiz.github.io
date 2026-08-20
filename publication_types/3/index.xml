@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 14:42:08 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:51:44 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
+      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SPARKLE: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
@@ -90,15 +99,6 @@
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/uncertainty-sorting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
-      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
-      <pubDate>Thu, 09 Oct 2025 14:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
       <description></description>
     </item>
     

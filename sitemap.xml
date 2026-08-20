@@ -3,12 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://xiaoweiz.github.io/authors/admin/</loc>
-    <lastmod>2026-08-17T04:00:11+08:00</lastmod>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
-    <lastmod>2026-08-17T04:00:11+08:00</lastmod>
+    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/actor-critic/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/causal-rl/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/instrumental-variable/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/jin-li/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/markov-decision-process/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication_types/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/q-learning/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/stochastic-approximation/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/tags/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/ye-luo/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/authors/zigan-wang/</loc>
+    <lastmod>2026-08-21T00:51:44+08:00</lastmod>
+  </url><url>
+    <loc>https://xiaoweiz.github.io/publication_types/2/</loc>
     <lastmod>2026-08-17T04:00:11+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/behavioral-operations-management/</loc>
@@ -29,26 +74,11 @@
     <loc>https://xiaoweiz.github.io/publication/llm-bom-sim/</loc>
     <lastmod>2026-08-17T04:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/</loc>
-    <lastmod>2026-08-17T04:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/</loc>
-    <lastmod>2026-08-17T04:00:11+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/authors/runze-zhang/</loc>
     <lastmod>2026-08-17T04:00:11+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/simulation/</loc>
     <lastmod>2026-08-17T04:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/</loc>
-    <lastmod>2026-08-17T04:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/</loc>
-    <lastmod>2026-08-17T04:00:11+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication_types/3/</loc>
-    <lastmod>2026-08-06T14:42:08+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/contextual-bandit/</loc>
     <lastmod>2026-08-06T14:42:08+08:00</lastmod>
@@ -125,13 +155,7 @@
     <loc>https://xiaoweiz.github.io/tags/interpretability/</loc>
     <lastmod>2026-07-20T10:02:21+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/jin-li/</loc>
-    <lastmod>2026-07-20T10:02:21+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/tags/persuasion/</loc>
-    <lastmod>2026-07-20T10:02:21+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/authors/ye-luo/</loc>
     <lastmod>2026-07-20T10:02:21+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/tags/covariates/</loc>
@@ -275,9 +299,6 @@
     <loc>https://xiaoweiz.github.io/authors/yuxiao-wu/</loc>
     <lastmod>2026-01-28T14:36:33+08:00</lastmod>
   </url><url>
-    <loc>https://xiaoweiz.github.io/authors/zigan-wang/</loc>
-    <lastmod>2026-01-28T14:36:33+08:00</lastmod>
-  </url><url>
     <loc>https://xiaoweiz.github.io/tags/asset-pricing/</loc>
     <lastmod>2026-01-01T07:54:45+08:00</lastmod>
   </url><url>
@@ -319,27 +340,6 @@
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/yang-li/</loc>
     <lastmod>2025-11-02T01:06:59+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/actor-critic/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/publication/causal-rl/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/instrumental-variable/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/markov-decision-process/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/q-learning/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
-  </url><url>
-    <loc>https://xiaoweiz.github.io/tags/stochastic-approximation/</loc>
-    <lastmod>2025-10-09T14:06:44+08:00</lastmod>
   </url><url>
     <loc>https://xiaoweiz.github.io/authors/chujun-he/</loc>
     <lastmod>2025-10-01T20:13:11+08:00</lastmod>
