@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types on Xiaowei Zhang</title><link>https://xiaoweiz.github.io/publication_types/</link><description>Recent content in Publication_types on Xiaowei Zhang</description><generator>Source Themes academia (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright &amp;copy; {year}</copyright><lastBuildDate>Fri, 21 Aug 2026 00:51:44 +0800</lastBuildDate><atom:link href="https://xiaoweiz.github.io/publication_types/index.xml" rel="self" type="application/rss+xml"/><item><title>3</title><link>https://xiaoweiz.github.io/publication_types/3/</link><pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate><guid>https://xiaoweiz.github.io/publication_types/3/</guid><description/></item><item><title>2</title><link>https://xiaoweiz.github.io/publication_types/2/</link><pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate><guid>https://xiaoweiz.github.io/publication_types/2/</guid><description/></item><item><title>1</title><link>https://xiaoweiz.github.io/publication_types/1/</link><pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publication_types/1/</guid><description/></item><item><title>6</title><link>https://xiaoweiz.github.io/publication_types/6/</link><pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate><guid>https://xiaoweiz.github.io/publication_types/6/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 21 Aug 2026 00:51:44 +0800</lastBuildDate>
+    
+	    <atom:link href="https://xiaoweiz.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3</title>
+      <link>https://xiaoweiz.github.io/publication_types/3/</link>
+      <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://xiaoweiz.github.io/publication_types/2/</link>
+      <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://xiaoweiz.github.io/publication_types/1/</link>
+      <pubDate>Sun, 02 Nov 2025 01:06:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://xiaoweiz.github.io/publication_types/6/</link>
+      <pubDate>Mon, 25 Oct 2021 22:07:59 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication_types/6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
