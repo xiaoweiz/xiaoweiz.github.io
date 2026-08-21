@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service Operations &amp; Digital Platforms on Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/research_areas/service-operations-digital-platforms/</link>
+    <link>http://localhost:1313/research_areas/service-operations-digital-platforms/</link>
     <description>Recent content in Service Operations &amp; Digital Platforms on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 17 Aug 2026 04:00:11 +0800</lastBuildDate>
     
-	    <atom:link href="https://xiaoweiz.github.io/research_areas/service-operations-digital-platforms/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:1313/research_areas/service-operations-digital-platforms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human Behavior Simulators in Operations Management</title>
-      <link>https://xiaoweiz.github.io/publication/llm-bom-sim/</link>
+      <link>http://localhost:1313/publication/llm-bom-sim/</link>
       <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/llm-bom-sim/</guid>
+      <guid>http://localhost:1313/publication/llm-bom-sim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPARKLE: A Nonparametric Approach for Online Decision-Making with High-Dimensional Covariates</title>
-      <link>https://xiaoweiz.github.io/publication/sparkle/</link>
+      <link>http://localhost:1313/publication/sparkle/</link>
       <pubDate>Thu, 06 Aug 2026 14:42:08 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/sparkle/</guid>
+      <guid>http://localhost:1313/publication/sparkle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Cloud Service-Capacity Deployment with Costly Response Readiness</title>
-      <link>https://xiaoweiz.github.io/publication/cloud-service-depoly/</link>
+      <link>http://localhost:1313/publication/cloud-service-depoly/</link>
       <pubDate>Sun, 26 Jul 2026 21:28:42 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/cloud-service-depoly/</guid>
+      <guid>http://localhost:1313/publication/cloud-service-depoly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title>
-      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
+      <link>http://localhost:1313/publication/taylor-staffing/</link>
       <pubDate>Thu, 23 Apr 2026 23:15:21 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
+      <guid>http://localhost:1313/publication/taylor-staffing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cold-Start Forecasting of New Product Life-Cycles via Conditional Diffusion Models</title>
-      <link>https://xiaoweiz.github.io/publication/cdlf/</link>
+      <link>http://localhost:1313/publication/cdlf/</link>
       <pubDate>Wed, 22 Apr 2026 17:47:50 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/cdlf/</guid>
+      <guid>http://localhost:1313/publication/cdlf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Service Operations via LLM-Powered Multi-Agent Simulation</title>
-      <link>https://xiaoweiz.github.io/publication/llm-mas/</link>
+      <link>http://localhost:1313/publication/llm-mas/</link>
       <pubDate>Fri, 03 Apr 2026 20:25:24 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/llm-mas/</guid>
+      <guid>http://localhost:1313/publication/llm-mas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seesaw Experimentation: A/B Tests with Spillovers</title>
-      <link>https://xiaoweiz.github.io/publication/seesaw/</link>
+      <link>http://localhost:1313/publication/seesaw/</link>
       <pubDate>Wed, 01 Jan 2025 20:40:11 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/seesaw/</guid>
+      <guid>http://localhost:1313/publication/seesaw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Does Risk Hedging Impact Operations? Insights from a Price-Setting Newsvendor Model</title>
-      <link>https://xiaoweiz.github.io/publication/newsvendor-hedging/</link>
+      <link>http://localhost:1313/publication/newsvendor-hedging/</link>
       <pubDate>Mon, 15 Jul 2024 13:38:42 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/newsvendor-hedging/</guid>
+      <guid>http://localhost:1313/publication/newsvendor-hedging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
-      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
+      <link>http://localhost:1313/publication/stylized-model-stochastic-kriging/</link>
       <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <guid>http://localhost:1313/publication/stylized-model-stochastic-kriging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling and Modeling of Call Center Arrivals</title>
-      <link>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</link>
+      <link>http://localhost:1313/publication/scaling-arrival-wsc/</link>
       <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/scaling-arrival-wsc/</guid>
+      <guid>http://localhost:1313/publication/scaling-arrival-wsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian Approach for Modeling and Analysis of Call Center Arrivals</title>
-      <link>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</link>
+      <link>http://localhost:1313/publication/bayesian-modeling-arrival-wsc/</link>
       <pubDate>Tue, 10 Dec 2013 21:16:19 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/bayesian-modeling-arrival-wsc/</guid>
+      <guid>http://localhost:1313/publication/bayesian-modeling-arrival-wsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Dynamics of a Finite Buffer Queue Conditioned on the Amount of Loss</title>
-      <link>https://xiaoweiz.github.io/publication/loss-process/</link>
+      <link>http://localhost:1313/publication/loss-process/</link>
       <pubDate>Thu, 09 Dec 2010 17:48:04 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/loss-process/</guid>
+      <guid>http://localhost:1313/publication/loss-process/</guid>
       <description></description>
     </item>
     
