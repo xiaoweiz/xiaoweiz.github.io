@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Xiaowei Zhang</title>
-    <link>http://localhost:1313/tags/machine-learning/</link>
+    <link>https://xiaoweiz.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 Jan 2026 07:54:45 +0800</lastBuildDate>
     
-	    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Uncertainty-Adjusted Sorting for Asset Pricing with Machine Learning</title>
-      <link>http://localhost:1313/publication/uncertainty-sorting/</link>
+      <link>https://xiaoweiz.github.io/publication/uncertainty-sorting/</link>
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/uncertainty-sorting/</guid>
+      <guid>https://xiaoweiz.github.io/publication/uncertainty-sorting/</guid>
       <description></description>
     </item>
     

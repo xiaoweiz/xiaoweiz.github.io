@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Areas on Xiaowei Zhang</title>
-    <link>http://localhost:1313/research_areas/</link>
+    <link>https://xiaoweiz.github.io/research_areas/</link>
     <description>Recent content in Research Areas on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 21 Aug 2026 00:51:44 +0800</lastBuildDate>
     
-	    <atom:link href="http://localhost:1313/research_areas/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/research_areas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reinforcement Learning &amp; Sequential Decision-Making</title>
-      <link>http://localhost:1313/research_areas/reinforcement-sequential-decisions/</link>
+      <link>https://xiaoweiz.github.io/research_areas/reinforcement-sequential-decisions/</link>
       <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
       
-      <guid>http://localhost:1313/research_areas/reinforcement-sequential-decisions/</guid>
+      <guid>https://xiaoweiz.github.io/research_areas/reinforcement-sequential-decisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agentic &amp; Generative AI</title>
-      <link>http://localhost:1313/research_areas/agentic-generative-ai/</link>
+      <link>https://xiaoweiz.github.io/research_areas/agentic-generative-ai/</link>
       <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
       
-      <guid>http://localhost:1313/research_areas/agentic-generative-ai/</guid>
+      <guid>https://xiaoweiz.github.io/research_areas/agentic-generative-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service Operations &amp; Digital Platforms</title>
-      <link>http://localhost:1313/research_areas/service-operations-digital-platforms/</link>
+      <link>https://xiaoweiz.github.io/research_areas/service-operations-digital-platforms/</link>
       <pubDate>Mon, 17 Aug 2026 04:00:11 +0800</pubDate>
       
-      <guid>http://localhost:1313/research_areas/service-operations-digital-platforms/</guid>
+      <guid>https://xiaoweiz.github.io/research_areas/service-operations-digital-platforms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Driven Simulation &amp; Stochastic Optimization</title>
-      <link>http://localhost:1313/research_areas/data-driven-simulation-optimization/</link>
+      <link>https://xiaoweiz.github.io/research_areas/data-driven-simulation-optimization/</link>
       <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
       
-      <guid>http://localhost:1313/research_areas/data-driven-simulation-optimization/</guid>
+      <guid>https://xiaoweiz.github.io/research_areas/data-driven-simulation-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FinTech &amp; Quantitative Risk</title>
-      <link>http://localhost:1313/research_areas/fintech-quantitative-risk/</link>
+      <link>https://xiaoweiz.github.io/research_areas/fintech-quantitative-risk/</link>
       <pubDate>Thu, 01 Jan 2026 07:54:45 +0800</pubDate>
       
-      <guid>http://localhost:1313/research_areas/fintech-quantitative-risk/</guid>
+      <guid>https://xiaoweiz.github.io/research_areas/fintech-quantitative-risk/</guid>
       <description></description>
     </item>
     
