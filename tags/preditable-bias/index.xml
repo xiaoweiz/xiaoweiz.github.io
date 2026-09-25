@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preditable Bias on Xiaowei Zhang</title>
+    <link>http://localhost:1313/tags/preditable-bias/</link>
+    <description>Recent content in Preditable Bias on Xiaowei Zhang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 24 Sep 2026 21:51:47 +0800</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/tags/preditable-bias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shrinking-Tube Concentration for Adaptive Markovian Stochastic Approximation</title>
+      <link>http://localhost:1313/publication/shrinking-tube/</link>
+      <pubDate>Thu, 24 Sep 2026 21:51:47 +0800</pubDate>
+      
+      <guid>http://localhost:1313/publication/shrinking-tube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

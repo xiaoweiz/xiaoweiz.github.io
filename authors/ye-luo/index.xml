@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 00:51:44 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:51:47 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/authors/ye-luo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shrinking-Tube Concentration for Adaptive Markovian Stochastic Approximation</title>
+      <link>https://xiaoweiz.github.io/publication/shrinking-tube/</link>
+      <pubDate>Thu, 24 Sep 2026 21:51:47 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/shrinking-tube/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
