@@ -7,10 +7,46 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 21:51:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:09:14 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effective Optimism</title>
+      <link>https://xiaoweiz.github.io/tags/effective-optimism/</link>
+      <pubDate>Sat, 17 Oct 2026 10:09:14 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/effective-optimism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GP-UCB</title>
+      <link>https://xiaoweiz.github.io/tags/gp-ucb/</link>
+      <pubDate>Sat, 17 Oct 2026 10:09:14 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/gp-ucb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regret Lower Bound</title>
+      <link>https://xiaoweiz.github.io/tags/regret-lower-bound/</link>
+      <pubDate>Sat, 17 Oct 2026 10:09:14 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/regret-lower-bound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducing Kernel Hilbert Space</title>
+      <link>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</link>
+      <pubDate>Sat, 17 Oct 2026 10:09:14 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Markov Chain</title>
@@ -193,15 +229,6 @@
     </item>
     
     <item>
-      <title>Reproducing Kernel Hilbert Space</title>
-      <link>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</link>
-      <pubDate>Thu, 06 Aug 2026 14:42:08 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/reproducing-kernel-hilbert-space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sparse Additive Model</title>
       <link>https://xiaoweiz.github.io/tags/sparse-additive-model/</link>
       <pubDate>Thu, 06 Aug 2026 14:42:08 +0800</pubDate>
@@ -342,33 +369,6 @@
       <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/simulation-metamodeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effective Optimism</title>
-      <link>https://xiaoweiz.github.io/tags/effective-optimism/</link>
-      <pubDate>Wed, 20 May 2026 10:09:14 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/effective-optimism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GP-UCB</title>
-      <link>https://xiaoweiz.github.io/tags/gp-ucb/</link>
-      <pubDate>Wed, 20 May 2026 10:09:14 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/gp-ucb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regret Lower Bound</title>
-      <link>https://xiaoweiz.github.io/tags/regret-lower-bound/</link>
-      <pubDate>Wed, 20 May 2026 10:09:14 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/regret-lower-bound/</guid>
       <description></description>
     </item>
     
