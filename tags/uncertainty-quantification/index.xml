@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncertainty Quantification on Xiaowei Zhang</title>
-    <link>https://xiaoweiz.github.io/tags/uncertainty-quantification/</link>
+    <link>http://localhost:1313/tags/uncertainty-quantification/</link>
     <description>Recent content in Uncertainty Quantification on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 04 Mar 2026 15:34:23 +0800</lastBuildDate>
     
-	    <atom:link href="https://xiaoweiz.github.io/tags/uncertainty-quantification/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:1313/tags/uncertainty-quantification/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&#39;&#39;Over-Optimizing&#39;&#39; for Normality: Budget-Constrained Uncertainty Quantification for Contextual Decision-Making</title>
-      <link>https://xiaoweiz.github.io/publication/wsaa/</link>
+      <link>http://localhost:1313/publication/wsaa/</link>
       <pubDate>Wed, 04 Mar 2026 15:34:23 +0800</pubDate>
       
-      <guid>https://xiaoweiz.github.io/publication/wsaa/</guid>
+      <guid>http://localhost:1313/publication/wsaa/</guid>
       <description></description>
     </item>
     
