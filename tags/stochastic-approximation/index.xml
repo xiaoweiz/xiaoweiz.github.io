@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stochastic Approximation on Xiaowei Zhang</title>
-    <link>http://localhost:1313/tags/stochastic-approximation/</link>
+    <link>https://xiaoweiz.github.io/tags/stochastic-approximation/</link>
     <description>Recent content in Stochastic Approximation on Xiaowei Zhang</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 24 Sep 2026 21:51:47 +0800</lastBuildDate>
     
-	    <atom:link href="http://localhost:1313/tags/stochastic-approximation/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xiaoweiz.github.io/tags/stochastic-approximation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shrinking-Tube Concentration for Adaptive Markovian Stochastic Approximation</title>
-      <link>http://localhost:1313/publication/shrinking-tube/</link>
+      <link>https://xiaoweiz.github.io/publication/shrinking-tube/</link>
       <pubDate>Thu, 24 Sep 2026 21:51:47 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/shrinking-tube/</guid>
+      <guid>https://xiaoweiz.github.io/publication/shrinking-tube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymptotic Theory for IV-Based Reinforcement Learning with Potential Endogeneity</title>
-      <link>http://localhost:1313/publication/causal-rl/</link>
+      <link>https://xiaoweiz.github.io/publication/causal-rl/</link>
       <pubDate>Fri, 21 Aug 2026 00:51:44 +0800</pubDate>
       
-      <guid>http://localhost:1313/publication/causal-rl/</guid>
+      <guid>https://xiaoweiz.github.io/publication/causal-rl/</guid>
       <description></description>
     </item>
     
