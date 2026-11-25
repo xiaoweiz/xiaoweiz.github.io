@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 04:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/research_areas/service-operations-digital-platforms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title>
+      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Scale Diffusion Approximations for Many-Server Queues with Overdispersed Arrivals</title>
+      <link>https://xiaoweiz.github.io/publication/diffusion-approx/</link>
+      <pubDate>Tue, 24 Nov 2026 22:56:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/publication/diffusion-approx/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Effects, Missing Distributions: Evaluating LLMs as Human-Behavior Simulators in Operations Management</title>
@@ -36,15 +54,6 @@
       <pubDate>Sun, 26 Jul 2026 21:28:42 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/publication/cloud-service-depoly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Staffing under Taylor&#39;s Law: A Unifying Framework for Bridging Square-Root and Linear Safety Rules</title>
-      <link>https://xiaoweiz.github.io/publication/taylor-staffing/</link>
-      <pubDate>Thu, 23 Apr 2026 23:15:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/publication/taylor-staffing/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,73 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 04:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://xiaoweiz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Doubly Stochastic Poisson Process</title>
+      <link>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</link>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over-Dispersion</title>
+      <link>https://xiaoweiz.github.io/tags/over-dispersion/</link>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/over-dispersion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing Rule</title>
+      <link>https://xiaoweiz.github.io/tags/staffing-rule/</link>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/staffing-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor&#39;s Law</title>
+      <link>https://xiaoweiz.github.io/tags/taylors-law/</link>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/taylors-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Approximation</title>
+      <link>https://xiaoweiz.github.io/tags/diffusion-approximation/</link>
+      <pubDate>Tue, 24 Nov 2026 22:56:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/diffusion-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overdispersion</title>
+      <link>https://xiaoweiz.github.io/tags/overdispersion/</link>
+      <pubDate>Tue, 24 Nov 2026 22:56:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/overdispersion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stein’s Method</title>
+      <link>https://xiaoweiz.github.io/tags/steins-method/</link>
+      <pubDate>Tue, 24 Nov 2026 22:56:41 +0800</pubDate>
+      
+      <guid>https://xiaoweiz.github.io/tags/steins-method/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behavioral Operations Management</title>
@@ -369,42 +432,6 @@
       <pubDate>Sun, 14 Jun 2026 08:53:22 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/simulation-metamodeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Doubly Stochastic Poisson Process</title>
-      <link>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</link>
-      <pubDate>Thu, 23 Apr 2026 23:15:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/doubly-stochastic-poisson-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Over-Dispersion</title>
-      <link>https://xiaoweiz.github.io/tags/over-dispersion/</link>
-      <pubDate>Thu, 23 Apr 2026 23:15:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/over-dispersion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Staffing Rule</title>
-      <link>https://xiaoweiz.github.io/tags/staffing-rule/</link>
-      <pubDate>Thu, 23 Apr 2026 23:15:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/staffing-rule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taylor&#39;s Law</title>
-      <link>https://xiaoweiz.github.io/tags/taylors-law/</link>
-      <pubDate>Thu, 23 Apr 2026 23:15:21 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/taylors-law/</guid>
       <description></description>
     </item>
     
@@ -990,15 +1017,6 @@
       <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
       
       <guid>https://xiaoweiz.github.io/tags/arrival-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overdispersion</title>
-      <link>https://xiaoweiz.github.io/tags/overdispersion/</link>
-      <pubDate>Wed, 10 Dec 2014 18:06:44 +0800</pubDate>
-      
-      <guid>https://xiaoweiz.github.io/tags/overdispersion/</guid>
       <description></description>
     </item>
     
